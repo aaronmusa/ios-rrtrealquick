@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AnswerKeyAlertView" customModule="RRTRealQuick" customModuleProvider="target">
+            <connections>
+                <outlet property="contentView" destination="Frc-ul-05X" id="I7O-cL-qND"/>
+                <outlet property="descTextView" destination="mSo-fQ-JbZ" id="OPO-2s-ZwZ"/>
+                <outlet property="dismissButton" destination="Qrx-QT-CHB" id="2Kz-sm-tNZ"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="Frc-ul-05X">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="383"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="natural" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mSo-fQ-JbZ">
+                    <rect key="frame" x="20" y="20" width="335" height="269"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                    <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="20"/>
+                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                </textView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qrx-QT-CHB" customClass="AMButton" customModule="RRTRealQuick" customModuleProvider="target">
+                    <rect key="frame" x="0.0" y="319" width="375" height="44"/>
+                    <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="44" id="jXc-tR-0JQ"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                    <state key="normal" title="A.">
+                        <color key="titleColor" red="0.93333333330000001" green="0.93333333330000001" blue="0.93333333330000001" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="didTapDismissButton:" destination="-1" eventType="touchUpInside" id="nZf-Xj-VbD"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="mSo-fQ-JbZ" firstAttribute="trailing" secondItem="Ygj-lq-brl" secondAttribute="trailing" constant="-20" id="2eo-Xj-yUb"/>
+                <constraint firstItem="Qrx-QT-CHB" firstAttribute="leading" secondItem="Ygj-lq-brl" secondAttribute="leading" id="5h5-Jj-2MF"/>
+                <constraint firstItem="Ygj-lq-brl" firstAttribute="bottom" secondItem="Qrx-QT-CHB" secondAttribute="bottom" constant="20" id="BiF-e7-GeC"/>
+                <constraint firstItem="mSo-fQ-JbZ" firstAttribute="leading" secondItem="Ygj-lq-brl" secondAttribute="leading" constant="20" id="QMe-dC-bGC"/>
+                <constraint firstItem="Qrx-QT-CHB" firstAttribute="trailing" secondItem="Ygj-lq-brl" secondAttribute="trailing" id="SOm-yI-tR2"/>
+                <constraint firstItem="Qrx-QT-CHB" firstAttribute="top" secondItem="mSo-fQ-JbZ" secondAttribute="bottom" constant="30" id="d33-Ef-Tl0"/>
+                <constraint firstItem="mSo-fQ-JbZ" firstAttribute="top" secondItem="Ygj-lq-brl" secondAttribute="top" constant="20" id="rNZ-Ql-dqK"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="Ygj-lq-brl"/>
+            <point key="canvasLocation" x="-807.20000000000005" y="-622.03898050974522"/>
+        </view>
+    </objects>
+</document>
