@@ -12,20 +12,28 @@ import RealmSwift
 struct Question {
     var id: String?
     var text: String?
-    var answer: Answer?
+    var answer: String?
+    var chosenAnswer: String?
     
     init(json: [String: Any]) {
-        id = UUID().uuidString
+        if let id = json["_id"] as? String {
+            self.id = id
+        } else {
+            id = UUID().uuidString
+        }
+        
         text = json["question"] as? String
-        answer = Answer(json["answer"] as? String)
+        answer = json["answer"] as? String
     }
     
     init(_ rlmQuestion: RealmQuestion) {
         id = rlmQuestion.id
         text = rlmQuestion.text
-        if let rlmAnswer = rlmQuestion.answer {
-            self.answer = Answer(rlmAnswer)
-        }
+        answer = rlmQuestion.answer
+    }
+    
+    mutating func setChosenAnswer(_ answer: String) {
+        chosenAnswer = answer
     }
 }
 
@@ -33,10 +41,10 @@ struct Question {
 class RealmQuestion: Object {
     dynamic var id: String? = nil
     dynamic var text: String? = nil
-    dynamic var answer: RealmAnswer?
+    dynamic var answer: String? = nil
     
     override static func primaryKey() -> String? {
-        return "text"
+        return "id"
     }
     
     convenience init(_ question: Question) {
@@ -44,9 +52,7 @@ class RealmQuestion: Object {
         
         id = question.id
         text = question.text
-        if let answer = question.answer {
-            self.answer = RealmAnswer(answer)
-        }
+        answer = question.answer
         
     }
 }

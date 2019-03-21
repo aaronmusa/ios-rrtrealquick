@@ -11,6 +11,7 @@ import UIKit
 class BaseViewController: UIViewController {
     
     let repository = Repository.shared
+    let cacheManager = CacheManager.shared
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -25,6 +26,20 @@ class BaseViewController: UIViewController {
     
     func setupView() {
         
+    }
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        if segue.identifier == Segue.showResultsView {
+            guard let destinationVc = segue.destination as? ResultViewController, let answeredQuestions = sender as? [Question] else { return }
+            
+            destinationVc.answeredQuestions = answeredQuestions
+        }
+        
+        if segue.identifier == Segue.showSummaryView {
+            guard let destinationVc = segue.destination as? SummaryViewController, let answeredQuestions = sender as? [Question] else { return }
+            
+            destinationVc.answeredQuestions = answeredQuestions
+        }
     }
 
 

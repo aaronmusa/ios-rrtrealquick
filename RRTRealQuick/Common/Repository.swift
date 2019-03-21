@@ -13,41 +13,23 @@ class Repository {
     
     static let shared = Repository()
     let dataStore = DataStore.shared
+    let cacheManager = CacheManager.shared
     
-    func getQuestions(successHandler success: @escaping ([Question]) -> Void,
-                  errorHandler error: @escaping (NSError) -> Void) {
+    func getQuestions(successHandler success: @escaping ([Question], [String]) -> Void) {
         if let pathUrl = Bundle.main.url(forResource: "glossary", withExtension: "json") {
             let jsonString = try! String(contentsOf: pathUrl, encoding: .utf8)
             let json = try! JSON(data: jsonString.data(using: .utf8) ?? Data())
             let responseDict = json.arrayValue.map { $0.dictionaryObject ?? [:] }
             
-            let questions = responseDict.map { Question(json: $0) }
+            var questions = responseDict.map { Question(json: $0) }
+            var filteredQuestions = [Question]()
             
-            let rlmQuestions = questions.map { RealmQuestion($0) }
-            
-            let dispatchGroup = DispatchGroup()
-            
-            rlmQuestions.forEach { rlmQuestion in
-                dispatchGroup.enter()
-                self.dataStore.write(object: rlmQuestion, success: {
-                    dispatchGroup.leave()
-                })
+            for _ in 1...cacheManager.numberOfItems {
+                let index = Int.random(in: 0...(questions.count - 1))
+                filteredQuestions.append(questions[index])
             }
             
-            dispatchGroup.notify(queue: .main) {
-                success(questions)
-            }
-        }
-    }
-    
-    func getAnswers(successHandler success: @escaping ([Answer]) -> Void,
-                  errorHandler error: @escaping (NSError) -> Void) {
-        
-        
-        dataStore.fetch(from: RealmAnswer.self) { rlmAnswers in
-            let answers = rlmAnswers.map { Answer($0) }
-            
-            success(answers)
+            success(filteredQuestions, questions.map { $0.answer ?? "" })
         }
     }
     

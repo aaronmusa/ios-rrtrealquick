@@ -15,48 +15,77 @@
                 <outlet property="contentView" destination="Frc-ul-05X" id="I7O-cL-qND"/>
                 <outlet property="descTextView" destination="mSo-fQ-JbZ" id="OPO-2s-ZwZ"/>
                 <outlet property="dismissButton" destination="Qrx-QT-CHB" id="2Kz-sm-tNZ"/>
+                <outlet property="resultTitleLabel" destination="z1R-kb-la7" id="ciW-Vo-lLe"/>
             </connections>
         </placeholder>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
         <view contentMode="scaleToFill" id="Frc-ul-05X">
-            <rect key="frame" x="0.0" y="0.0" width="375" height="383"/>
+            <rect key="frame" x="0.0" y="0.0" width="375" height="644"/>
             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
             <subviews>
-                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="natural" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mSo-fQ-JbZ">
-                    <rect key="frame" x="20" y="20" width="335" height="269"/>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="3Yc-38-q2A">
+                    <rect key="frame" x="10" y="170" width="355" height="324"/>
+                    <subviews>
+                        <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mSo-fQ-JbZ">
+                            <rect key="frame" x="20" y="80" width="315" height="150"/>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="150" id="Kcn-5n-5ly"/>
+                            </constraints>
+                            <string key="text">The correct answer is
+
+ eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="20"/>
+                            <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                        </textView>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qrx-QT-CHB" customClass="AMButton" customModule="RRTRealQuick" customModuleProvider="target">
+                            <rect key="frame" x="20" y="260" width="315" height="44"/>
+                            <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="44" id="jXc-tR-0JQ"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                            <state key="normal" title="dismiss">
+                                <color key="titleColor" red="0.93333333330000001" green="0.93333333330000001" blue="0.93333333330000001" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="didTapDismissButton:" destination="-1" eventType="touchUpInside" id="nZf-Xj-VbD"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="You were right!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="z1R-kb-la7">
+                            <rect key="frame" x="20" y="20" width="315" height="50"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="50" id="6bo-nq-BKZ"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="HelveticaNeue-CondensedBlack" family="Helvetica Neue" pointSize="29"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
                     <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                    <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
-                    <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="20"/>
-                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
-                </textView>
-                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qrx-QT-CHB" customClass="AMButton" customModule="RRTRealQuick" customModuleProvider="target">
-                    <rect key="frame" x="0.0" y="319" width="375" height="44"/>
-                    <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     <constraints>
-                        <constraint firstAttribute="height" constant="44" id="jXc-tR-0JQ"/>
+                        <constraint firstAttribute="bottom" secondItem="Qrx-QT-CHB" secondAttribute="bottom" constant="20" id="7Ec-ot-TfW"/>
+                        <constraint firstAttribute="trailing" secondItem="mSo-fQ-JbZ" secondAttribute="trailing" constant="20" id="8lR-Pz-dIj"/>
+                        <constraint firstItem="mSo-fQ-JbZ" firstAttribute="top" secondItem="z1R-kb-la7" secondAttribute="bottom" constant="10" id="CFR-om-yxd"/>
+                        <constraint firstItem="z1R-kb-la7" firstAttribute="top" secondItem="3Yc-38-q2A" secondAttribute="top" constant="20" id="E7u-1E-3sv"/>
+                        <constraint firstItem="Qrx-QT-CHB" firstAttribute="leading" secondItem="3Yc-38-q2A" secondAttribute="leading" constant="20" id="Qoy-RX-Ue5"/>
+                        <constraint firstAttribute="trailing" secondItem="Qrx-QT-CHB" secondAttribute="trailing" constant="20" id="Vu5-ox-PUf"/>
+                        <constraint firstItem="mSo-fQ-JbZ" firstAttribute="leading" secondItem="3Yc-38-q2A" secondAttribute="leading" constant="20" id="fZU-So-Ufw"/>
+                        <constraint firstItem="z1R-kb-la7" firstAttribute="leading" secondItem="3Yc-38-q2A" secondAttribute="leading" constant="20" id="gxL-Sg-1Ha"/>
+                        <constraint firstItem="Qrx-QT-CHB" firstAttribute="top" secondItem="mSo-fQ-JbZ" secondAttribute="bottom" constant="30" id="n1l-oW-o3f"/>
+                        <constraint firstAttribute="trailing" secondItem="z1R-kb-la7" secondAttribute="trailing" constant="20" id="uYn-D0-9MC"/>
                     </constraints>
-                    <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
-                    <state key="normal" title="A.">
-                        <color key="titleColor" red="0.93333333330000001" green="0.93333333330000001" blue="0.93333333330000001" alpha="1" colorSpace="calibratedRGB"/>
-                    </state>
-                    <connections>
-                        <action selector="didTapDismissButton:" destination="-1" eventType="touchUpInside" id="nZf-Xj-VbD"/>
-                    </connections>
-                </button>
+                </view>
             </subviews>
-            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <color key="backgroundColor" white="0.0" alpha="0.4045109160958904" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
             <constraints>
-                <constraint firstItem="mSo-fQ-JbZ" firstAttribute="trailing" secondItem="Ygj-lq-brl" secondAttribute="trailing" constant="-20" id="2eo-Xj-yUb"/>
-                <constraint firstItem="Qrx-QT-CHB" firstAttribute="leading" secondItem="Ygj-lq-brl" secondAttribute="leading" id="5h5-Jj-2MF"/>
-                <constraint firstItem="Ygj-lq-brl" firstAttribute="bottom" secondItem="Qrx-QT-CHB" secondAttribute="bottom" constant="20" id="BiF-e7-GeC"/>
-                <constraint firstItem="mSo-fQ-JbZ" firstAttribute="leading" secondItem="Ygj-lq-brl" secondAttribute="leading" constant="20" id="QMe-dC-bGC"/>
-                <constraint firstItem="Qrx-QT-CHB" firstAttribute="trailing" secondItem="Ygj-lq-brl" secondAttribute="trailing" id="SOm-yI-tR2"/>
-                <constraint firstItem="Qrx-QT-CHB" firstAttribute="top" secondItem="mSo-fQ-JbZ" secondAttribute="bottom" constant="30" id="d33-Ef-Tl0"/>
-                <constraint firstItem="mSo-fQ-JbZ" firstAttribute="top" secondItem="Ygj-lq-brl" secondAttribute="top" constant="20" id="rNZ-Ql-dqK"/>
+                <constraint firstItem="Ygj-lq-brl" firstAttribute="trailing" secondItem="3Yc-38-q2A" secondAttribute="trailing" constant="10" id="8rp-ne-9lk"/>
+                <constraint firstItem="3Yc-38-q2A" firstAttribute="leading" secondItem="Ygj-lq-brl" secondAttribute="leading" constant="10" id="ThF-HY-17w"/>
+                <constraint firstItem="3Yc-38-q2A" firstAttribute="centerY" secondItem="Ygj-lq-brl" secondAttribute="centerY" id="aHS-Eq-Snx"/>
             </constraints>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
             <viewLayoutGuide key="safeArea" id="Ygj-lq-brl"/>
-            <point key="canvasLocation" x="-807.20000000000005" y="-622.03898050974522"/>
+            <point key="canvasLocation" x="-807.20000000000005" y="-504.64767616191909"/>
         </view>
     </objects>
 </document>
