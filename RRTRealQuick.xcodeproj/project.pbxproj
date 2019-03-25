@@ -21,7 +21,13 @@
 		EC0F57AA224280E100FB350B /* AnswerKeyAlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0F57A9224280E100FB350B /* AnswerKeyAlertView.swift */; };
 		EC0F57AC2242868700FB350B /* Repository.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0F57AB2242868700FB350B /* Repository.swift */; };
 		EC0F57AE224286AB00FB350B /* DataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0F57AD224286AB00FB350B /* DataStore.swift */; };
-		EC0F57B122428BDF00FB350B /* glossary.json in Resources */ = {isa = PBXBuildFile; fileRef = EC0F57B022428BDF00FB350B /* glossary.json */; };
+		EC98373A2249272F00737D8F /* RadBiology.json in Resources */ = {isa = PBXBuildFile; fileRef = EC9837372249272F00737D8F /* RadBiology.json */; };
+		EC98373B2249272F00737D8F /* Chapter1.json in Resources */ = {isa = PBXBuildFile; fileRef = EC9837382249272F00737D8F /* Chapter1.json */; };
+		EC98373E2249275500737D8F /* Glossary.json in Resources */ = {isa = PBXBuildFile; fileRef = EC98373D2249275500737D8F /* Glossary.json */; };
+		EC983740224928ED00737D8F /* ChooseSubjectAlertView.xib in Resources */ = {isa = PBXBuildFile; fileRef = EC98373F224928ED00737D8F /* ChooseSubjectAlertView.xib */; };
+		EC983742224929D600737D8F /* ChooseSubjectAlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC983741224929D600737D8F /* ChooseSubjectAlertView.swift */; };
+		EC98374A22493D1000737D8F /* Chapter2.json in Resources */ = {isa = PBXBuildFile; fileRef = EC98374822493D1000737D8F /* Chapter2.json */; };
+		EC98374B22493D1000737D8F /* Chapter3.json in Resources */ = {isa = PBXBuildFile; fileRef = EC98374922493D1000737D8F /* Chapter3.json */; };
 		ECF3C3AE2243C75700515C04 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF3C3AD2243C75700515C04 /* ResultViewController.swift */; };
 		ECF3C3B12243CFDA00515C04 /* SummaryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF3C3B02243CFDA00515C04 /* SummaryCell.swift */; };
 		ECF3C3B32243D00200515C04 /* SummaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF3C3B22243D00200515C04 /* SummaryViewController.swift */; };
@@ -47,7 +53,13 @@
 		EC0F57A9224280E100FB350B /* AnswerKeyAlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerKeyAlertView.swift; sourceTree = "<group>"; };
 		EC0F57AB2242868700FB350B /* Repository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Repository.swift; sourceTree = "<group>"; };
 		EC0F57AD224286AB00FB350B /* DataStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataStore.swift; sourceTree = "<group>"; };
-		EC0F57B022428BDF00FB350B /* glossary.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = glossary.json; path = ../../../../../Desktop/glossary.json; sourceTree = "<group>"; };
+		EC9837372249272F00737D8F /* RadBiology.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = RadBiology.json; sourceTree = "<group>"; };
+		EC9837382249272F00737D8F /* Chapter1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Chapter1.json; sourceTree = "<group>"; };
+		EC98373D2249275500737D8F /* Glossary.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Glossary.json; sourceTree = "<group>"; };
+		EC98373F224928ED00737D8F /* ChooseSubjectAlertView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ChooseSubjectAlertView.xib; sourceTree = "<group>"; };
+		EC983741224929D600737D8F /* ChooseSubjectAlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseSubjectAlertView.swift; sourceTree = "<group>"; };
+		EC98374822493D1000737D8F /* Chapter2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Chapter2.json; sourceTree = "<group>"; };
+		EC98374922493D1000737D8F /* Chapter3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Chapter3.json; sourceTree = "<group>"; };
 		ECF3C3AD2243C75700515C04 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		ECF3C3B02243CFDA00515C04 /* SummaryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummaryCell.swift; sourceTree = "<group>"; };
 		ECF3C3B22243D00200515C04 /* SummaryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummaryViewController.swift; sourceTree = "<group>"; };
@@ -163,6 +175,7 @@
 			children = (
 				EC0F57A122427F3800FB350B /* AMButton.swift */,
 				EC0F57A9224280E100FB350B /* AnswerKeyAlertView.swift */,
+				EC983741224929D600737D8F /* ChooseSubjectAlertView.swift */,
 			);
 			path = Custom;
 			sourceTree = "<group>";
@@ -182,6 +195,7 @@
 			isa = PBXGroup;
 			children = (
 				EC0F57A72242807000FB350B /* AnswerKeyAlertView.xib */,
+				EC98373F224928ED00737D8F /* ChooseSubjectAlertView.xib */,
 			);
 			path = Xib;
 			sourceTree = "<group>";
@@ -189,7 +203,11 @@
 		EC0F57AF22428BCE00FB350B /* Json Files */ = {
 			isa = PBXGroup;
 			children = (
-				EC0F57B022428BDF00FB350B /* glossary.json */,
+				EC98374822493D1000737D8F /* Chapter2.json */,
+				EC98374922493D1000737D8F /* Chapter3.json */,
+				EC98373D2249275500737D8F /* Glossary.json */,
+				EC9837382249272F00737D8F /* Chapter1.json */,
+				EC9837372249272F00737D8F /* RadBiology.json */,
 			);
 			path = "Json Files";
 			sourceTree = "<group>";
@@ -262,11 +280,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC98374A22493D1000737D8F /* Chapter2.json in Resources */,
 				EC0F57A82242807000FB350B /* AnswerKeyAlertView.xib in Resources */,
-				EC0F57B122428BDF00FB350B /* glossary.json in Resources */,
+				EC98373E2249275500737D8F /* Glossary.json in Resources */,
+				EC98374B22493D1000737D8F /* Chapter3.json in Resources */,
+				EC983740224928ED00737D8F /* ChooseSubjectAlertView.xib in Resources */,
+				EC98373B2249272F00737D8F /* Chapter1.json in Resources */,
 				EC0F578F2242792900FB350B /* LaunchScreen.storyboard in Resources */,
 				EC0F578C2242792900FB350B /* Assets.xcassets in Resources */,
 				EC0F578A2242792700FB350B /* Main.storyboard in Resources */,
+				EC98373A2249272F00737D8F /* RadBiology.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -332,6 +355,7 @@
 				EC0F579F22427E3800FB350B /* QuestionnaireViewController.swift in Sources */,
 				EC0F57872242792700FB350B /* BaseViewController.swift in Sources */,
 				EC0F57AE224286AB00FB350B /* DataStore.swift in Sources */,
+				EC983742224929D600737D8F /* ChooseSubjectAlertView.swift in Sources */,
 				ECF3C3B12243CFDA00515C04 /* SummaryCell.swift in Sources */,
 				EC0F57852242792700FB350B /* AppDelegate.swift in Sources */,
 				ECF3C3B72243E55400515C04 /* CacheManager.swift in Sources */,

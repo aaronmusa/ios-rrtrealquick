@@ -25,6 +25,7 @@ class QuestionnaireViewController: BaseViewController {
     @IBOutlet weak var choiceB: AMButton!
     @IBOutlet weak var choiceA: AMButton!
     
+    var subject: Subject = .glossary
     var questions = [Question]()
     var answers = [String]()
     
@@ -47,7 +48,7 @@ class QuestionnaireViewController: BaseViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        repository.getQuestions(successHandler: { questions, answers  in
+        repository.getQuestions(subject: subject, successHandler: { questions, answers  in
             self.questions = questions
             self.answers = answers
             

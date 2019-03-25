@@ -11,4 +11,5 @@ import Foundation
 struct Segue {
     static let showResultsView = "ShowResultsView"
     static let showSummaryView = "ShowSummaryView"
+    static let ShowQuestionnaire = "ShowQuestionnaire"
 }

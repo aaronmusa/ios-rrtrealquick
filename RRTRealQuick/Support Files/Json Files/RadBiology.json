@@ -1,0 +1,2662 @@
+[
+  {
+    "question": "What is the observed radiation response in atomic bomb survivors? ",
+    "answer": "Malignant Disease"
+  },
+  {
+    "question": "When the incidence of the response increases with increasing radiation absorbed dose, it is called?",
+    "answer": "Stochastic Effect"
+  },
+  {
+    "question": "What is the observed radiation response in Uranium miners? ",
+    "answer": "Lung Cancer"
+  },
+  {
+    "question": "What is the observed radiation response in patients who has been irradiated in the utero? ",
+    "answer": "Childhood malignancy"
+  },
+  {
+    "question": "Which of the following is an example of stochastic effect of radiation on human? ",
+    "answer": "Lifespan shortening "
+  },
+  {
+    "question": "Which of the following are the observed radiation responses in American technologist ? ",
+    "answer": "Leukemia and Lifespan shortening"
+  },
+  {
+    "question": "What is the LET of fast neutrons? ",
+    "answer": "50 keV/um"
+  },
+  {
+    "question": "The radiation response on human is the result of interactions of radiation at what level?",
+    "answer": "Atomic Level"
+  },
+  {
+    "question": "Which of the following is an example of deterministic effect of radiation on humans?",
+    "answer": "Acute radiation syndrome"
+  },
+  {
+    "question": "What is the observed radiation response in Radium watch-dial painters?",
+    "answer": "Bone Cancer"
+  },
+  {
+    "question": "What is the observed radiation response in volunteer convicts?",
+    "answer": "Fertility impairment "
+  },
+  {
+    "question": "Irradiation of fetus may result in?",
+    "answer": "Prenatal death and Childhood Pregnancy"
+  },
+  {
+    "question": "When the severity of the response increases with increasing radiation absorbed dose, this is considered a/an ?",
+    "answer": "Deterministic Effect"
+  },
+  {
+    "question": "What is the observed radiation response in cyclotron workers?",
+    "answer": "Cataracts"
+  },
+  {
+    "question": "Which of the following is an example of nonstochastic effect of radiation on humans?",
+    "answer": "Acute radiation syndrome"
+  },
+  {
+    "question": "Human responses to radiation are experimentally observed in?",
+    "answer": "Animals"
+  },
+  {
+    "question": "This is the study of the effect of ionizing radiation on human tissue.",
+    "answer": "Radiobiology"
+  },
+  {
+    "question": "Radiation can be applied to human tissue for? ",
+    "answer": "Diagnosis and Theraphy"
+  },
+  {
+    "question": "What is the LET of 5 Mev alpha particles? ",
+    "answer": "100 keV/um"
+  },
+  {
+    "question": "This can be used to predict and manage the responses on radiation exposure. ",
+    "answer": "Dose-response relationship"
+  },
+  {
+    "question": "Which of the following body composition determines the character and degree of the radiation interaction that occurs?",
+    "answer": "Atomic "
+  },
+  {
+    "question": "Which of the following body composition determines the nature of the radiation response. ",
+    "answer": "Molecular and Tissue"
+  },
+  {
+    "question": "What is the observed radiation response in radiation accident victims in Chernobyl? ",
+    "answer": "Acute radiation lethality "
+  },
+  {
+    "question": "Which of the following atomic composition of the body is/are composed of more than 85 %? ",
+    "answer": "Hydrogen and Oxygen"
+  },
+  {
+    "question": "Who first named the cell as biologic building block of matter? ",
+    "answer": "Robert Hooke"
+  },
+  {
+    "question": "What is the observed radiation response in patients who underwent thorotrast studies?",
+    "answer": "Liver Cancer"
+  },
+  {
+    "question": "Which of the following types of molecules is not considered macromolecules? ",
+    "answer": "Water"
+  },
+  {
+    "question": "The body is composed of very large molecules called? ",
+    "answer": "Macromolecules"
+  },
+  {
+    "question": "Who described the molecular structure of DNA as a genetic substance of the cell?",
+    "answer": "Watson and Crick "
+  },
+  {
+    "question": "It refers to the mathematical and graphical function that relates radiation dose to observed response? ",
+    "answer": "Dose-response relationship"
+  },
+  {
+    "question": "What is the main goal of the study of radiobiology ?  ",
+    "answer": "To understand the dose-response relationship"
+  },
+  {
+    "question": "Which of the following states that the radiosensitivity of tissue depends on their maturation and metabolism? ",
+    "answer": "Law of Bergonie and Tribondeau "
+  },
+  {
+    "question": "What is the LET of 60^Co gamma rays? ",
+    "answer": "0.3 keV/um"
+  },
+  {
+    "question": "What is the LET of 1 mEv electrons?",
+    "answer": "0.3 keV/um "
+  },
+  {
+    "question": "Precursor cells are radiosensitive while mature cells are radioresistant, Tissues with high proliferation and high growth rate are radiosensitive, and Younger tissues and organs are radiosensitive. All this statement are true about? ",
+    "answer": "Radiosensitivity"
+  },
+  {
+    "question": "Linear energy transfer , Relative biologic Effectiveness, and Protraction and Fractionation. All of the following are? ",
+    "answer": "Physical Factors that affect radiosensitivity"
+  },
+  {
+    "question": "It refers to a measure of the rate at which energy is transferred from ionizing radiation to soft tissue.",
+    "answer": "LET"
+  },
+  {
+    "question": "LET is another method of expressing radiation ____. ",
+    "answer": "Quality"
+  },
+  {
+    "question": "What is the LET of diagnostic x-rays? ",
+    "answer": "3 keV/ um"
+  },
+  {
+    "question": "This is used to determine the degree of main-chain scission occurred in the solution ?",
+    "answer": "Laboratory experiments"
+  },
+  {
+    "question": "This occurs when the spurlike side structures of the macromolecules are attached to the adjacent macromolecules. ",
+    "answer": "Cross-linking "
+  },
+  {
+    "question": "Cross-linking will result in a /an ? ",
+    "answer": "Increased viscosity of the solution"
+  },
+  {
+    "question": "What is the LET of heavy nuclei? ",
+    "answer": "1000 keV/um"
+  },
+  {
+    "question": "It may cause the reduction of the size of a long chain macromolecules due to backbone breakage",
+    "answer": "Main-chain scission"
+  },
+  {
+    "question": "This causes an altered areas or a minor modification by breaking of a single chemical bound in a molecule.",
+    "answer": "Point lesion"
+  },
+  {
+    "question": "It can result in the probabilistic effects observed at whole-body level , It is reversible , It is not detectable. All of the following statements are true about? ",
+    "answer": "Point lesions"
+  },
+  {
+    "question": "What is the LET of 25 mV x-rays? ",
+    "answer": "0.2 keV/um"
+  },
+  {
+    "question": "This is the metabolic production of very large molecules",
+    "answer": "Macromolecular synsthesis "
+  },
+  {
+    "question": "Cellular transformation can result in a/an?",
+    "answer": "Stochastic Effect"
+  },
+  {
+    "question": "Necrosis can result in a/an?",
+    "answer": "Nonstochastic Effect "
+  },
+  {
+    "question": "What is the LET of 10 meV protons? ",
+    "answer": "4 keV/um"
+  },
+  {
+    "question": "At very low radiation doses , there may be no?",
+    "answer": "Prodromal period"
+  },
+  {
+    "question": "This states that cell death occurs only on the target molecule after radiation exposure if it is inactivated or ionized. ",
+    "answer": "Traget Theory"
+  },
+  {
+    "question": "The target theory is mainly used to represent? ",
+    "answer": "Cell lethality "
+  },
+  {
+    "question": "It can be used to represent cell lethality. The target is area is area of the cell occupied by the target molecule or the sensitive site on the target molecule, and It is used to describe the nonlethal radiation-induced cell abnormalities. All statements are true about? ",
+    "answer": "Traget theory"
+  },
+  {
+    "question": "No clinical signs and symptoms of radiation sickness can be observed during? ",
+    "answer": "Latent Period"
+  },
+  {
+    "question": "The radiation interaction on a target molecule occurs ?",
+    "answer": "Randomly "
+  },
+  {
+    "question": "It occurs when the radiation interacts with the critical target molecule.",
+    "answer": "Hit"
+  },
+  {
+    "question": "What is the first technique used to monitor radiation exposue of early radiologic technologist? ",
+    "answer": "Routine Blood Examination"
+  },
+  {
+    "question": "Most commonly occurs in diagnostic radiology? ",
+    "answer": "Partial irradiation, low radiation exposure"
+  },
+  {
+    "question": "What is the most severe response of radiation exposure?",
+    "answer": "Death"
+  },
+  {
+    "question": "Which of the following may occur as a result of exposure to diagnostic x-ray beam?",
+    "answer": "Genetic Effects "
+  },
+  {
+    "question": "Working in nuclear power industry is?",
+    "answer": "Safe occupation"
+  },
+  {
+    "question": "It is characterized by a general feeling of wellness.",
+    "answer": "Latent Period"
+  },
+  {
+    "question": "Probilistic effects of radiation occurs because of ? ",
+    "answer": "Low doses delivered in long period of time"
+  },
+  {
+    "question": "This period is commonly mistaken as an indication of early recovery from moderate radiation exposure?",
+    "answer": "Latent Period"
+  },
+  {
+    "question": "At very high radiation doses, there may be no? ",
+    "answer": "Latent Period"
+  },
+  {
+    "question": "A condition that causes the skin of the extremities to become very tight and brittle, very callused , discolored , weathered appearance.",
+    "answer": "Radiodermatitis "
+  },
+  {
+    "question": "This is the more serious early consequences of radiation sickness that usually occur after a very high-level radiation exposure leading to death within few days or weeks.",
+    "answer": "Acute radiation syndrome "
+  },
+  {
+    "question": "Acute radiation-induced syndrome occurs after whole body dose _____ of ionizing radiation given in a short period of time.",
+    "answer": "100 rad"
+  },
+  {
+    "question": "A radiation doses of greater than 5000 rad (50 Gyt) given in short period of time will result in?",
+    "answer": "CNS syndrome"
+  },
+  {
+    "question": "A radiation doses of approximately 1000-5000 rad (10-50 Gyt) given in a short period of time will result in?",
+    "answer": "GI syndrome"
+  },
+  {
+    "question": "The radiation exposure that is experience by the radiologic technologist are?",
+    "answer": "Low dose"
+  },
+  {
+    "question": "The radiation protection guidelines are based on? ",
+    "answer": "Stochastic effects of radiation and Linear- nonthreshold dose-response curve"
+  },
+  {
+    "question": "This is the immediate response after substantial radiation dose delivered to the whole-body.",
+    "answer": "Prodromal period "
+  },
+  {
+    "question": "Nausea and Vomiting, Diarrhea and Leukopenia. All of the following symptoms are associated with? ",
+    "answer": "Prodromal period "
+  },
+  {
+    "question": "This is the time after radiation exposure during which the period of apparent well-being occurs. ",
+    "answer": "Latent Period"
+  },
+  {
+    "question": "Chronic irradiation of the blood-forming organ may result in? ",
+    "answer": "Leukemia "
+  },
+  {
+    "question": "A radiation doses of approximately 200-1000 rad (2-10 Gyt) given in a short period of time will result in?",
+    "answer": "Hematologic Syndrome"
+  },
+  {
+    "question": "Acute irradiation of the blood-forming organ may result in ?",
+    "answer": "Hematologic Depression "
+  },
+  {
+    "question": "Both deterministic and stochastic response may cause chromosome damage to? ",
+    "answer": "Circulating lymphocytes "
+  },
+  {
+    "question": "Radiologic technologists in diagnostic imaging deparment are exposed to which of the following? ",
+    "answer": "Low-LET radiation and Low dose of radiation"
+  },
+  {
+    "question": "Radiologic technologists in diagnostic imaging department are exposed to ? ",
+    "answer": "Suspected stochastic effects of radiation , and Assumed linear-nonthreshold dose response curve"
+  },
+  {
+    "question": "He is the first physician to apply radionuclides on humans. ",
+    "answer": "John Lawrence"
+  },
+  {
+    "question": "Chronic irradiation of the skin may result in? ",
+    "answer": "Radiodermatitis "
+  },
+  {
+    "question": "It is a severe non-malignant changes in the skin as a result of low dose of radiation delivered to the skin over long periods.",
+    "answer": "Radiodermatitis "
+  },
+  {
+    "question": "Approximately how many genes can be found in a DNA with 23-pairs of chromosomes ? ",
+    "answer": "35, 000 genes"
+  },
+  {
+    "question": "This is the most radiosensitive vital organ system in the body",
+    "answer": "Hematopoietic system "
+  },
+  {
+    "question": "The mean survival time does not change with dose in which of the following syndrome? ",
+    "answer": "Gastrointestinal syndrome "
+  },
+  {
+    "question": "He developed the first cyclotron ? ",
+    "answer": "Ernest O. Lawrence"
+  },
+  {
+    "question": "A 12 cm-diameter device capable of accelerating charged particles to very high energies? ",
+    "answer": "Cyclotron"
+  },
+  {
+    "question": "He is the father of nuclear medicine? ",
+    "answer": "John Lawrence"
+  },
+  {
+    "question": "It consists of acute clinical symptoms that occurs after whole-body exposure of > 1 Gyt (100 rad) and appears within minutes or hours. ",
+    "answer": "Prodromal period "
+  },
+  {
+    "question": "Latent period may occur in which of the following threshold dose? ",
+    "answer": "1-100 Gyt"
+  },
+  {
+    "question": "This is the immediate response after substantial radiation dose delivered to the whole-body.",
+    "answer": "Prodomal Period "
+  },
+  {
+    "question": "Who concluded that the cells are the basic functional units of plants and animals?",
+    "answer": "Scheider and Schwann"
+  },
+  {
+    "question": "Who described the cell on the basis of his microscopic observation? ",
+    "answer": "Anton van Leewenhoek"
+  },
+  {
+    "question": "What is the RBE of radiation with lower LET than diagnostic x-rays?",
+    "answer": "0.9"
+  },
+  {
+    "question": "What is the RBE of radiation with higher LET than diagnostic x-rays? ",
+    "answer": "5"
+  },
+  {
+    "question": "The protein molecules are composed of linear sequence amino acids linked by? ",
+    "answer": "Peptide Bond"
+  },
+  {
+    "question": "This is the process of breaking down large molecules into small molecules? ",
+    "answer": "Catabolism and Metabolism "
+  },
+  {
+    "question": "This molecule is the structural components of cell membranes?",
+    "answer": "Lipids "
+  },
+  {
+    "question": "Which of the following molecules contributes to radiation responses by transferring energy to the radiosensitive target molecule (DNA)? ",
+    "answer": "Water"
+  },
+  {
+    "question": "Which of the following molecules are considered organic molecules ?",
+    "answer": "Proteins, Lipids and Carbohydrates"
+  },
+  {
+    "question": "Help in maintaining body temperature, Provide shape and form , and Enter into some biochemical reactions. All of the following are the functions of? ",
+    "answer": "Water molecules"
+  },
+  {
+    "question": "This is the simplest and most abundant molecule in the body?",
+    "answer": "Water"
+  },
+  {
+    "question": "These types of molecules contain carbon and life supporting?",
+    "answer": "Organic molecules"
+  },
+  {
+    "question": "This is considered the rarest molecule in the body?",
+    "answer": "Nucleic acid"
+  },
+  {
+    "question": "This is the most radiosensitive target molecule in the body. ",
+    "answer": "DNA"
+  },
+  {
+    "question": "How many amino acids are used in the metabolic production of protein (protein synthesis)?",
+    "answer": "22"
+  },
+  {
+    "question": "What is the chemical formula for ordinary table sugar? ",
+    "answer": "C12H22O11"
+  },
+  {
+    "question": "Our body is basically made of structured?",
+    "answer": "Water"
+  },
+  {
+    "question": "What is the RBE of 10 MeV protons? ",
+    "answer": "5"
+  },
+  {
+    "question": "This is the state of balance of the environment inside the human body?",
+    "answer": "Homeostasis "
+  },
+  {
+    "question": "Which of the following is/are the end product/s of catbolism?",
+    "answer": "Water and Carbon Dioxide "
+  },
+  {
+    "question": "This is the process of producing large molecules from small molecules ",
+    "answer": "Anabolism "
+  },
+  {
+    "question": "This is commonly referred to as metabolism? ",
+    "answer": "Catabolism "
+  },
+  {
+    "question": "What is the RBE of fast neutrons",
+    "answer": "10"
+  },
+  {
+    "question": "Our body is composed of how many percent of protein molecules? ",
+    "answer": "15%"
+  },
+  {
+    "question": "This type of molecule is designed for attacking invasive or infectious agent ? ",
+    "answer": "Antibodes "
+  },
+  {
+    "question": "The formation of peptide bond in protein synthesis requires the removal of? ",
+    "answer": "Water"
+  },
+  {
+    "question": "The structural configuration of a protein is representd by a molecule of? ",
+    "answer": "Amino Acid "
+  },
+  {
+    "question": "The structural configuration of a lipid is represented by a molecule of?",
+    "answer": "Oleic Acid"
+  },
+  {
+    "question": "What is the chemical formula for glucose?",
+    "answer": "C6H12O6"
+  },
+  {
+    "question": "What is the sugar component of DNA? ",
+    "answer": "Deoxyribose"
+  },
+  {
+    "question": "Provides support and structure in the body, Serves as a primary defense mechanism of the body , and Controls growth and development. All of the following statements ar true about?",
+    "answer": "Protein"
+  },
+  {
+    "question": "What is the RBE of 5 MeV alpha particles?",
+    "answer": "20"
+  },
+  {
+    "question": "These types of molecules allow a biochemical reaction to continue even though they do not directly enter into the reaction?",
+    "answer": "Enzymes"
+  },
+  {
+    "question": "These types of molecules controls growth and development of the body?",
+    "answer": "Hormones "
+  },
+  {
+    "question": "What is the chemical formula for polysaccharide?",
+    "answer": "(C6H10O5)n"
+  },
+  {
+    "question": "Which of the following is determined by the linear energy transfer? ",
+    "answer": "Radiation weighting factor (WR)"
+  },
+  {
+    "question": "LET is expressed in?",
+    "answer": "keV/um"
+  },
+  {
+    "question": "This is the ratio of the dose of standard radiation necessary to produce a given effect and the dose of test radiation to produce the same effect. ",
+    "answer": "Relative biologic effectiveness"
+  },
+  {
+    "question": "This is used to quantify the biologic damage of radiation to biological tissue?",
+    "answer": "RBE"
+  },
+  {
+    "question": "What is the RBE of diagnostic x-rays?",
+    "answer": "1"
+  },
+  {
+    "question": "The synthesis of these macromolecules is critical for cell survival and reproduction?",
+    "answer": "Protein and Nucleic Acids"
+  },
+  {
+    "question": "Nucleic acids are less abundant than proteins, Multiple copies of tRNA and mRNA are present in the cell, and Proteins are continuously synthesized throughout the cell cycle. All of the following statements are true about ?",
+    "answer": "Macromolecules"
+  },
+  {
+    "question": "The deoxyribose, phosphate and base molecules accumulate in the nucleus during what phase of cell cycle? ",
+    "answer": "G1 phase"
+  },
+  {
+    "question": "This is the least radioresistant molecules in the body",
+    "answer": "DNA"
+  },
+  {
+    "question": "This is the most important molecules in the body",
+    "answer": "DNA"
+  },
+  {
+    "question": "What is the RBE of 1 MeV electrons? ",
+    "answer": "0.9"
+  },
+  {
+    "question": "The probability of hit on a DNA during exposure to low-LET radiation under anoxic condition is? ",
+    "answer": "Low"
+  },
+  {
+    "question": "The probability of hit on a DNA during exposure to high-LET radiation under anoxic condition is? ",
+    "answer": "High"
+  },
+  {
+    "question": "The double-helix form of the DNA is seen during ?",
+    "answer": "G1 phase"
+  },
+  {
+    "question": "The probability of hit on a DNA during exposure to high-LET radiation under aerobic conditions is? ",
+    "answer": "High"
+  },
+  {
+    "question": "The process by which normal cells produce a visible colony in a short time ?",
+    "answer": "Cell cloning "
+  },
+  {
+    "question": "The lethal effects of radiation are determined by observing cell?",
+    "answer": "Survival"
+  },
+  {
+    "question": "Enzymes, Bacteria, Human Cells , and Viruses. The single-target, single-hit model of cell survival kinetics applies to all of the following, except? ",
+    "answer": "Human Cells"
+  },
+  {
+    "question": "The parent DNA replicates like a zipper and forms two daughter DNA molecules during what phase of the cell cycle? ",
+    "answer": "S phase"
+  },
+  {
+    "question": "There is no visible signs of illness occuring during? ",
+    "answer": "Latent Period"
+  },
+  {
+    "question": "The probability of hit on a DNA during exposure to low-LET radiation under aerobic conditions is? ",
+    "answer": "High"
+  },
+  {
+    "question": "This syndrome is characterized by a reduction in leukocytes , erythrocytes and thrombocytes ?",
+    "answer": "Hematologic syndrome"
+  },
+  {
+    "question": "The multi-target , single-hit model of cell survival kinetics applies to? ",
+    "answer": "Human Cells"
+  },
+  {
+    "question": "What is the RBE of heavy nuclei?",
+    "answer": "20"
+  },
+  {
+    "question": "This syndrome is characterized by a reduction in leukocytes , erythrocytes and thrombocytes ?",
+    "answer": "Hematologic syndrome "
+  },
+  {
+    "question": "In hematologic syndrome , recovery usually begins in?",
+    "answer": "2-4 weeks"
+  },
+  {
+    "question": "Which of the following is the major cause of CNS death?",
+    "answer": "Elevated Fluid content of the brain "
+  },
+  {
+    "question": "How long is the turnover time for the cell renewal system of the intestinal cells?",
+    "answer": "3-5 days "
+  },
+  {
+    "question": "Which of the following radiation sicknesss allows recovery after whole-body radiation exposure? ",
+    "answer": "Hematologic Syndrome"
+  },
+  {
+    "question": "LD 50/60 is the whole body radiation dose that causes ___ of the population to die within _____. ",
+    "answer": "50 % ; 60 days"
+  },
+  {
+    "question": "This is used to quantify the acute radiation lethality ? ",
+    "answer": "LD50/60"
+  },
+  {
+    "question": "Which of the following species is the most rediosensitive? ",
+    "answer": "Pig"
+  },
+  {
+    "question": "Which of the following is the correct arragement of the species form the least to most radiosensitive? ",
+    "answer": "Opossum, Monkey, Guinea Pig , Human and Dog "
+  },
+  {
+    "question": "Dehydration , Generalized infection , and Electrolyte imbalance. All of the following symptoms are the cause of? ",
+    "answer": "Hematologic Death"
+  },
+  {
+    "question": "Which of the following species the least radioresistant ?",
+    "answer": "Pig"
+  },
+  {
+    "question": "What is the lethal dose for human?",
+    "answer": "3.5 Gyt"
+  },
+  {
+    "question": "Hematologic death usually occurs within ? ",
+    "answer": "10-60 days"
+  },
+  {
+    "question": "The observed radiation response on early cyclotron physicist is? ",
+    "answer": "Radiation -induced cataract "
+  },
+  {
+    "question": "Radiation -induced cataracts occur on the?",
+    "answer": "Posterior pole of the lens"
+  },
+  {
+    "question": "The radiosensitivity of the lens of the eye is?",
+    "answer": "Age-dependent "
+  },
+  {
+    "question": "Which of the following statements about the effects of radiation to the lens of the eye are correct?",
+    "answer": "Greater radiation effect as the individual gets older and The latent period becomes shorter "
+  },
+  {
+    "question": "GI death usually occurs in approximately ?",
+    "answer": "4 days"
+  },
+  {
+    "question": "What is the latent period of radiation-induced cataract?",
+    "answer": "5-30 years"
+  },
+  {
+    "question": "Which of the following is the correct arrangement of the species from least to most radioresistant? ",
+    "answer": "Mouse, Goldfish, Hamster, Rat and Rabbit"
+  },
+  {
+    "question": "Radiation-induced cataract will exhibit what dose-response curve?",
+    "answer": "Nonlinear-threshold"
+  },
+  {
+    "question": "It occurs at a threshold dose of greater than 10 Gyt (1000 rad), Acute Radiation exposure to the lens of the eye requires a 2 Gyt (200 rad) to induce cataract, and Protective lens shield for radiologic technologist is required to prevent production of cataract? All of these statements are correct about?",
+    "answer": "Radiation-induced cataracts"
+  },
+  {
+    "question": "What is the average latent period of radiation-induced cataract?",
+    "answer": "15 years"
+  },
+  {
+    "question": "What is the lens dose during CT examination?",
+    "answer": "50 mGyt (5 rad)"
+  },
+  {
+    "question": "Radiation-induced lifespan shortening will exhibit what dose-response curve?",
+    "answer": "Linear-nonthreshold "
+  },
+  {
+    "question": "How many days is the expected lifespan shortening when an individual received a dose of 10 mGyt?",
+    "answer": "10 days"
+  },
+  {
+    "question": "Which of the following has a higher risk of lifespan shortening?",
+    "answer": "Being male rather than female"
+  },
+  {
+    "question": "Which of the following has a lower risk of lifespan shortening? ",
+    "answer": "Airplane crashes "
+  },
+  {
+    "question": "How many days is the expected life lost if the individuals is a radiation worker?",
+    "answer": "12 days"
+  },
+  {
+    "question": "What is the RBE of 60^Co gamma rays?",
+    "answer": "0.9"
+  },
+  {
+    "question": "How many days is the expected life lost for the average occupational accidents?",
+    "answer": "74 days"
+  },
+  {
+    "question": "It occurs when the cells are irradiated with the ionizing radiation of approximately 0.01 Gyt?",
+    "answer": "Mitotic delay"
+  },
+  {
+    "question": "What is the approximate chromosome aberration frequency in single-hit aberrations?",
+    "answer": "Two single-hit aberrations/10 mGyt/1000 cells"
+  },
+  {
+    "question": "What is the approximate chromosome aberration frequency in multi-hit aberrations?",
+    "answer": "One multi-hit aberration / 100 mGyt/1000 cells "
+  },
+  {
+    "question": "Which of the following types of radiation will increase the likehood of radiation-induced cataracts?",
+    "answer": "Fast neutron and 10 MeV protons"
+  },
+  {
+    "question": "What is the RBE of 25 MV x-rays?",
+    "answer": "0.8"
+  },
+  {
+    "question": "In CNS death usually occurs within?",
+    "answer": "0-3 days"
+  },
+  {
+    "question": "Which of the following is the major cause of GI death?",
+    "answer": "Severe damage to the fundamental cells lining the intestines"
+  },
+  {
+    "question": "Which of the following is the correct arrangement of the species from least to radiosensetive? ",
+    "answer": "Gerbil, Turtle, Armadillo, Newt, and Cockroach"
+  },
+  {
+    "question": "In hematologic syndrome , full recovery usually occurs in?",
+    "answer": "6 months"
+  },
+  {
+    "question": "DNA is principally located inside the?",
+    "answer": "Nucleus "
+  },
+  {
+    "question": "Lipid molecules are composed of?",
+    "answer": "Glycerol and Fatty Acid"
+  },
+  {
+    "question": "This molecule contains all hereditary information that represents a cell or individual?",
+    "answer": "DNA"
+  },
+  {
+    "question": "The ratio of the number of glycerol to fatty acid in a lipid molcule ?",
+    "answer": "One : Three / 1: 3"
+  },
+  {
+    "question": "Germ cells undergo cell division by a process called? ",
+    "answer": "Meiosis"
+  },
+  {
+    "question": "The ratio of the number of oxygen atoms to hydrogen atoms in a water molecule is?",
+    "answer": "One : Two / 1: 2 "
+  },
+  {
+    "question": "What is the base component of DNA?",
+    "answer": "Thymine"
+  },
+  {
+    "question": "A simple sugar",
+    "answer": "Glucose"
+  },
+  {
+    "question": "What is the molecular configuration of ribonucleic acid? ",
+    "answer": "Single-helix"
+  },
+  {
+    "question": "What is the sugar componenet of RNA? ",
+    "answer": "Ribose"
+  },
+  {
+    "question": "What is the sugar component of RNA?",
+    "answer": "Ribose"
+  },
+  {
+    "question": "Plant starches and animal glycogen are considered ? ",
+    "answer": "Polysaccharides"
+  },
+  {
+    "question": "This molecule is involved in the growth an development of a cell through a number of biochemical pathways?",
+    "answer": "Ribonucleic acid"
+  },
+  {
+    "question": "This is the main purpose of carbohydrates ?",
+    "answer": "To provide fuel for cell metabolsim"
+  },
+  {
+    "question": "This term refers to human polysaccharide?",
+    "answer": "Glycogen"
+  },
+  {
+    "question": "This is the ultimate molecule that fuels the body ",
+    "answer": "Glucose"
+  },
+  {
+    "question": "Most RNA is located inside the?",
+    "answer": "Nucleolus "
+  },
+  {
+    "question": "This is the most critical and most sensitive target molecule in the body",
+    "answer": "Deoxyribonucleic acid"
+  },
+  {
+    "question": "Somatic cells undergo cell division by a process called?",
+    "answer": "Mitosis"
+  },
+  {
+    "question": "Which of the following are considered pyramidines?",
+    "answer": "Cytosine and Thymine "
+  },
+  {
+    "question": "This structure contains enzymes and helps control intracellular contaminants?",
+    "answer": "Lysosomes"
+  },
+  {
+    "question": "What is the base components of RNA?",
+    "answer": "Uracil"
+  },
+  {
+    "question": "This type of cell contains all the hereditary information of the whole individual? ",
+    "answer": "Genetic cell and Germ Cell"
+  },
+  {
+    "question": "Ribonucleic acid can be found in the?",
+    "answer": "Cytoplasm, Nucleus and Nucleolus"
+  },
+  {
+    "question": "Which of the following are considered purines?",
+    "answer": "Adenine and Guanine"
+  },
+  {
+    "question": "It refers to the base-phosphate combination",
+    "answer": "Nucleotides"
+  },
+  {
+    "question": "What is the molecular configuration of deoxyribonucleic acid?",
+    "answer": "Double-helix"
+  },
+  {
+    "question": "This structure is the powerhouse or engine of the cell?",
+    "answer": "Mitochondria "
+  },
+  {
+    "question": "Which of the following is the correct sequence of base bonding possible DNA? ",
+    "answer": "Adenine to thymine, cytosine to guanine"
+  },
+  {
+    "question": "Orthovoltage x-rays is in the range of how many kVp?",
+    "answer": "200-300 kVp"
+  },
+  {
+    "question": "When the pig is irradiated with 300 kVp x-rays, death occurs at 5 Gyt. If similar pig is irradiated with 5 MeV alpha particles, death occurs at only 3 Gyt. What is the RBE of 5 MeV alpha particles?",
+    "answer": "1.67"
+  },
+  {
+    "question": "This technique of lengthening the time of irradiation is accomplished by delivering the dose continuously but at a lower dose rate causing less radiation response? ",
+    "answer": "Dose protraction"
+  },
+  {
+    "question": "This technique of lengthening the time of irradiation is accomplished by delivering the dose in equal fraction with 24 hours interval causing less radiation response. ",
+    "answer": "Dose fractionation"
+  },
+  {
+    "question": "Age and recovery, Chemical agents , and OER and hormesis. All of the following are examples of? ",
+    "answer": "Biological factors that affect radiosensitivity"
+  },
+  {
+    "question": "This is used in clinical radiation oncology to increase the radiosensitivity of nodular, avascular tumor. ",
+    "answer": "Hyperbaric Oxygen "
+  },
+  {
+    "question": "This is the ratio of the dose necessary under anoxic conditions to produce a given effect and the dose necessary under aerobic conditions to produce the same effect.",
+    "answer": "OER"
+  },
+  {
+    "question": "Conventional diagnostic imaging is performed under which of the following condition ?",
+    "answer": "Full oxygenation"
+  },
+  {
+    "question": "The OER is highest in which of the following? ",
+    "answer": "Low LET"
+  },
+  {
+    "question": "The OER is highest in which of the following? ",
+    "answer": "60^Co gamma rays and Diagnostic x-rays"
+  },
+  {
+    "question": "Low-LET radiations have a maximum value of approximately ?",
+    "answer": "3 OER"
+  },
+  {
+    "question": "Low-LET radiations have a minimum value of approximately?",
+    "answer": "1 OER"
+  },
+  {
+    "question": "Radiation-induced chromosome aberration is an example of?",
+    "answer": "Cytogenetic damage"
+  },
+  {
+    "question": "Protein synthesis is dependent in which of the following molecules?",
+    "answer": "Nucleic acids"
+  },
+  {
+    "question": "Which of the following determines the characteristics of an individual? ",
+    "answer": "Chromosomes"
+  },
+  {
+    "question": "This is the most critical target molecules for radiation damage in the body.",
+    "answer": "Deoxyribonucleic acid"
+  },
+  {
+    "question": "Which of the following radiation response of DNA is may not be reversible?",
+    "answer": "Molecular lesions or point mutations"
+  },
+  {
+    "question": "This states that when te number of raindrops is equal to the number of squares, 63 % of the squares will be wet and 37 % of the squares will be dry and if the raindrops had fallen uniformly, all 100 squares would become wet with 100 raindrops?",
+    "answer": "Poisson distribution"
+  },
+  {
+    "question": "The radiation interacts with matter ?",
+    "answer": "Randomly "
+  },
+  {
+    "question": "When cells sustain two or more hits, these represent? ",
+    "answer": "Wasted radiation dose"
+  },
+  {
+    "question": "This is an ionization process that causes inactivation of DNA molecule.",
+    "answer": "Hit"
+  },
+  {
+    "question": "How many days is the expected life lost if the individual is working as a coal miner? ",
+    "answer": "1100 days"
+  },
+  {
+    "question": "It is the radiation dose that causes 63 % of the cell to die and 37 % to survive.",
+    "answer": "D37"
+  },
+  {
+    "question": "How many days is the expected life lost for being unmaried?",
+    "answer": "2000 days"
+  },
+  {
+    "question": "How many days is the expected life lost if the individual has heart disease? ",
+    "answer": "2100 days"
+  },
+  {
+    "question": "D37 is a radiation dose that results in? ",
+    "answer": "37 % cell survival "
+  },
+  {
+    "question": "It is used to determine the radiosensitivity of the cell.",
+    "answer": "D37"
+  },
+  {
+    "question": "Low D37 means? ",
+    "answer": "Highly radiosensitive cells"
+  },
+  {
+    "question": "What is the lethal dose for cockroach?",
+    "answer": "100 Gyt"
+  },
+  {
+    "question": "What is the maximum dose human can tolerate with clinical support? ",
+    "answer": "8.5 Gyt"
+  },
+  {
+    "question": "This is the average time between exposure and death?",
+    "answer": "Mean survival time"
+  },
+  {
+    "question": "Mean-survival time are dose-dependent with?",
+    "answer": "Hematologic syndrome and CNS syndrome"
+  },
+  {
+    "question": "How many days is the expected life lost if the individual has a stroke?",
+    "answer": "20 days"
+  },
+  {
+    "question": "The sensitvity of any local tissues to radiation exposure depends on the? ",
+    "answer": "Intrinsic radiosensitivity, Kinetics of cell maturation , and Kinetics of cell proliferation"
+  },
+  {
+    "question": "Local tissue damage as a result of high radiation doses follows what dose response relationship?",
+    "answer": "Nonlinear-threshold"
+  },
+  {
+    "question": "Most local tissue damage experience by the irradiated population occurs in the?",
+    "answer": "Skin"
+  },
+  {
+    "question": "The most radiosensitive cells in the skin is? ",
+    "answer": "Basal cells"
+  },
+  {
+    "question": "Radiation injury to the skin from high dose fluoroscopy follows what dose response relationship? ",
+    "answer": "Nonlinear-threshold"
+  },
+  {
+    "question": "How many days is the expected life lost for airplane crashes?",
+    "answer": "1 day"
+  },
+  {
+    "question": "Erythema, Dry and moist desquamation, and  Epilation. All of the following are examples of? ",
+    "answer": "Biologic responses to the skin"
+  },
+  {
+    "question": "Radiation injury to the kin occurs because of the damage to the?",
+    "answer": "Basal cells"
+  },
+  {
+    "question": "This is the first observed biologic response to radiation exposure?",
+    "answer": "Erythema"
+  },
+  {
+    "question": "How many days is the expected life lost if the individual has a cancer?",
+    "answer": "980 days"
+  },
+  {
+    "question": "The development of skin erythema on the irradiated individual depends on the? ",
+    "answer": "Individual's radiosensitivity, Area being exposed, and Dose Rate"
+  },
+  {
+    "question": "How much dose is required to produce skin erythema on 50 % of the irradiated population?",
+    "answer": "5 Gyt"
+  },
+  {
+    "question": "It refers to the dose necessary to produce skin erythema and affect half of the population",
+    "answer": "SED50"
+  },
+  {
+    "question": "This type of x-rays I used to treatment of tinea capitis or ring worm ",
+    "answer": "Grenz rays"
+  },
+  {
+    "question": "How many days is the expected life lost if the speed limit increases from 55 to 65 mph? ",
+    "answer": "40 days"
+  },
+  {
+    "question": "This is described as the ulceration and denudation of the skin ?",
+    "answer": "Desquamation "
+  },
+  {
+    "question": "How many days is the expected life lost for being male rather than being female?",
+    "answer": "2800 days"
+  },
+  {
+    "question": "This type of x-rays is commonly referred to as soft x-rays ? ",
+    "answer": "Grenz rays"
+  },
+  {
+    "question": "How many days is the expected life lost if the individual smokes one pack of cigarettes a day?",
+    "answer": "1600 days"
+  },
+  {
+    "question": "This is described as a sunburn-like reddening of the skin?",
+    "answer": "Erythema"
+  },
+  {
+    "question": "This is known as the clinical tolerance for radiation therapy?",
+    "answer": "Moist Desquamation"
+  },
+  {
+    "question": "Grenz radiation is at what kVp range?",
+    "answer": "10-20 kVp"
+  },
+  {
+    "question": "How many days is the expected life lost if the individual is 30 pounds overweight?",
+    "answer": "900 days"
+  },
+  {
+    "question": "It is not specific, There is no associated diseases with it, and it occurs simply as accelerated premature aging and death. All of the following statements correctly describes the?",
+    "answer": "Lifespan shortening "
+  },
+  {
+    "question": "How many days is the expected life lost for all accidents?",
+    "answer": "435 days"
+  },
+  {
+    "question": "Which of the following are used to determine the radiation response in a population? ",
+    "answer": "Risk estimates"
+  },
+  {
+    "question": "Apoptosis is also known as? ",
+    "answer": "Nonmitotic or nondivision cell death, Interphase death, and Programmed cell death"
+  },
+  {
+    "question": "It occurs when the cells die without attempting to division during the interphase portion of the cell life cycle? ",
+    "answer": "Programmed cell death"
+  },
+  {
+    "question": "It occurs when the cells die after one or more division ?",
+    "answer": "Mitotic death"
+  },
+  {
+    "question": "How many days is the expected life lost for the service in Vietnam?",
+    "answer": "400 days"
+  },
+  {
+    "question": "How many days is the expected life lost for motor vehicle accidents?",
+    "answer": "200 days"
+  },
+  {
+    "question": "OER is dependent to? ",
+    "answer": "LET"
+  },
+  {
+    "question": "The somatic cells include? ",
+    "answer": "Lymphocytes and Nerve Cells"
+  },
+  {
+    "question": "This is the principal component of the cell? ",
+    "answer": "DNA"
+  },
+  {
+    "question": "This serves as a channel or passageway of RNA from nucleus to cytoplasm ",
+    "answer": "Endoplasmic Reticulum"
+  },
+  {
+    "question": "Macromolecules are catabolized in what part of the cell?",
+    "answer": "Mitochondria "
+  },
+  {
+    "question": "This structure is the site of metabolic production of protein",
+    "answer": "Ribosomes"
+  },
+  {
+    "question": "This part of the cell provides structure and form for cell and its components?",
+    "answer": "Cell membrane"
+  },
+  {
+    "question": "Which of the following is the correct charateristics of chromosomes during methapase?",
+    "answer": "Chromosomes appear and lined up along the equator"
+  },
+  {
+    "question": "What is the required dose to produce a measurable change in the physical characteristics of the molecule?",
+    "answer": "1 Mrad"
+  },
+  {
+    "question": "This is the act of single cell or group of cells to reproduce and multiply in number? ",
+    "answer": "Proliferation "
+  },
+  {
+    "question": "Which of the following radioactive materials is/are used in determining the radiosensitivity of nucleus and cytoplasm?",
+    "answer": "^3 H, ^14 C"
+  },
+  {
+    "question": "G2 phase is called?",
+    "answer": "Post-DNA synthesis phase"
+  },
+  {
+    "question": "The portion o the cell cycle between mitotic events?",
+    "answer": "Interphase"
+  },
+  {
+    "question": "It refers to a series of base pairs or triplet code?",
+    "answer": "Codon "
+  },
+  {
+    "question": "The germ cell include?",
+    "answer": "Oogonia and Spermatogonia"
+  },
+  {
+    "question": "Which of the following is the correct characteristic of chromosomes during telophase?",
+    "answer": "Disappearance of structural choromosomes"
+  },
+  {
+    "question": "It refers to all cells in the body except spermatogonia and oogonia ?",
+    "answer": "Somatic Cells"
+  },
+  {
+    "question": "What is the correct arrangements of subphases of mitosis in chronological order? ",
+    "answer": "Prophase, Metaphase, Anaphase , and Telophase"
+  },
+  {
+    "question": "This is the period of growth of the cell betweeen divisions?",
+    "answer": "Interphase"
+  },
+  {
+    "question": "The replication of DNA molecules occurs in what phase of cell cycle?",
+    "answer": "S phase"
+  },
+  {
+    "question": "Chromosomes damage induced by radiation is examined during what subphase of cell cyle?",
+    "answer": "Metaphase"
+  },
+  {
+    "question": "This is the process of somatic cell division wherein a parent cell divides to form two daughter cells identical to the parent cell?",
+    "answer": "Mitosis"
+  },
+  {
+    "question": "Which of the following types of cell in the body is the most radiation resistant? ",
+    "answer": "Nerve cells"
+  },
+  {
+    "question": "Chromosomes can be studied under microscope during subphase of cell cycle?",
+    "answer": "Metaphase"
+  },
+  {
+    "question": "Cell division can be stopped during what subphase of cell cycle ?",
+    "answer": "Metaphase"
+  },
+  {
+    "question": "Which of the following process does not occur in meiosis?",
+    "answer": "Replication "
+  },
+  {
+    "question": "G1 phase is called?",
+    "answer": "Pre-DNA synthesis phase"
+  },
+  {
+    "question": "The DNA synthesis phase is called?",
+    "answer": "S phase"
+  },
+  {
+    "question": "The chromosome are not visible during?",
+    "answer": "Interphase"
+  },
+  {
+    "question": "It refers to a process wherein the cell death occurs proir to replication.",
+    "answer": "Interphase death"
+  },
+  {
+    "question": "The recovery of surviving cells from sublethal damage is a combined processes of?",
+    "answer": "Intracellular repair and Repopulation "
+  },
+  {
+    "question": "This process occurs due to a repair mechanism inherent in the biochemistry of the cell? ",
+    "answer": "Intracellular repair"
+  },
+  {
+    "question": "Intracellular recovery occurs most probably because of? ",
+    "answer": "Intracellular repair"
+  },
+  {
+    "question": "This term refers to shrinkage of thee tissue or organ ?",
+    "answer": "Atrophy"
+  },
+  {
+    "question": "The LET is?",
+    "answer": "Inversely proportional to OER and directly proportional to RBE"
+  },
+  {
+    "question": "These agents are used to modify the radiation response of cells, tissue, and organs.",
+    "answer": "Chemical agents"
+  },
+  {
+    "question": "These agents are used to amplify the effects of radiation in the body",
+    "answer": "Radiosensitizers"
+  },
+  {
+    "question": "These agents are used to reduce the effects of radiation in the body. ",
+    "answer": "Radioprotectors "
+  },
+  {
+    "question": "Cysteine, Cysteamine, and Vitamin K. All of the following are example of radiosensitizers , except? ",
+    "answer": "Vitamin K"
+  },
+  {
+    "question": "Chemical agents are very effective if applied?",
+    "answer": "During irradiation "
+  },
+  {
+    "question": "Chemical agents are not effective if applied? ",
+    "answer": "Postirradiation "
+  },
+  {
+    "question": "Chemical agents have found effective by a factor of approximately?",
+    "answer": "2"
+  },
+  {
+    "question": "This DNA damage represents a genetic mutation at the molecular level?",
+    "answer": "Point lesion "
+  },
+  {
+    "question": "This term refers to dissociation of water molecules into other molecular components",
+    "answer": "Radolysis of water "
+  },
+  {
+    "question": "HOH+ molecule is very unstable molecule that dissociates into?",
+    "answer": "H^+ and O^+"
+  },
+  {
+    "question": "Which of the following are the final results of radiolysis of water?",
+    "answer": "One ion pair and Two free radicals "
+  },
+  {
+    "question": "High D37 means?",
+    "answer": "Highly radiosensitive cells"
+  },
+  {
+    "question": "A point mutation will results in the formation of? ",
+    "answer": "Abnormal gene"
+  },
+  {
+    "question": "The multi-target, single-hit model of cell survival is a characteristics of?",
+    "answer": "Human cells with two targets "
+  },
+  {
+    "question": "Complex cells such as human cells consist of how many target/s",
+    "answer": "Multiple critical targets"
+  },
+  {
+    "question": "At very low radiation doses, the cell survival is?",
+    "answer": "Nearly 100 %"
+  },
+  {
+    "question": "HOH- molecule is very unstable molecule that dissociates into?",
+    "answer": "H+ and OH*"
+  },
+  {
+    "question": "At a very high radiation doses , all surviving cell have?",
+    "answer": "One target hit "
+  },
+  {
+    "question": "What is the symbol of mean lethal dose.",
+    "answer": "Do"
+  },
+  {
+    "question": "Ovaries and testes produce what type of cells?",
+    "answer": "Genetic cells"
+  },
+  {
+    "question": "It is a constant related to the radiosensitivity of the cell",
+    "answer": "Do"
+  },
+  {
+    "question": "The responsee of radiation on gonads have been observed at a dose of as low as ",
+    "answer": "100 mGyt"
+  },
+  {
+    "question": "Primordial follicles encapsulate oogonia ?",
+    "answer": "During early fetal life"
+  },
+  {
+    "question": "Which of the following organs produces germ cells that control fertility ad heredity ? ",
+    "answer": "Gonads "
+  },
+  {
+    "question": "The stem cells of ovaries aree the?",
+    "answer": "Oogonia"
+  },
+  {
+    "question": "Which of the following is the correct arrangement of female gametogenesis",
+    "answer": "Oogonia, Primordial Follicle, Mature Follicle, Corpus luteum , and Ovum"
+  },
+  {
+    "question": "At high radiation doses, fewer cells survive. When all the surviving cells are still exposed at a very high radiation doses, the dose-response relationship would appear as?",
+    "answer": "Single-target, single-hit model"
+  },
+  {
+    "question": "The mature cells of ovaries are the?",
+    "answer": "Ovum"
+  },
+  {
+    "question": "Proliferation of oogonia occurs only?",
+    "answer": "Before birth during late fetal life"
+  },
+  {
+    "question": "Which of the following is the correct arrangement of male gametogenesis?",
+    "answer": "Spermatogonia, Spermatocyte, Spermatid, Sperm"
+  },
+  {
+    "question": "The stem cells of testes are the?",
+    "answer": "Spermatogonia"
+  },
+  {
+    "question": "How many ova are available for fertilization?",
+    "answer": "400-500 ova"
+  },
+  {
+    "question": "This is used for computing the number of ova available for fertilization?",
+    "answer": "Number of years of menstruation x 13 per year"
+  },
+  {
+    "question": "The mature cells of testes are the?",
+    "answer": "Sperm"
+  },
+  {
+    "question": "Which of the following provide a sustaining cell renewal system?",
+    "answer": "Skin, GI tract, Male gametogenesis (testes), Female gametogenesis (ovaries), and Hemopoietic system"
+  },
+  {
+    "question": "During male gametogenesis , the maturation process from spermatogonia to spermatozoa requires?",
+    "answer": "3-5 weeks"
+  },
+  {
+    "question": "Irradiation of female gonads after puberty may result in?",
+    "answer": "Suppression and delay of menstruation "
+  },
+  {
+    "question": "What is the threshold dose that causes suppression of menstruation in a mature female?",
+    "answer": "10 mGyt (1 rad)"
+  },
+  {
+    "question": "It is computed by comparing the number of persons in the exposed population showing a given stochastic effect with the number in an unexposed individual population who show the same stochastic effect?",
+    "answer": "Relative Risk"
+  },
+  {
+    "question": "According to theory of radiation hormesis, very low radiation doses are beneficial because?",
+    "answer": "It stimulates immune response, and It stimulates hormonal response "
+  },
+  {
+    "question": "In a study of radiation-induced malignancies after exposure to diagnostic x-rays, 250 cases were observed in 200,000 irradiated individuals. The normal incidence of radiation-induced malignancies in the Philippines is 100 cases per 200,000. On the basis of these data, compute the relative risk of radiation-induced malignancies. ",
+    "answer": "2.5"
+  },
+  {
+    "question": "It is the estimation of late effects of radiation in a large population without precise knowledge of their radiation dose. ",
+    "answer": "Relative Risk"
+  },
+  {
+    "question": "Twenty cases of leukemia were observed in a population of 500 radiologic technologist. The incidence in the general population is 10/500. What is the excess risk?",
+    "answer": "10"
+  },
+  {
+    "question": "It is the ratio of observed cases to the expected cases?",
+    "answer": "Relative Risk"
+  },
+  {
+    "question": "The difference between the observed number of cases in the irradiated population and the expected number are assumed to be?",
+    "answer": "Radiation-induced "
+  },
+  {
+    "question": "What is the thresholddose that causes permanent stertility?",
+    "answer": "5 Gyt (500 rad)"
+  },
+  {
+    "question": "Which of the following types of risk estimates can be used if there are two different known dose levels?",
+    "answer": "Absolute risk"
+  },
+  {
+    "question": "The absolute risk can be expressed in?",
+    "answer": "Number of cases/ Population/dose "
+  },
+  {
+    "question": "Interaction of low-LET radiation to biologic tissues under aerobic condition may cause?",
+    "answer": "Fixed damage"
+  },
+  {
+    "question": "It is the difference between the observed cases and the expected cases",
+    "answer": "Excess risk"
+  },
+  {
+    "question": "A relative risk of less than 1 means?",
+    "answer": "Irradiated population receives some protective benefit"
+  },
+  {
+    "question": "It occurs when a part of the chromosomes or chromatid is lost at the next cell division",
+    "answer": "Deletion"
+  },
+  {
+    "question": "What is the threshold dose that causes genetic mutations?",
+    "answer": "250-500 mGyt (25-50 rad)"
+  },
+  {
+    "question": "A relative risk of 2 means?",
+    "answer": "The frequency of late response is 100 % higher in the irradiated populations than in the nonirradiated population "
+  },
+  {
+    "question": "It occurs when chromosomes breaks rejoin in their original configuration with no visible damage",
+    "answer": "Restitution "
+  },
+  {
+    "question": "What is the threshold dose that causes temporary infertility?",
+    "answer": "2000 mGyt"
+  },
+  {
+    "question": "A relative risk of 1 means? ",
+    "answer": "No risk at all"
+  },
+  {
+    "question": "It predicts that the excess radiation-induced cancer risk is constant for life.",
+    "answer": "Absolute risk"
+  },
+  {
+    "question": "What is the range of relative risk for radiation-induced late effects oberved in human population?",
+    "answer": "One-two / 1-2"
+  },
+  {
+    "question": "What is the threshold dose that causes temporary infertility?",
+    "answer": "2 Gyt (200 rad)"
+  },
+  {
+    "question": "It determines the magnitude of the stochastic effect as the difference of the observed and expected numbers of cases ?",
+    "answer": "Excess risk"
+  },
+  {
+    "question": "During this phase, the chromosomes replicate from a two-chromatic structure to a four chromatid structure.",
+    "answer": "S phase "
+  },
+  {
+    "question": "This is the least abundant tissue composition of the body ?",
+    "answer": "Skin"
+  },
+  {
+    "question": "Which of the following is the correct arrangement of cell from least radiosensitive to most radiosensitive? ",
+    "answer": "Lymphocytes, Spermatogonia, Erythroblasts, Intestinal crypt cells"
+  },
+  {
+    "question": "Which of the following is the correct characteristic of chormosomes during anaphase?",
+    "answer": "Spitting of each chromosomes at the centromere "
+  },
+  {
+    "question": "The numbers of chromatids are reduced in half during what subphase of mitosis?",
+    "answer": "Anaphase"
+  },
+  {
+    "question": "Dumbbell like appearance of the nuclear membrane occurs during?",
+    "answer": "Telophase"
+  },
+  {
+    "question": "The combination of cells with similar structures and functions are called?",
+    "answer": "Tissue"
+  },
+  {
+    "question": "This is the most abundant tissue composition of the body?",
+    "answer": "Muscle"
+  },
+  {
+    "question": "Which of the following phase of cell cycle is not found in a meiotic process of cell division?",
+    "answer": "G1 phase"
+  },
+  {
+    "question": "Exchange of chromosomal material occurs during?",
+    "answer": "Meiosis"
+  },
+  {
+    "question": "Precursor cells, Immature cells, Mature cells, Stem Cells. All of the following statements refers to undifferentiated cells, except? ",
+    "answer": "Mature Cells"
+  },
+  {
+    "question": "Which of the following types of cell in the body is the most radiation sensitive?",
+    "answer": "Lymphocytes "
+  },
+  {
+    "question": "Which of the following is the correct arrangement of cell from least radiosensitive to most radiosensitive? ",
+    "answer": "Fibroblasts, Spermatids, Osteoblasts, Endothelial cells"
+  },
+  {
+    "question": "Which of the following is the correct arrangement of cell from least radiosensitive to most radiosensitive? ",
+    "answer": "Nerve Cells, Muscle Cells, Fibroblasts, Spermatids"
+  },
+  {
+    "question": "This type of tissue covers all the exposed body surfaces both externally and internally. ",
+    "answer": "Epithelium "
+  },
+  {
+    "question": "Ligaments and tendons are examples of what type of tissue? ",
+    "answer": "Connective "
+  },
+  {
+    "question": "This type of tissue covers all the exposed body surfaces both externally and internally. ",
+    "answer": "Connective"
+  },
+  {
+    "question": "Protein is abundant in which of the following types of tissue?",
+    "answer": "Muscle, Connective tissue"
+  },
+  {
+    "question": "This is a type of tissue that has the ability to contract. ",
+    "answer": "Muscle "
+  },
+  {
+    "question": "This type of tissue is the avenue by which electrical impulses are transmitted throughout the body for control and response.",
+    "answer": "Nerve "
+  },
+  {
+    "question": "This is composed of connective tissue and vasculature that provide structure to th organ.",
+    "answer": "Stromal"
+  },
+  {
+    "question": "It contains tissues that represent the particular organ",
+    "answer": "Stromal"
+  },
+  {
+    "question": "What is the observed response of lymphoid tissue to high dose to high dose of radiation on clinical radiation oncology?",
+    "answer": "Atrophy"
+  },
+  {
+    "question": "What is the observed response of GI tract to high dose of radiation on clinical radiation oncology?",
+    "answer": "Ulcer "
+  },
+  {
+    "question": "What is the observed response of cornea to high dose of radiation on clinical radaition oncology?",
+    "answer": "Cataract "
+  },
+  {
+    "question": "What is the observed response of bone marrow to high dose of radiation on clinical radiation oncology ? ",
+    "answer": "Hypoplasia"
+  },
+  {
+    "question": "What is the observed response of gonads to high dose of radiation on clinical radiation oncology?",
+    "answer": "Atrophy"
+  },
+  {
+    "question": "What is the observed response of skin to high dose of radiation on clinical radiation oncology? ",
+    "answer": "Erythema"
+  },
+  {
+    "question": "What is the observed response of kidney to high dose of radiation on clinical radiation oncology?",
+    "answer": "Nephrosclerosis "
+  },
+  {
+    "question": "Which of the following is the most detrimental to human? ",
+    "answer": "Application of radioprotective agents"
+  },
+  {
+    "question": "This states that a little bit of radiation can increase the lifespan by stimulating hormonal and immune responses to other toxic environmental agents? ",
+    "answer": "Theory of Hormesis "
+  },
+  {
+    "question": "This effect of radiation occurs randomly and increases in incidence as the radiation dose is increased.",
+    "answer": "Late effect, Probabilistic effect, Stochastic effect"
+  },
+  {
+    "question": "This effect of radiation becomes more severe at the high radiation exposure and does not occur blow a certain threshold dose?",
+    "answer": "Early effect, Deterministic effect, Nonstochastic effect"
+  },
+  {
+    "question": "This is a mathematical relationship between various radiation dose levels and magnitude of the observed response.",
+    "answer": "Dose-response curves"
+  },
+  {
+    "question": "Desribe as a stochastic effect and exhibit a no threshold dose.",
+    "answer": "Late effect of radiation"
+  },
+  {
+    "question": "The response is not directly proportional to the dose in? ",
+    "answer": "Nonlinear dose-response relationship"
+  },
+  {
+    "question": "The level below which there is no response?",
+    "answer": "Threshold dose-response relationship"
+  },
+  {
+    "question": "The response is directly proportional to the dose in? ",
+    "answer": "Linear dose-response relationship "
+  },
+  {
+    "question": "Any dose regardless of its size is expected to produce a response? ",
+    "answer": "Nonthreshold dose-response relationship"
+  },
+  {
+    "question": "It indicates that no level of radiation can be considered completely safe. A response may occur at any dose and it is directly proportional to the dose received.",
+    "answer": "Linear-nonthreshold "
+  },
+  {
+    "question": "It indicates that no response occurs at a lower radiation exposure but when the threshold dose is exceeded, the response is directly proportional to the dose received.",
+    "answer": "Linear-threshold "
+  },
+  {
+    "question": "It indicates that no level of radiation can be considered completely safe. A response may occur at any dose and it is not directly proportional to the dose received.",
+    "answer": "Non-linear-nonthreshold "
+  },
+  {
+    "question": "An uncharged molecule that contains a single unpaired loosely bound electron in the shell.",
+    "answer": "Free radicals"
+  },
+  {
+    "question": "What is the latent period of radiation-induced leukemia?",
+    "answer": "4-7 years"
+  },
+  {
+    "question": "Which of the following combinations will result in hydrogen peroxide?",
+    "answer": "OH* + OH *, HO*2 + HO* 2"
+  },
+  {
+    "question": "Which of the following combinations will result in hydroperoxyl radical?",
+    "answer": "H* + O 2"
+  },
+  {
+    "question": "Which of the following are the principal damaging products of radiolysis of water?",
+    "answer": "Hydrogen Peroxide and Hydroperoxyl radical "
+  },
+  {
+    "question": "This results when the radiation interaction occurs on the critical target molecule ?",
+    "answer": "Direct effect"
+  },
+  {
+    "question": "This result when the radiation interaction occurs at a distant, noncritical molecule and transfers the energy of ionization to the target molecule.",
+    "answer": "Indirect effect"
+  },
+  {
+    "question": "This represents the dose that would result in one hit per target in a straight-line portion of the graph if no radiation were wasted. ",
+    "answer": "Do"
+  },
+  {
+    "question": "High Do means?",
+    "answer": "Highly radioresistant cells"
+  },
+  {
+    "question": "It is related to the capacity of the cell to recover from sublethal damage.",
+    "answer": "DQ"
+  },
+  {
+    "question": "This is the most time variable phase of the cell cycle. ",
+    "answer": "G1 phase"
+  },
+  {
+    "question": "This is the longest phase of the cell cycle.",
+    "answer": "G1 phase"
+  },
+  {
+    "question": "It refers to the average time from one mitosis to another mitosis",
+    "answer": "Cell cycle time , Cell generation time "
+  },
+  {
+    "question": "What is the threshold dose that causes permanent stertility?",
+    "answer": "5000 mGyt"
+  },
+  {
+    "question": "Highly radiosensitive cells ",
+    "answer": "Low D0 means? "
+  },
+  {
+    "question": "It is the threshold dose and a measure of width of the shoulder of the multi-target , single-hit model",
+    "answer": "DQ"
+  },
+  {
+    "question": "Which of the following is the correct arangement of male gametogenesis from least radiosentive to most radiosensitive cells?",
+    "answer": "Sperm, Spermatid, Spermatocyte, Spermatogonia "
+  },
+  {
+    "question": "Which of the following doses is required to reduce the number of spermatozoa? ",
+    "answer": "100 mGyt (10 rad) "
+  },
+  {
+    "question": "The male patient who has been irradiated with a dose greater than 100 mGyt (10 rad) on his testes should avoid coitus for how long? ",
+    "answer": "2-4 months "
+  },
+  {
+    "question": "This is the first radiation monitoring technique performed on early x-rays and radium workers",
+    "answer": "Periodic blood examination"
+  },
+  {
+    "question": "What is the minimum whole-body dose required to produce a measurable hematolgic depression?",
+    "answer": "250 mGyt (25 rad)"
+  },
+  {
+    "question": "Bone marrow, Spleen , Circulating blood, and Lymphoid tissue. The hemopoietic system includes the following , except? ",
+    "answer": "Spleen"
+  },
+  {
+    "question": "Lymph nodes, Spleen, Circulating Blood , and Thymus. The lymphoid tissues includes the following , except? ",
+    "answer": "Circulating blood"
+  },
+  {
+    "question": "What is the major effect of radiation in hemopoietic system? ",
+    "answer": "Reduction of blood cells in the peripheral circulation"
+  },
+  {
+    "question": "What is the stem cell of hemopoietic system?",
+    "answer": "Pluripotential cells"
+  },
+  {
+    "question": "Ribs, Carpal bones, Sternum, Skull. Bone marrow is restricted in all of the following structures , except?",
+    "answer": "Carpal boness "
+  },
+  {
+    "question": "Which of the following organs produce lymphocyte? ",
+    "answer": "Thymus and Spleen"
+  },
+  {
+    "question": "Most circulating blood cells are produced in the? ",
+    "answer": "Bone Marrow"
+  },
+  {
+    "question": "Which of the following types of bones consist of a higher concentration of bone marrow?",
+    "answer": "Flat Bones "
+  },
+  {
+    "question": "These blood cells are involvd in the immune response?",
+    "answer": "Lymphocytes"
+  },
+  {
+    "question": "These blood cells are the transportation agents for oxygen?",
+    "answer": "Erythrocytes "
+  },
+  {
+    "question": "These blood cells are scavenger- type and are used to fight bacteria? ",
+    "answer": "Granulocytes"
+  },
+  {
+    "question": "These blood cells are involved in the clotting of blood",
+    "answer": "Thrombocytes "
+  },
+  {
+    "question": "These blood cells are commonly known as platelets?",
+    "answer": "Thrombocytes "
+  },
+  {
+    "question": "Which of the following are the most radiosensitive cells in the body?",
+    "answer": "Lymphocytes, Spermatogonia "
+  },
+  {
+    "question": "What is the lifetime of thrombocytes in the bone marrow?",
+    "answer": "5 days "
+  },
+  {
+    "question": "At least two different dose levels must be known, One must assume a linear dose-response curves, Only one dose level is required for nonthreshold dose relationship, and Two dose levels are required for nonthreshold dose-response relationship. All of the following statements are used to determine absolute risk, except?",
+    "answer": "Two dose levels are required for nonthreshold dose-response relationship"
+  },
+  {
+    "question": "What is the risk coefficient for a fatal radiation-induced malignant disease? ",
+    "answer": "5 x 10 ^-2 SV ^-1 ( 5 x 10 ^-4 rem ^-1)"
+  },
+  {
+    "question": "What  is the risk coefficient of total radiation-induced malignant disease?",
+    "answer": "8 x 10 ^-2 Sv^-1 ( 8 x 10 ^-4 rem -1) "
+  },
+  {
+    "question": "The radiation-induced incidence of malignant disease has a risk coefficent of? ",
+    "answer": "8 cases per 10,000 population per 10 mSv"
+  },
+  {
+    "question": "The mortality of malignant disease has a risk coefficient of? ",
+    "answer": "5 cases per 10, 1000 population per 10 mSv"
+  },
+  {
+    "question": "Radiation-induced leukemia follows what dose-response curve?",
+    "answer": "Linear-nonthreshold "
+  },
+  {
+    "question": "What is the approximate at-risk period of radiation-induced leukemia?",
+    "answer": "20 years"
+  },
+  {
+    "question": "It refers to the time after radiation exposure during which the irradiation individual expect the radation response to occur? ",
+    "answer": "At-risk period"
+  },
+  {
+    "question": "What is the approximate at-risk period of radiation-induced cancer?",
+    "answer": "Lifetime"
+  },
+  {
+    "question": "The patients with Ankylosing spondylitis are usually treated with radiation therapy and experienced death because of which of the following condition? ",
+    "answer": "Leukemia"
+  },
+  {
+    "question": "The modality of choice for the treatment of Ankylosing spondylitis",
+    "answer": "Radiation Theraphy"
+  },
+  {
+    "question": "Radiation-induced preneoplastic thyroid nodularity follows what dose-response curve.",
+    "answer": "Linear-nonthreshold "
+  },
+  {
+    "question": "Which of the following response is associated with the treatment of radium salts on patients with arthritis and tuberculosis?",
+    "answer": "Bone cancer"
+  },
+  {
+    "question": "Radiation-induced skin cancer follows what dose-response curve?",
+    "answer": "Linear-nonthreshold "
+  },
+  {
+    "question": "At a dose than 2 Gyt, low-LET radiations such as x-rays and gamma rays generally have an OER of?",
+    "answer": "2"
+  },
+  {
+    "question": "What is the latent period of radiation-induced skin cancer?",
+    "answer": "5-10 years"
+  },
+  {
+    "question": "It is the ratio dose required to cause biologic response without oxygen to the dose required to cause the same effect with oxygen.",
+    "answer": "OER"
+  },
+  {
+    "question": "At a dose greater than 2 Gyt low-LET radiations such as x-rays and gamma rays generally have an OER of?",
+    "answer": "3"
+  },
+  {
+    "question": "What is the observed response of spinal to high dose of radiation on clinical radiotion oncology?",
+    "answer": "Transection"
+  },
+  {
+    "question": "This is the basic unit of all living matter and very essential for life",
+    "answer": "Cell"
+  },
+  {
+    "question": "This is the chemical building material for a living things",
+    "answer": "Protoplasm"
+  },
+  {
+    "question": "Water, Protein, Carbohydrates, Lipids. All of the following are the essential major organic compounds, except? ",
+    "answer": "Water"
+  },
+  {
+    "question": "It is the fundamental components of structure , development , growth and life processes in the human body.",
+    "answer": "Cell"
+  },
+  {
+    "question": "Which of the following are the most important inorganics substances?",
+    "answer": "Electrolytes, Water "
+  },
+  {
+    "question": "The most abundant inorganic compound in the body?",
+    "answer": "Water"
+  },
+  {
+    "question": "Which of the following compounds helps produce energy, aids conduction of nerve impulses and prevents muscle cramping?",
+    "answer": "Mineral salts "
+  },
+  {
+    "question": "This is the basic constituent of all organic compounds?",
+    "answer": "Carbon "
+  },
+  {
+    "question": "Most proteins produced in the cell are? ",
+    "answer": "Repair Enzymes "
+  },
+  {
+    "question": "These are invasive foreign objects that may penetrate the body's defense mechanism such as bacteria and viruses",
+    "answer": "Antigens "
+  },
+  {
+    "question": "The primary energy source for the cell?",
+    "answer": "Glucose "
+  },
+  {
+    "question": "These organic compounds are most abundant in the liver and in muscle tissue?",
+    "answer": "Carbohydrates"
+  },
+  {
+    "question": "Nucleic acids are composed of much smaller structures called?",
+    "answer": "Nucleotides"
+  },
+  {
+    "question": "This process joins the nitrogen organic bases in DNA?",
+    "answer": "Hydrogen bond"
+  },
+  {
+    "question": "Which of the following inorganic compounds contains most carbon? ",
+    "answer": "Protein"
+  },
+  {
+    "question": "The part of the cell that lies outside the nucleus where cellular activity such us growth ad differentiation occur.",
+    "answer": "Cytoplasm "
+  },
+  {
+    "question": "Lipids are composed of much smaller structures called?",
+    "answer": "Glycerin and fatty acids"
+  },
+  {
+    "question": "Chromosomes are composed of? ",
+    "answer": "DNA and Protein "
+  },
+  {
+    "question": "Each of th germ or genetic cells consists of how many chromosomes?",
+    "answer": "23 chromosomes"
+  },
+  {
+    "question": "It indicates that no response occurs at a lower radiation exposure but when the threshold dose is exceeded, the response is not directly proportional to the dose received?",
+    "answer": "Nonlinear-threshold "
+  },
+  {
+    "question": "Radiation-induced malignant disease, leukemia, cancer, genetic damage , thyroid cancer and life-span shortening follow what dose-response curve?",
+    "answer": "Linear-nonthreshold "
+  },
+  {
+    "question": "The basis for radiation protection guideline follows what dose-reponse curve?",
+    "answer": "Linear-nonthreshold "
+  },
+  {
+    "question": "Proteins are composed of much smaller structures called?",
+    "answer": "Amino Acids"
+  },
+  {
+    "question": "Single-hit chromosomes aberrations follows what dose-response curve?",
+    "answer": "Linear-nonthreshold "
+  },
+  {
+    "question": "Chronic lymphocytic leukemia follows what dose-response curve?",
+    "answer": "Linear-nonthreshold "
+  },
+  {
+    "question": "This indicates that even without radiation exposure, any type of response may occur? ",
+    "answer": "Natural response"
+  },
+  {
+    "question": "Which of the following is also commonly referred to as sigmoid-type dose-response relationship?",
+    "answer": "Nonlinear-threshold "
+  },
+  {
+    "question": "What are the major concerns in diagnostic radiology? ",
+    "answer": "Probabilistic response, and Linear-nonthreshold dose response relationship. "
+  },
+  {
+    "question": "This is the focus of most radiobiologic studies in diagnostic imaging.",
+    "answer": "Low dose, Stochastic effects"
+  },
+  {
+    "question": "The principal effect of radiation on human is?",
+    "answer": "Indirect"
+  },
+  {
+    "question": "Radiation-induced cataracts, acute radiation syndrome and death follow what dose-respone curve?",
+    "answer": "Nonlinear-threshold "
+  },
+  {
+    "question": "The biological response as a result of exposure to ionizing radiation may be observed in ? ",
+    "answer": "Molecular level, Cellular Level, Organ Level"
+  },
+  {
+    "question": "Visible radiation-induced response to biologic tissues always begin with damage at the?",
+    "answer": "Molecular Level"
+  },
+  {
+    "question": "A free radical may exist only for approximately?",
+    "answer": "1 ms"
+  },
+  {
+    "question": "Skin effects from high-dose fluorosocopy follow what dose-response curve?",
+    "answer": "Nonlinear-threshold "
+  },
+  {
+    "question": "Two-thirds of all radiation-induced damage is belive to be caused by? ",
+    "answer": "Hydroxyl free radicals"
+  },
+  {
+    "question": "Which of the following are the primary substances that produce biologic damage directly after radiolysis of water?",
+    "answer": "Hydrogen peroxide, Hydroperoxyl radicals "
+  },
+  {
+    "question": "What is the cell cycle time of most human cells that are in normal state of proliferation?",
+    "answer": "24 hours "
+  },
+  {
+    "question": "Multi-hit chromosome aberrations follow what dose-response curve?",
+    "answer": "Non-linear-nonthreshold "
+  },
+  {
+    "question": "Neurons do not normally undergo mitosis and have a longer cell cycle time, which is the result of? ",
+    "answer": "Lengthening of G1 phase"
+  },
+  {
+    "question": "The cells are most radiosensitive during what phase of cell cycle?",
+    "answer": "M phase"
+  },
+  {
+    "question": "This represents the pattern of change in radiosensitivity as a function of phase in the cell cycle?",
+    "answer": "Age-response fucntion"
+  },
+  {
+    "question": "This is the ratio of the mean lethal dose of standard radiation necessary to produce a given effect and the mean lethal dose of test radiation to produce the same effect.",
+    "answer": "Relative biologic effectiveness"
+  },
+  {
+    "question": "Granulocytes and Erythrocytes spend how many days in the bone marrow?",
+    "answer": "8-10 days"
+  },
+  {
+    "question": "What is the lifetime of lymphocytes in the peripheral blood?",
+    "answer": "Couple of days "
+  },
+  {
+    "question": "An extrapolated experimental data results in what dose-response curve?",
+    "answer": "Linear-nonthreshold "
+  },
+  {
+    "question": "What is the lifetime of thrombocytes in the peripheral blood?",
+    "answer": "1 week"
+  },
+  {
+    "question": "The basis for current dose limits follows what dose-response curve? ",
+    "answer": "Linear-nonthreshold "
+  },
+  {
+    "question": "What types of blood cell is the first to be affected by irradiation?",
+    "answer": "Lymphocytes "
+  },
+  {
+    "question": "Lowest percetage of cell survival occurs in what portion of the cell cycle?",
+    "answer": "M phase"
+  },
+  {
+    "question": "Full recovery of thrombocytes and granulocytes will take approximately ?",
+    "answer": "2 months "
+  },
+  {
+    "question": "Correct arrangement of the four major response stages of acute radiation syndrome? ",
+    "answer": "Prodromal, Latent, Manifest Illness, Death or recovery"
+  },
+  {
+    "question": "Which of the following blood cells is the most radioresistant?",
+    "answer": "Erythrocytes"
+  },
+  {
+    "question": "What is the lifetime of erythrocytes in the peripheral blood?",
+    "answer": "4 months"
+  },
+  {
+    "question": "This is the study of cell chromosomes?",
+    "answer": "Cytogenetics"
+  },
+  {
+    "question": "Radiation-induced chromosome aberration follows what dose-responsee curve?",
+    "answer": "Nonthreshold"
+  },
+  {
+    "question": "The cells are most radioresistant during what phase of cell cycle?",
+    "answer": "Late S phase"
+  },
+  {
+    "question": "Highest percentage of cell survival ocurs in what portion of the cell cycle?",
+    "answer": "Late S phase"
+  },
+  {
+    "question": "Which of the following blood cells is used commonly for cytogenetic analysis?",
+    "answer": "Lymphocytes "
+  },
+  {
+    "question": "Full recovery of erythrocytes will take approximately?",
+    "answer": "6 months"
+  },
+  {
+    "question": "When the chromosome damage occurs at the time of irradiation , the damage can be measured in?",
+    "answer": "Months or years after exposure"
+  },
+  {
+    "question": "A photomicrograph of human cell nucleus can be observed during?",
+    "answer": "Metaphase"
+  },
+  {
+    "question": "A chromosome may is called a/an?",
+    "answer": "Karyotype"
+  },
+  {
+    "question": "How many pair/s of sex chromosome does each cell have?",
+    "answer": "1 pair"
+  },
+  {
+    "question": "These blood cells require in vitro experiment with an appropriate laboratory technqiue to allow them to  move into mitosis?",
+    "answer": "Lymphocytes "
+  },
+  {
+    "question": "How many pair/s of autosomes does eac cell have?",
+    "answer": "22 pairs"
+  },
+  {
+    "question": "Which of the following types of chromosome aberrations requires karyotype construction for detection?",
+    "answer": "Reciprocal translocation"
+  },
+  {
+    "question": "Which of the following types of chromosome abberrations is undetectable even with karyotype construction?",
+    "answer": "Point genetic mutations "
+  },
+  {
+    "question": "Radiation-induced breast cancer follows what dose-response curve?",
+    "answer": "Linear-nonthreshold "
+  },
+  {
+    "question": "What is the observed response of brain to high dose of radiation on clinical radiation oncology?",
+    "answer": "Necrosis"
+  },
+  {
+    "question": "This type of malignancy occurs in patients treated with fluoroscopy for tuberculosis and for postpartum mastitis? ",
+    "answer": "Breast Cancer"
+  },
+  {
+    "question": "What is the approximate absolute risk for radaition-induced breast cancer?",
+    "answer": "6 x 10 ^-2 Sv ^-1"
+  },
+  {
+    "question": "This malignancy occurs in patients who worked in the Bohemian pitchblende mines?",
+    "answer": "Lung cancer"
+  },
+  {
+    "question": "This malignancy occurs in patients who has been injected with Thorotrast during angiographic examination",
+    "answer": "Liver Cancer"
+  },
+  {
+    "question": "What is the approximate at-risk period for induction of malignancy?",
+    "answer": "20-25 years "
+  },
+  {
+    "question": "What is the approximate overall risk for induction of malignancy?",
+    "answer": "8 cases per 100 Sv"
+  },
+  {
+    "question": "The risk of death radiation-induced malignancy is?",
+    "answer": "5 cases per 100 Sv"
+  },
+  {
+    "question": "According to BEIR committee, human exposure is less harmful if the dose received is less than?",
+    "answer": "10 mGyt"
+  },
+  {
+    "question": "What is the major concern when the patient is irradiated before pregnancy?",
+    "answer": "Interrupted fertility"
+  },
+  {
+    "question": "What is the major concern when the patient is irradiated during  pregnancy?",
+    "answer": "Congenital effects"
+  },
+  {
+    "question": "What is the major concern when the patient is irradiated postpregnancy?",
+    "answer": "Genetic Effects"
+  },
+  {
+    "question": "What is the observd response of muscle to high dose of radiation on clinical radiation oncology?",
+    "answer": "Fibrosis"
+  },
+  {
+    "question": "Which of the following doses of radiation may not cause noticeable depression in fertility?",
+    "answer": "1 Sv per year"
+  },
+  {
+    "question": "Which of the following conditions may not impair fertility?",
+    "answer": "Low Dose, Chronic Irradiation "
+  },
+  {
+    "question": "What is the observed response of growing bone to high dose of radiation on clinical radiation oncology?",
+    "answer": "Growth arrest"
+  },
+  {
+    "question": "The most radiosensitive period during pregnancy?",
+    "answer": "First trimester"
+  },
+  {
+    "question": "Wha is the major concern during first two weeks of fertilization after high dose of irradaition?",
+    "answer": "Prenatald death"
+  },
+  {
+    "question": "The process of meiosis are similar to mitosis except that there is no ____ and no DNA ____ occurs in the _____. ",
+    "answer": "Synthesis (S) phase, Replication, Telophase "
+  },
+  {
+    "question": "The Human Genome Project has mapped the entire sequence of DNA base pairs on all 46 chromosomes which consist of?",
+    "answer": "2.9 billion base pairs/30, 000 genes"
+  },
+  {
+    "question": "What is the observed response of thyroid to high dose of radiation on clinical radiation oncology?",
+    "answer": "Atrophy"
+  },
+  {
+    "question": "When the RBE of radaition is equal to 3, it means?",
+    "answer": "The test radiation is 3 times as effective in producing biologic damage than the reference radiation"
+  },
+  {
+    "question": "What is the observed response of liver to high dose of radiation on clinical radiation oncology?",
+    "answer": "Ascites"
+  },
+  {
+    "question": "A fertilized egg cell is composed of how many chromosomes?",
+    "answer": "46 chromosomes "
+  },
+  {
+    "question": "The basic units of hereditary that control the formation of proteins in each cell?",
+    "answer": "Genes"
+  },
+  {
+    "question": "The total amount of DNA contained within the chromosomes of a human body is called?",
+    "answer": "Genome"
+  },
+  {
+    "question": "The process of locating and identifying the genes in the genome is called? ",
+    "answer": "Mapping"
+  },
+  {
+    "question": "A hydrogen-containing compounds that can attack and dissolve metals",
+    "answer": "Acids"
+  },
+  {
+    "question": "An alkali or alkaline earth OH compounds that can neutralize acids",
+    "answer": "Acids"
+  },
+  {
+    "question": "These are substances that become ions in solution and acquire the capacity to conduct electricity which are essential for normal cell and organ functions in the body",
+    "answer": "Electrolytes, Salts "
+  },
+  {
+    "question": "A mineral salt necessary in maintaining adequate amounts of intracellular fluid an acid-base balance.",
+    "answer": "Potassium"
+  },
+  {
+    "question": "Cellular component that controls the passage of water and other materials into and out of the cell. ",
+    "answer": "Cell membrane "
+  },
+  {
+    "question": "Cytoplasm makes up the majority of the cell an contains large amount of all the cell's molecular components with the exception of?",
+    "answer": "DNA "
+  },
+  {
+    "question": "It functions as the highway system of the cell by enabling the cell to communicate with the extracellular environment and transfer foods and molecules from one part of the cell to another.",
+    "answer": "Endoplasmic Reticulum "
+  },
+  {
+    "question": "Cytoplasmic organelles that is most commonly referred to as 'protein factories'",
+    "answer": "Ribosomes "
+  },
+  {
+    "question": "Ribosomes are composed of?",
+    "answer": "2/3 RNA, 1/3 protein"
+  },
+  {
+    "question": "Cytoplasmic organelles that contain centrioles which play imporant role in the formation of the mitotic spindle by organizing the spindle fibers during mitosis.",
+    "answer": "Centromeres "
+  },
+  {
+    "question": "The process wherein the oogonium and sprmatogonium undergo reduction division.",
+    "answer": "Meiosis "
+  },
+  {
+    "question": "The nucleas is separated from other parts of the cell by a double-walled membrane called?",
+    "answer": "Nuclear Envelope"
+  },
+  {
+    "question": "During this phase, each DNA molecule contained within the chromosome is replicated and then divided into two individual sister chromatids , each containing DNA molecules. ",
+    "answer": "Synthesis phase"
+  },
+  {
+    "question": "This is the period of cell growth that occurs before actual cell division.",
+    "answer": "Interphase"
+  },
+  {
+    "question": "A very small, rounded body located inside the nucleus which manufactures and holds a large amount of RNA and protein inside the ribosomes it contains?",
+    "answer": "Nucleolus "
+  },
+  {
+    "question": "The phases of cell cycle that comprise interphase are?",
+    "answer": "G1 phase, S phase and G2 phase"
+  },
+  {
+    "question": "It contains different digestive enzymes that target proteins and helps breaks down unwanted large molecules.",
+    "answer": "Lysosomes "
+  },
+  {
+    "question": "Individual chromosomes are not visible during?",
+    "answer": "Interphase"
+  },
+  {
+    "question": "Chromosomes enlarge and the DNA takes structural form during what phase of cell division?",
+    "answer": "Prophase"
+  },
+  {
+    "question": "This is the first phase of cell division",
+    "answer": "Prophase"
+  },
+  {
+    "question": "The principal interest in diagnostic imaging is?",
+    "answer": "To estimate response at very low dosee only"
+  },
+  {
+    "question": "No radiation responses have been observed in human after receivingdose less than?",
+    "answer": "100 mGyt (10 rad)"
+  },
+  {
+    "question": "Velocity, Charge, Mass , Energy.  All of the following are the characteristics or attributes ionizing radiation that affect transfers energy to biologic, except? ",
+    "answer": "Velocity"
+  },
+  {
+    "question": "Which of the following is a very important factor in assessing potential tissue and organ damage from exposure tto ionizing radiation. ",
+    "answer": "LET"
+  },
+  {
+    "question": "Low-LET radiations include?",
+    "answer": "X-rays , Gamma Rays"
+  },
+  {
+    "question": "It is a parameter that describes the average photon energy deposited over small distances in the material?",
+    "answer": "LET"
+  },
+  {
+    "question": "Each chromosomes reproduces itself and splits longitudinally and forms two sister chromatid attached to each other at the centromere. This occurs during what portion of the interphase. ",
+    "answer": "S phase"
+  },
+  {
+    "question": "Cells manufacture certain proteins and RNA molecules needed to enter and complete the next mitosis during what phase of cell cycle?",
+    "answer": "Post-DNA synthesis phase"
+  },
+  {
+    "question": "Low -LET radiation causes damage to a cell primarily through a/an ? ",
+    "answer": "Indirect action"
+  },
+  {
+    "question": "It is most often a combination of atoms that are very chemically reactive single entities as a result of the presence of unpaired electrons",
+    "answer": "Free radicals "
+  },
+  {
+    "question": "In radiation protection, it is of greatest concern when there is a possibility that a radionuclide is implanted, ingested, injection and inhaled (internal contamination) ",
+    "answer": "High-LET radiation "
+  },
+  {
+    "question": "It is used to calculate the equivalent dose (EqD) to determine the ability of a dose of any kind of ionizing radiation to causee biologic damage.",
+    "answer": "Radiation weighting factor"
+  },
+  {
+    "question": "This is the ratio of the dose of 250-kVp x-rays to the dose of radiation of the test radiation of the test radiation that is necessary to produce the same effect.",
+    "answer": "RBE"
+  },
+  {
+    "question": "An organic neutral free radical is symbolized as?",
+    "answer": "R*"
+  },
+  {
+    "question": "It describes the relative capabilities of radiation with different LETs to produce a particular biologic damage.",
+    "answer": "LET"
+  },
+  {
+    "question": "During indirect action, the immediate cause of damage to biological tissue is the? ",
+    "answer": "Free radicals "
+  },
+  {
+    "question": "Single strand break is most commonly known as? ",
+    "answer": "Point mutation"
+  },
+  {
+    "question": "Single strand break is most commonly occur with?",
+    "answer": "Low-LET radiation only"
+  },
+  {
+    "question": "A type of cross-link that is formed between two places on the same DNA stand.",
+    "answer": "Intrastrand cross-link"
+  },
+  {
+    "question": "Double stand break is most commonly occur with?",
+    "answer": "High-LET radiation only"
+  },
+  {
+    "question": "Which of the following represents high level of cell radiosensitivity",
+    "answer": "Low Do, Low D37"
+  },
+  {
+    "question": "Irradiation of human cells using alpha radiation follows what model of cell survical kinetics?",
+    "answer": "Single-target , single-hit model"
+  },
+  {
+    "question": "A type of cross-link that occurs between complementary DNA or entirely different DNA molecules",
+    "answer": "Interstand cross-link"
+  },
+  {
+    "question": "Which of the following elements is an example of dose modifier? ",
+    "answer": "Oxygen"
+  },
+  {
+    "question": "This is the ratio of the mean lethal dose necessary under anoxic conditions to produce a given effect and the mean lethal dose necessary under aerobic conditions to produce the same effect.",
+    "answer": "Oxygen enhancement ratio"
+  },
+  {
+    "question": "What is the first technique used to monitor radiation exposure of early radiologi technologist?",
+    "answer": "Routine blood examination"
+  },
+  {
+    "question": "It occurs when the cells are irradiated with ionizing radiation of approximately 1-10 Gyt",
+    "answer": "Reproductive death"
+  },
+  {
+    "question": "Which of the following types of chromosome aberrations do not require karyotype construction for detection.",
+    "answer": "Single-hit chromosome aberration, Multi-hit chromosome aberration "
+  },
+  {
+    "question": "When the chromosomes are irradiated , which of the following interaction/s may occur?",
+    "answer": "Both direct and indirect effect "
+  },
+  {
+    "question": "This type of hit represents disruption of many molecular bonds and severed many chains of DNA.",
+    "answer": "Chromosome hit"
+  },
+  {
+    "question": "This term refers to thee breakage of a chromatid",
+    "answer": "Chromatid Deletion "
+  },
+  {
+    "question": "Chromosomes aberrations are replicated during what phase of cell cycle",
+    "answer": "S phase"
+  },
+  {
+    "question": "A fragment that consists of a chromosome with material missing from the ends of two sisster chromatids and two acentric fragments ",
+    "answer": "Isochromatid "
+  },
+  {
+    "question": "This results in a visible dearangement of chromosome",
+    "answer": "Chromosome hit"
+  },
+  {
+    "question": "Single-chromosome aberration that occurs durng G2 phase may result in?",
+    "answer": "Single Chromosome break, Double chromatid break "
+  },
+  {
+    "question": "Chromatid deletion commonly occurs?",
+    "answer": "Only in one arm of the chromosome "
+  },
+  {
+    "question": "Which of the following examples of structural damage to chromosome occur due to multi-hit chromosome aberrations",
+    "answer": "Dicentric chromosomes, Ring chromosomes"
+  },
+  {
+    "question": "A single chromosomes can sustain?",
+    "answer": "More than on hit"
+  },
+  {
+    "question": "This occurs in multi-hit chromosome aberrations when two hits occur on the same chromosome.",
+    "answer": "Ring chromosomes "
+  },
+  {
+    "question": "What is the dose-response curve associated with single-hit chromosome aberrations",
+    "answer": "Linear-nonthreshold "
+  },
+  {
+    "question": "It refers to a chromosome without a centromere",
+    "answer": "Acentric "
+  },
+  {
+    "question": "What is the dose-response curve associated with multi-hit chromosome aberrations?",
+    "answer": "Nonlinear-nonthreshold "
+  },
+  {
+    "question": "This is used in some laboratories experiments as a biologic radiation dosimeter?",
+    "answer": "Cytogenetic analysis"
+  },
+  {
+    "question": "Which of the following is the least concern during gestational period?",
+    "answer": "First two weeks"
+  },
+  {
+    "question": "What is the relative risk of childhood leukemia after irradiation in utero during second trimester?",
+    "answer": "1.5"
+  },
+  {
+    "question": "This occurs in multi-hit chromosome aberrations when adjacent chromosomes each sustain one hit and recombine",
+    "answer": "Ring chromosomes "
+  },
+  {
+    "question": "Major organogenesis occurs during what period?",
+    "answer": "2nd week- 12th weeks"
+  },
+  {
+    "question": "Irradiation during early major organogenesis may result in?",
+    "answer": "Skeletal malformation"
+  },
+  {
+    "question": "This is the last phase of cell cycle that takes about 1 hour in all cells",
+    "answer": "Mitosis phase"
+  },
+  {
+    "question": "Severe radiation-induced congenital abnormalities may result in?",
+    "answer": "Neonatal death"
+  },
+  {
+    "question": "Whn pregnant patient received 10 rad (100 mGyt), the natural incidence of congenital abnormalities is expected to increase by how many percent?",
+    "answer": "1%"
+  },
+  {
+    "question": "What is the relative risk of childhood leukemia after irradiation in utero? ",
+    "answer": "1.5"
+  },
+  {
+    "question": "Irradiation during late major organogenesis may result in?",
+    "answer": "CNS malformation"
+  },
+  {
+    "question": "Mental retardation is observed on irradiated patient at dose of?",
+    "answer": "Greater than 100 rad (1000 Gyt)"
+  },
+  {
+    "question": "What is the relative risk of childhood leukemia after irradiation in utero during third trimester?",
+    "answer": "1.4"
+  },
+  {
+    "question": "Which of the following response occurs after irradiation of 10 rad in utero within the period of 2-10th week?",
+    "answer": "Congenital abnormalities"
+  },
+  {
+    "question": "Which of the following response occurs after irradiation of 10 rad in utero within the period of 2-15th week?",
+    "answer": "Mental Retardation"
+  },
+  {
+    "question": "Each chromosomes lines up in the center or equator of the cell attatched by its centromere to the mitotic spindle during what phase of cell division?",
+    "answer": "Metaphase"
+  },
+  {
+    "question": "Cytokinesis occurs during what phase of cell division?",
+    "answer": "Telophase"
+  },
+  {
+    "question": "A special type of cell division that reduces the number of chromosomes in each daughter cell to half the number of chromosomes in the parent cell?",
+    "answer": "Meiosis "
+  },
+  {
+    "question": "It concentrates. , packages and transport ezymes and hormones through the cell membrane and to the other part of the body where they are required.",
+    "answer": "Golgi complex"
+  },
+  {
+    "question": "Cytoplasmic organelles that is most commonly referred to as 'suicide bags'",
+    "answer": "Centromeres "
+  },
+  {
+    "question": "It occurs when the cells are irradiated with ionizing radiation of approximately 1000 Gyt",
+    "answer": "Instant death"
+  },
+  {
+    "question": "This results in an invisible disruption of the molecular structure of thedeoxyribonucleic acid",
+    "answer": "DNA hit"
+  },
+  {
+    "question": "Mental retardation, Malignant Disease, Impaired growth and development, Genetic mutation. All of the following response occurs after irradiation of 10 rad in utero within the period of 0-9 months, except? ",
+    "answer": "Mental Retardation"
+  },
+  {
+    "question": "Chromosome deletion may results in the following?",
+    "answer": "An arm with missing genetic material, Chromatid fragment"
+  },
+  {
+    "question": "Which of  the following examples of structural damage to chromosome occur due to single-hit chromosome aberrations? ",
+    "answer": "Single Chromatid break, Double chromatid break"
+  },
+  {
+    "question": "What is the relative risk of childhood leukemia after irradiation in utero during first trimester?",
+    "answer": "8.3"
+  },
+  {
+    "question": "Which following response occurs after irradiation of 10 rad in utero within the period of 0-2nd week?",
+    "answer": "Spontaneous abortion "
+  }
+]

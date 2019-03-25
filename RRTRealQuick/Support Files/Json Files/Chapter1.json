@@ -1,0 +1,722 @@
+[
+  {
+    "question": "The production and the use of it as the diagnostic tool serve as the basis for radiography. ",
+    "answer": "Ionizing Radiation "
+  },
+  {
+    "question": "In physical analysis , all things can be classified as? ",
+    "answer": "Matter or Energy "
+  },
+  {
+    "question": "Anything that occupies space and has mass. It is the material substance of which physical objects are composed. ",
+    "answer": "Matter "
+  },
+  {
+    "question": "All matter is composed of fundamental building blocks called? ",
+    "answer": "Atom "
+  },
+  {
+    "question": "A primary , distinguising characteristics of matter. ",
+    "answer": "Mass"
+  },
+  {
+    "question": "Mass of an object. ",
+    "answer": "Weight "
+  },
+  {
+    "question": "Force exerted on a body under the influence of gravity. ",
+    "answer": "Weight "
+  },
+  {
+    "question": "Quantity of matter as described by its energy equivalence. ",
+    "answer": "Mass"
+  },
+  {
+    "question": "Mass is meassured in? It is unrelated to gravitational effects. ",
+    "answer": "Kilograms (kg)"
+  },
+  {
+    "question": "If man weighs more than a woman , this occurs because of mutal attraction called? ",
+    "answer": "Gravity "
+  },
+  {
+    "question": "On the moon, the man and the woman would weigh only about how many portion what they weigh on Earth. ",
+    "answer": "One-sixth"
+  },
+  {
+    "question": "The fundamental, complex building blocks of matter are? ",
+    "answer": "Atoms and Molecules "
+  },
+  {
+    "question": "The prefix kilo stands for? ",
+    "answer": "1000"
+  },
+  {
+    "question": "A kilogram is equal to? ",
+    "answer": "1000 grams"
+  },
+  {
+    "question": "Quantity of matter that remains unchanged regardless of its state, it can be transformed from one size, shape, and form to another? ",
+    "answer": "Mass "
+  },
+  {
+    "question": "In the International System , energy is measured in? ",
+    "answer": "Joules "
+  },
+  {
+    "question": "Energy can exist in several forms. In radiology , it is often used. ",
+    "answer": "Electron Volt (eV)"
+  },
+  {
+    "question": "The ability to do work",
+    "answer": "Energy "
+  },
+  {
+    "question": "One of the 7 kinds of energy that is the ability to do work by the virtue of position? ",
+    "answer": "Potential Energy "
+  },
+  {
+    "question": "One of the 7 kinds of energy that it's example are : Rollercoaster on top of the incline and the stretched spring of an open door? ",
+    "answer": "Potential Energy "
+  },
+  {
+    "question": "One of the 7 kinds of energy that is the energy of motion. It is possessed by all matter of motions. ",
+    "answer": "Kinetic Energy "
+  },
+  {
+    "question": "One of the 7 kinds of energy that it's example are : moving automobile, turning windmill wheel and a falling guillotine blade. ",
+    "answer": "Kinetic Energy "
+  },
+  {
+    "question": "One of the 7 kinds of energy that is the energy released by a chemical reaction. ",
+    "answer": "Chemical Energy "
+  },
+  {
+    "question": "An example of this type of energy is that which is provided to our bodies through chemical reactions involving the food we eat. At the molecular level, this area of science is called biochemistry. ",
+    "answer": "Chemical Energy "
+  },
+  {
+    "question": "One of the 7 kinds of energy that represents the work that can be done when an electron moves through an electric potential difference (voltage). ",
+    "answer": "Electrical Energy "
+  },
+  {
+    "question": "One of the 7 kinds of energy that it's example are : All electric apparatus, such as motors, heaters and blowers. ",
+    "answer": "Electrical Energy "
+  },
+  {
+    "question": "One of the 7 kinds of energy that is the energy of motion at the molecular level. It is the kinetic energy of molecules that is related to temperature. ",
+    "answer": "Thermal energy (Heat)"
+  },
+  {
+    "question": "One of the 7 kinds of energy that is the faster the molecules of a substance are vibrating, the more thermal energy the substance has and the higher is its temperature. ",
+    "answer": "Thermal energy (Heat)"
+  },
+  {
+    "question": "One of the 7 kinds of energy that is, the energy that is contained within the nucleus of an atom. ",
+    "answer": "Nuclear Energy "
+  },
+  {
+    "question": "On of the 7 kinds of energy that it's example are : Nuclear Power Plants and Atomic Bombs ",
+    "answer": "Nuclear Energy "
+  },
+  {
+    "question": "One of the 7 kinds of energy that is perhaps the least familiar form of energy. It is the type of energy that is used in x-ray imaging. ",
+    "answer": "Electromagnetic Energy "
+  },
+  {
+    "question": "In additional to x-rays , electromagnetic energy includes? ",
+    "answer": "Radiowaves, Microwaves, Ultraviolet, Infrared and Visible Light "
+  },
+  {
+    "question": "The strangest property associated with matter and energy is that they are interchangable, a characteristics first decribed by _________ in his famous theory of relativity. ",
+    "answer": "Albert Einstein "
+  },
+  {
+    "question": "What is Einstein's equation that is a cornerstone of the theory of relativity. It serves as the basis for the atomic bomb, nuclear power plants and  certain nuclear medicine imaging modalities. ",
+    "answer": "E = mc^2 "
+  },
+  {
+    "question": "In Eintein's mass-energy equivalence, where 'E' is? ",
+    "answer": "Energy "
+  },
+  {
+    "question": "In Eintein's mass-energy equivalence, where 'm' is? ",
+    "answer": "Mass "
+  },
+  {
+    "question": "In Eintein's mass-energy equivalence, where 'c' is the _______ of electromagnetic radiation (light) in a vacuum. ",
+    "answer": "Velocity (Speed)"
+  },
+  {
+    "question": "Energy emitted and transferred through space is called? ",
+    "answer": "Radiation "
+  },
+  {
+    "question": "A form of electromagnetic energy and is radiated by the sun and is electromagnetic radiation. ",
+    "answer": "Visible light "
+  },
+  {
+    "question": "It is usually referred to as electromagnetic radiation or , simply, radiation. ",
+    "answer": "Electromagnetic Energy "
+  },
+  {
+    "question": "The transfer of energy?",
+    "answer": "Radiation "
+  },
+  {
+    "question": "Matter that intercepts radiation and absorbs part or all of it is said to be ? ",
+    "answer": "Exposed or Irradiated "
+  },
+  {
+    "question": "Type of radiation that causes sunburn? ",
+    "answer": "Ultraviolet Light "
+  },
+  {
+    "question": "When patient is exposed to x-rays, the patient is said to be? ",
+    "answer": "Irradiated "
+  },
+  {
+    "question": "Is a special type of radiation that include x-rays? ",
+    "answer": "Ionizing Radiation "
+  },
+  {
+    "question": "Any type of radiation that is capable of removing an orbital electron from the atom with which it interacts. ",
+    "answer": "Ionizing Radiation "
+  },
+  {
+    "question": "When Ionizing Radiation is capable of removing orbital electron from the atom with which it interact, this type of interaction between radiation and matter is called? ",
+    "answer": "Ionization "
+  },
+  {
+    "question": "The ejected electron and the resultant positively charged atom together are called? ",
+    "answer": "Ion Pair"
+  },
+  {
+    "question": "The only forms of electromagnetic radiation with sufficient energy to ionize. Some fast-moving particles (particles with high kinetic energy ) are also capable of ionization. ",
+    "answer": "X-rays, Gamma Rays, and Ultraviolet Light"
+  },
+  {
+    "question": "Many types of radiation are harmless, but ________ can injure human. ",
+    "answer": "Ionizing Radiation "
+  },
+  {
+    "question": "We exposed in many sources of ionizing radiation and these sources can be divided into two main categories and these are?",
+    "answer": "Natural Environmental Radiation and Man-Made Radiation"
+  },
+  {
+    "question": "Natural Environmental Radiation results in an annual dose of approximately ? ",
+    "answer": "3 millisieverts (mSv)"
+  },
+  {
+    "question": "Man-made radiation results in annual dose of approximately?",
+    "answer": "3.2 millisieverts (mSv)"
+  },
+  {
+    "question": "It is used to express radiation exposure of populations and radiation risk in natural environmental radiation and man-made radiation. ",
+    "answer": "millisieverts (mSv)"
+  },
+  {
+    "question": "Natural Environmental Radiation consists of four components and these are? ",
+    "answer": "Cosmic Rays, Terrestrial Radiation, Internally deposited radionuclides and Radon "
+  },
+  {
+    "question": "Natural Environmental Radiation that are particulate and electromagnetic radiation emitted by the sun and stars. ",
+    "answer": "Cosmic Rays"
+  },
+  {
+    "question": "On Earth, the intensity of cosmic radiation increases with ? The intensity is highly dependent on the geology of the local area. ",
+    "answer": "Altitude and Latitude "
+  },
+  {
+    "question": "Natural Environmetal Radiation that results from deposits of uranium , thorium , and other radionuclides in the Earth. ",
+    "answer": "Terrestrial Radiation"
+  },
+  {
+    "question": "Internally deposited radionuclides, mainly ______ , are a natural metabolites. ",
+    "answer": "potassium 40 ( ^40 K) "
+  },
+  {
+    "question": "The largest source of natural environmental radiation is? ",
+    "answer": "Radon "
+  },
+  {
+    "question": "A radioactive gas that is produced by the natural radioactive decay of uranium? ",
+    "answer": "Radon "
+  },
+  {
+    "question": "All Earth-based materials, such as concrete , bricks , and gypsum wall-board contain? ",
+    "answer": "Radon "
+  },
+  {
+    "question": "Radon emits _______, which are not penetrating , and therefore contributes a radiation dose only to the lung. ",
+    "answer": "Alpha Particles"
+  },
+  {
+    "question": "It constitute the largest man-made source of ionizing radiation (3.2 mSv/yr)",
+    "answer": "Diagnostic X-rays "
+  },
+  {
+    "question": "NCRP estimates the increase during the 16-year period is principally attributable to the increasing use of? ",
+    "answer": "Computed Tomography (CT), and High-level Fluoroscopy "
+  },
+  {
+    "question": "The currently accepted approximate annual dose resulting from medical applications of ionizing radiation is ?",
+    "answer": "3.2 mSv"
+  },
+  {
+    "question": "Other sources of man-made radiation include? ",
+    "answer": "Nuclear Power Generation, Reaserch Applications, Industrial Sources, Consumer Items "
+  },
+  {
+    "question": "Consumer Products such as watch dials, exit signs , smoke detectors , campaign lantern mantles , and airport surveillance systems contribute ____ mSv to our annual radiation dose. ",
+    "answer": "0.1 mSv "
+  },
+  {
+    "question": "Nuclear Power Stations and other industrial applications contribute to?",
+    "answer": "Very little radiation dose"
+  },
+  {
+    "question": "Year/s when many physics laboratories investigating the conduction of cathode rays, or electrons, through a large , partially evacuated glass tube knows as a Crookes tube. ",
+    "answer": "During 1870s - 1880 "
+  },
+  {
+    "question": "Englishman who was a self - taught genius. The tube that bears his name was the forerunner of modern fluorescent lamps and x-ray tubes. ",
+    "answer": "William Crookes"
+  },
+  {
+    "question": "There were many different types of Crookes  Tube; most of them were?",
+    "answer": "Capable of Producing X-rays "
+  },
+  {
+    "question": "He was experimenting with a type of Crookes tube when he discovered x-ray. ",
+    "answer": "Wilhelm Roentgen"
+  },
+  {
+    "question": "Year when roentgen discovered x-ray.",
+    "answer": "November 8, 1895"
+  },
+  {
+    "question": "In what school in Germany did roentgen discovered x-rays? ",
+    "answer": "Wurzburg University in Germany"
+  },
+  {
+    "question": "Roentgen darkened his laboratory and enclosed his Crookes tube with _______ so he could better visualized the effects of the cathode rays in the tube. ",
+    "answer": "Black Photographic Paper"
+  },
+  {
+    "question": "A plate coated with _____, a fluorescent material that glowed?",
+    "answer": "Barium Platinocyanide "
+  },
+  {
+    "question": "The 'glow' in barium platinocyanide.",
+    "answer": "Fluorescence "
+  },
+  {
+    "question": "Roentgen 's investgating this 'glow' in barium platinocyanide and called it?",
+    "answer": "X-light"
+  },
+  {
+    "question": "Materials in his hand between the Crookes Tube and the Fluorescing Plate? ",
+    "answer": "Wood, Aluminum"
+  },
+  {
+    "question": "Roentgen reported the result of his work before the end of 1895. Year when he received the first Nobel Prize in Physics?",
+    "answer": "1901"
+  },
+  {
+    "question": "Year roentgen produced and published the first medical x-ray image. It was an image of his wife's hand.",
+    "answer": "1896"
+  },
+  {
+    "question": "Year reported to be the first x-ray examination in the US in the physics laboratory of Darmouth College.",
+    "answer": "February 3, 1896"
+  },
+  {
+    "question": "Broke his wrist and he is the person reported to be the first x-ray examination in US in Darmouth College.",
+    "answer": "Eddie McCarthy "
+  },
+  {
+    "question": "Three general types of x-ray examination",
+    "answer": "Radiography, Fluoroscopy and CT"
+  },
+  {
+    "question": "One of the general types of x-ray examination that uses film or solid-state image receptor.",
+    "answer": "Radiography"
+  },
+  {
+    "question": "One of the general types of x-ray examination that is usually conducted with an x-ray tube located under the examination table.",
+    "answer": "Fluorosopy"
+  },
+  {
+    "question": "One of the general types of x-ray examination that uses a rotating x-ray source and detector array.",
+    "answer": "Computed Tomography "
+  },
+  {
+    "question": "To provide an x-ray beam that is satisfactory for imaging , supply the x-ray tube with a ? ",
+    "answer": "High Voltage and an Electric Current"
+  },
+  {
+    "question": "X-ray voltages are measured in?",
+    "answer": "kilovolt peak"
+  },
+  {
+    "question": "One kilovolt (kV) is equal to?",
+    "answer": "1000 V of electric potential"
+  },
+  {
+    "question": "X-ray currents are measured in ?",
+    "answer": "milliampere (mA)"
+  },
+  {
+    "question": "X-ray currents are measured in milliampere (mA), where the ______is a measure of electric current. ",
+    "answer": "ampere (A)"
+  },
+  {
+    "question": "The prefix milli stands for ?",
+    "answer": "1/1000 or 0.001"
+  },
+  {
+    "question": "During Roentgen's time, these units could provide currents of only a few milliamperes and voltages to ?",
+    "answer": "50 kVp"
+  },
+  {
+    "question": "Units of today's time that are commonly used.",
+    "answer": "1000 mA and 150 kVp"
+  },
+  {
+    "question": "Early radiographic procedures often required exposure times of?",
+    "answer": "30 minutes or longer"
+  },
+  {
+    "question": "Longer exposure time results in image blur. One development that helped reduce this exposure time was the use of a ?",
+    "answer": "Fluorescent intensifying screen in conjunction with the glass photographic plates. "
+  },
+  {
+    "question": "He demonstrated the use of radiographic intensifying screen in 1896.",
+    "answer": "Michael Pupin"
+  },
+  {
+    "question": "Radiographs during  Roentgen's time were made by?",
+    "answer": "Exposing Glass Plate with a layer of Photographic emulsion "
+  },
+  {
+    "question": "He found that by exposing two glass x-ray plates with the emulsion surfaces together, exposure time was halved, and the image was considerably enhanced.",
+    "answer": "Charles L. Leonard"
+  },
+  {
+    "question": "Year of demonstration of double-emulsion radiography was conducted in? but did not become commercially available until 1918.",
+    "answer": "1904"
+  },
+  {
+    "question": "Much of the high-quality used in radiography came from? But this supply was interrupted during WWI ; therefore; they use of film rather than glass plates.",
+    "answer": "Belgium and other European Countries "
+  },
+  {
+    "question": "Substitute for glass plates and it quickly became better than glass plate.",
+    "answer": "Cellulose Nitrate"
+  },
+  {
+    "question": "It was developed in 1898 by the American Inventor Thomas A. Edison. ",
+    "answer": "Fluoroscope "
+  },
+  {
+    "question": "Edison's original fluorescent material was?",
+    "answer": "Barium Platinocyanide "
+  },
+  {
+    "question": "Thomas A Edison investigated the fluorescent properties of more than 1800 other materials, including ___________- two materials in use today.",
+    "answer": "Zinc cadmium sulfide and Calcium Tungstate"
+  },
+  {
+    "question": "Year Daily died and counted as the first x-ray fatality in the US.",
+    "answer": "1904"
+  },
+  {
+    "question": "Edison abandoned his x-ray research when his friend experience severe x-ray burn that required amputation of both arms. What is the name of his friend? ",
+    "answer": "Clarence Dally"
+  },
+  {
+    "question": "He used x-rays to image teeth and found that restricting the x-ray beam with a sheet of lead w/ hole in the center, diaphragm,and inserting a leather or aluminum filter improved the quality of radiograph",
+    "answer": "a Boston Dentist , William Rollins "
+  },
+  {
+    "question": "It is the first application followed by the techniques of William Rollins. Later recognized that these devices reduce hazard associated with x-rays.",
+    "answer": "Collimation and Filtration"
+  },
+  {
+    "question": "In 1907, he introduced a substitue high-voltage power supply , an interuptless transformer , for the static machines and induction coils then in use. ",
+    "answer": "H.C Snook "
+  },
+  {
+    "question": "It exceeded the capability of the Crookes Tube. ",
+    "answer": "Snook Transformer"
+  },
+  {
+    "question": "Snook Transformer exceeded the capability of the Crookes Tube. It was not until the introduction of ______ that the Snook transformer was widely adopted.",
+    "answer": "Coolidge Tube"
+  },
+  {
+    "question": "William D. Coolidge unveiled his hot-cathode x-ray tube to the medical community in what year?",
+    "answer": "1913"
+  },
+  {
+    "question": "It was a vacuum tube that allowed the x-ray intensity and energy to be selected separately and w/ great accuracy. This had not been possible w/ gas-filled tubes, w/c made standard for techniques difficult to obtain.",
+    "answer": "Coolidge Tube"
+  },
+  {
+    "question": "Radiology emerged as a medical specialty because of the ? ",
+    "answer": "Snook Transformer and the Coolidge Tube "
+  },
+  {
+    "question": "In 1913, a German invented the stationary grid ('Glitterblende'); 2 months later , he applied for a seconds patent for a moving grid.",
+    "answer": "Gustav Bucky "
+  },
+  {
+    "question": "In 1915, a American who is probably unaware of Bucky's work. ",
+    "answer": "H. Potter"
+  },
+  {
+    "question": "Potter-Bucky introduced in what year? ",
+    "answer": "1921"
+  },
+  {
+    "question": "In 1946, the light amplifier tube was demonstrated at? ",
+    "answer": "Bell Telephone Laboratories"
+  },
+  {
+    "question": "This device was adapted for fluoroscopy by 1950 as an image intensifier tube? ",
+    "answer": "Light amplifier tube"
+  },
+  {
+    "question": "Today, image intensified fluoroscopy is being replaced by? ",
+    "answer": "Solid-state receptors"
+  },
+  {
+    "question": "Year did Diagnostic Ultrasonography appeared as did the gamma camera?",
+    "answer": "1960s"
+  },
+  {
+    "question": "Year did PET and x-ray CT were developed?",
+    "answer": "1970s"
+  },
+  {
+    "question": "Year did MRI became an accepted modality ?",
+    "answer": "1980s"
+  },
+  {
+    "question": "In 1910, the introduction of these two , the frequency of reports of injuries to superficial tissues decreased.",
+    "answer": "Coolidge Tube and Snook Transformer"
+  },
+  {
+    "question": "Always practice ALARA; Keep radiation exposure as?",
+    "answer": "As low as resonably achievable"
+  },
+  {
+    "question": "Metal Filters, usually aluminum or copper, are inserted into the x-ray tube housing so that low-energy x-rays area absorbed before they reach the patient.",
+    "answer": "Filtration"
+  },
+  {
+    "question": "Restricts the useful x-ray beam to that part of the body. It reduces scatter radiation and thus improves image contrast.",
+    "answer": "Collimation"
+  },
+  {
+    "question": "Most frequently used collimating devices?",
+    "answer": "Adjustable light-locating collimators "
+  },
+  {
+    "question": "Examinations conducted with this reduce exposure of the patient to x-rays by more than 95 % compared examinations conducted w/o it. ",
+    "answer": "Radiographic Intensifying Screen"
+  },
+  {
+    "question": "Lead-impregnated material is used to make aprons and gloves worn by radiologists and radiologic technologist during fluoroscopy and some radiographic procedure. ",
+    "answer": "Protective Apparel "
+  },
+  {
+    "question": "The same lead-impregnated material used in aprons and gloves is used to fabricate gonadal shields. ",
+    "answer": "Gonadal sheilding "
+  },
+  {
+    "question": "The radiographic or CT control console is always located behind of it. Often, the barrier is lead lined and is equipped with a lead-glass window.",
+    "answer": "Protective Barriers"
+  },
+  {
+    "question": "The study of interactions of matter and energy in all their diverse forms. ",
+    "answer": "Physics "
+  },
+  {
+    "question": "Only three measurable quantities are considered basic. These base quantities are? And they are building blocks of all other quantities.",
+    "answer": "Mass, Length and Time"
+  },
+  {
+    "question": "The secondary quantities are called? Because they are derived from a combination of one or more of the three base quantities. For example, volume is length cube ( l ^3), mass density is mass divided by volume (m/l^3) and velocity is length divided by time (l/t)",
+    "answer": "Energy, Power, Work, Momentum, Force, Velocity and Acceleration"
+  },
+  {
+    "question": "These additional quantities are designed to support measurement in specialized areas of science and technology. These additional quantities are called? ",
+    "answer": "Special Quantities"
+  },
+  {
+    "question": "What are the special quantities?",
+    "answer": "Exposure, Dose, Effective Dose, Radioactivity"
+  },
+  {
+    "question": "Distance between two lines. This distance was defined to be exactly 1 m. One meter is now defined as distance traveled by light in 1/299,792,468 second.",
+    "answer": "Length "
+  },
+  {
+    "question": "It is based on the vibration of atoms of cesium.",
+    "answer": "Second"
+  },
+  {
+    "question": "The standard unit of time is? It defined in terms of the rotation of the Earth on the axis.",
+    "answer": "Second"
+  },
+  {
+    "question": "Every measurement has two parts and these are?",
+    "answer": "Magnitude and Unit"
+  },
+  {
+    "question": "Is a segment of physics that deals with objects at rest (statics) and objects in motion (dynamics)",
+    "answer": "Mechanics"
+  },
+  {
+    "question": "The motion of an object can be described with the use of two terms and these are? ",
+    "answer": "Velocity and Accelerations"
+  },
+  {
+    "question": "Velocity sometimes called?",
+    "answer": "Speed"
+  },
+  {
+    "question": "Units of Velocity in SI are?",
+    "answer": "Meters per second (m/s)"
+  },
+  {
+    "question": "The rate of change of velocity with time is? It is how 'quickly or slowly' the velocity is changing.",
+    "answer": "Acceleration "
+  },
+  {
+    "question": "Unit of Acceleration?",
+    "answer": "Meters per second squared (m/s ^2)"
+  },
+  {
+    "question": "Who is the english scientist presented three principles that even today are recognized as fundamental laws of motion. ",
+    "answer": "Isaac Newton "
+  },
+  {
+    "question": "What is Newton's first law? A body will remain at rest or will continue to move with constant velocity in a straight line unless acted on by an external force.",
+    "answer": "Inertia "
+  },
+  {
+    "question": "What is Newton's second law? The force (F) that acts on an objet is equal to the mass (m) of the object multiplied by the acceleration (a) produced. ",
+    "answer": "Force"
+  },
+  {
+    "question": "Newton's third Law? For every action, there is an equal and opposite reaction.",
+    "answer": "Action/Reaction"
+  },
+  {
+    "question": "Force on the body caused by the pull of gravity on it.",
+    "answer": "Weight "
+  },
+  {
+    "question": "Objects that fall to earth accelerate at a constant rate. This rate termed the? ",
+    "answer": "Acceleration due to gravity"
+  },
+  {
+    "question": "The product of the mass of an object and it's velocity is called and represented by p?",
+    "answer": "Momentun"
+  },
+  {
+    "question": "The unit of work is? ",
+    "answer": "Joules "
+  },
+  {
+    "question": "A product (multiplication of) of force and distance.",
+    "answer": "Work"
+  },
+  {
+    "question": "Rate by doing work.",
+    "answer": "Power"
+  },
+  {
+    "question": "Is the quotient of work by time.",
+    "answer": "Power"
+  },
+  {
+    "question": "Two forms of mechanical energy often used in radiologic science?",
+    "answer": "Kinetic and Potential Energy"
+  },
+  {
+    "question": "Kinetic Energy of the random motion of molecules.",
+    "answer": "Heat"
+  },
+  {
+    "question": "Unit of Heat defined as the heat necessary to raise the temperature of 1 g of water 1 degree celcius. ",
+    "answer": "Calorie"
+  },
+  {
+    "question": "Heat is transferred by?",
+    "answer": "Conduction, Convection, and Radiation "
+  },
+  {
+    "question": "Transfer of heat through material or by touching.",
+    "answer": "Conduction"
+  },
+  {
+    "question": "Is the mechanical transfer of 'hot' molecules in a gas or liquid from one place to another.",
+    "answer": "Convection"
+  },
+  {
+    "question": "Is the transfer of Heat by the emission of Infrared Radiation.",
+    "answer": "Thermal radiation "
+  },
+  {
+    "question": "Temperature normally is measured by ? It is usually calibrated at two reference point- the freezing and boiling point of matter.",
+    "answer": "Thermometer"
+  },
+  {
+    "question": "What are the three scales that have been developed to measure temperature are?",
+    "answer": "Celsius, Fahrenheit, and Kelvin"
+  },
+  {
+    "question": "It is a kinetic energy transferred from photons to electrons during ionization and excitation. ",
+    "answer": "Air Kerma (Kinetic Energy Released in Matter) (Gya)"
+  },
+  {
+    "question": "Air Kerma is measured in?",
+    "answer": "(joule per kilogram (J/kg) "
+  },
+  {
+    "question": "1 J/kg is? ",
+    "answer": "1 gray (Gya)"
+  },
+  {
+    "question": "Is the unit of radiation exposure or intensity.",
+    "answer": "Air kerma (Gya)"
+  },
+  {
+    "question": "The unit of radiation absorbed dose.",
+    "answer": "gray (Gyt)"
+  },
+  {
+    "question": "Absorbed dose is the radiation energy absorbed per unit mass and has units of?",
+    "answer": "J/kg or Gyt"
+  },
+  {
+    "question": "The unit of Gya and Gyt refer to radiation dose of? ",
+    "answer": "Air and Tissue"
+  },
+  {
+    "question": "Occupational radiaton monitoring devices are analyzed in terms of this, which is used to express that quantity of radiation received by radiation workers and populations. ",
+    "answer": "Sievert (Sv)"
+  },
+  {
+    "question": "The ______ is the unit of quantity of radioactive material, not the radiation emitted by that material. ",
+    "answer": "Becquerel (Bq)"
+  },
+  {
+    "question": "What did you call this equation 'E=m^2' ?",
+    "answer": "Mass-energy equivalence "
+  }
+]

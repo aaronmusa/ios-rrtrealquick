@@ -29,7 +29,7 @@
                                     <color key="titleColor" red="0.93333333330000001" green="0.93333333330000001" blue="0.93333333330000001" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                                 <connections>
-                                    <segue destination="MhS-A5-lgz" kind="show" id="Lgs-YD-Fwd"/>
+                                    <action selector="didTapStartButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="iob-JH-R1j"/>
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="RRT RealQuick!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="sPW-ZX-oSg">
@@ -69,6 +69,9 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <navigationItem key="navigationItem" id="2dO-Fg-DVi"/>
+                    <connections>
+                        <segue destination="MhS-A5-lgz" kind="show" identifier="ShowQuestionnaire" id="f2r-lc-qlG"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
@@ -258,7 +261,6 @@
         <!--Result View Controller-->
         <scene sceneID="KVD-JF-VB5">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="rNx-x3-QQ5" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <viewController id="5cW-UF-SkV" customClass="ResultViewController" customModule="RRTRealQuick" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="TyX-rD-0oP">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
@@ -326,6 +328,7 @@
                         <segue destination="EfP-7Y-826" kind="show" identifier="ShowSummaryView" id="ngc-SO-ipM"/>
                     </connections>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="rNx-x3-QQ5" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="2877.5999999999999" y="133.5832083958021"/>
         </scene>

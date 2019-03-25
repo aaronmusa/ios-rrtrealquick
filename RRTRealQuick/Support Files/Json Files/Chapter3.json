@@ -1,0 +1,418 @@
+[
+{
+"question": "Photons are known as ______, however, these words are commonly interchangable. ",
+"answer": "Electromagnetic energy"
+},
+{
+"question": "Ever present all around us is a field or state of energy called? ",
+"answer": "Electromagnetic energy"
+},
+{
+"question": "Electromagnetic Energy exists over a wide range called an energy ________.",
+"answer": "Continuum"
+},
+{
+"question": "It is an uninterrupted (continuous) ordered sequence. ",
+"answer": "Continuum"
+},
+{
+"question": "Ancient Greeks recognized the unique nature of light. They called an atom of light a?",
+"answer": "Photon"
+},
+{
+"question": "Many types of electromagnetic energy in addition to visible light are recognized, but this one is still used?",
+"answer": "Photon"
+},
+{
+"question": "Quantum of electromagnetic energy ",
+"answer": "X-ray photon"
+},
+{
+"question": "Smallest quantity of any type of electromagnetic energy. ",
+"answer": "Photon"
+},
+{
+"question": "A photon may be pictured as a small bundle of energy, sometimes called a _______, that travels through space at the speed of light. ",
+"answer": "Quantum "
+},
+{
+"question": "X-ray photons, Light Photons , and other types of electromagnetic energy as ? ",
+"answer": "Photon Radiation"
+},
+{
+"question": "Late in the 19th , he showed that visible light has both electric and magnetic properties , hence the term of electromagnetic energy.",
+"answer": "James Clerk Maxwell"
+},
+{
+"question": "Atom is best described by?",
+"answer": "Bohr Model"
+},
+{
+"question": "Best explained by reference to a model?",
+"answer": "Electromagnetic energy"
+},
+{
+"question": "The velocity of all electromagnetic radiation is? ",
+"answer": "3 x 10 ^ 8 m/s"
+},
+{
+"question": "Physicists use this term to describe interactions among different energies , forces, or masses that can otherwise be described only mathematically. ",
+"answer": "Field"
+},
+{
+"question": "Although photons have no mass and therefore no identifiable form, they do have electric ang magnetic fields that are continuously changing in a _____ fashion. ",
+"answer": "Sinusoidal fashion"
+},
+{
+"question": "Governs the interaction of different masses",
+"answer": "Gravitational Fields"
+},
+{
+"question": "Governs the interaction of electric charges",
+"answer": "Electric Field "
+},
+{
+"question": "Governs the interaction of magnetic poles",
+"answer": "Magnetic Field"
+},
+{
+"question": "Type of variation in sinusoidal variation is called? It can be described by a mathematical formula.",
+"answer": "Sine waves "
+},
+{
+"question": "Sine waves are identical except for their ?",
+"answer": "Amplitudes"
+},
+{
+"question": "Sine waves are variations of? ",
+"answer": "Amplitude over time"
+},
+{
+"question": "Alternating electric current consists of electrons moving back and forth sinusoidally through a ?",
+"answer": "Conductor"
+},
+{
+"question": "One-half the range from crest to valley over which the sine wave varies.",
+"answer": "Amplitude"
+},
+{
+"question": "Describes variation in the electric and magnetic fields as photon travels with velocity c.",
+"answer": "Sine wave model of electromagnetic energy"
+},
+{
+"question": "Important properties of sine wave model are?",
+"answer": "Frequency (f), wavelength (lambda) λ"
+},
+{
+"question": "The rate of rise and fall of sine waves is called its _______. It is usually identified as cycles per second. The unit of measurement is hertz (Hz). One hertz is equal to _______.",
+"answer": "Frequency (f), 1 cycle per second"
+},
+{
+"question": "The number of wavelengths that pass a point of observation per second",
+"answer": "Frequency"
+},
+{
+"question": "It is the distance from one crest to another, from one valley to another, or from any point on the sine wave to the next corresponding point. ",
+"answer": "Wavelength"
+},
+{
+"question": "In sine wave, as the frequency increased, the _____ is reduced. ",
+"answer": "Wavelength"
+},
+{
+"question": "What are the three wave parameters that are needed to describe electromagnetic energy?",
+"answer": "Velocity, Frequency and Wavelength"
+},
+{
+"question": "What is the constant in three wave parameters of electomagnetic energy?",
+"answer": "Velocity"
+},
+{
+"question": "In sine wave, as the velocity decreases , the _____ decreases proportionately.",
+"answer": "Frequency"
+},
+{
+"question": "The brief analogy demonstrates how the three parameters associated with a sine wave are interrelated. A simple mathematical formula, called the ____, expresses this interrelationship. ",
+"answer": "Wave equation"
+},
+{
+"question": "The wave equation is used for both ? But keep in mind that these two are different from each other.",
+"answer": "Sound and electromagnetic energy"
+},
+{
+"question": "Alternative forms of electromagnetic equation",
+"answer": "Electromagnetic wave equation"
+},
+{
+"question": "Includes entire range of electromagnetic energy.",
+"answer": "Electromagnetic Radiation "
+},
+{
+"question": "Electromagnetic spectrum has three regions most important to radiologic science and these are? ",
+"answer": "Visible light, x- and gamma rays, and RF"
+},
+{
+"question": "Other portions of electromagnetic spectrums are?",
+"answer": "Ultraviolet light, Infrared light, and Microwave radiation"
+},
+{
+"question": "T/F. Diagnostic ultrasound is not part of electromagnetic spectrum. ",
+"answer": "True."
+},
+{
+"question": "Visible light is described by wavelength, measured in?",
+"answer": "Nanometers (nm)"
+},
+{
+"question": "Unit of frequency that describe radiowaves?",
+"answer": "Hertz (Hz)"
+},
+{
+"question": "X-rays are described in the term of unit energy, the?",
+"answer": "electron volt (eV)"
+},
+{
+"question": "The energy of photon is directly proportional to its?",
+"answer": "Frequency"
+},
+{
+"question": "The deviation in line of travel, called _____, is the cause of many peculiar but familiar phenomena, such as rainbow or the apparent bending of a straw in a glass of water.",
+"answer": "Refraction"
+},
+{
+"question": "White light is composed of photons of a range of ?",
+"answer": "Wavelengths"
+},
+{
+"question": "The component colors of white light have wavelength values ranging from approximately ?",
+"answer": "400 nm for violet to 700 nm for red"
+},
+{
+"question": "Sunlight contains two types of invisible light ",
+"answer": "Infrared and ultraviolet"
+},
+{
+"question": "Occupies smallest segment of the electromagnetic spectrum, and yet it is the only portion that we can sense directly.",
+"answer": "Visible light"
+},
+{
+"question": "Consists of photons with wavelengths longer than those of visible light but shorter than those of microwaves. Heats any substance on which it shines and it may be considered radiant heat.",
+"answer": "Infrared light"
+},
+{
+"question": "Located in the electromagnetic spectrum between visible light and ionizing radiation. It is responsible for molecular interactions that can result in sunburn.",
+"answer": "Ultraviolet Light "
+},
+{
+"question": "Communication broadcasts are usually identified by their frequency of transmission and are called ? It covers a considerable portion of the electromagnetic spectrum. It has relatively low energy and relatively long wavelength.",
+"answer": "Radiofrequency (RF) emission"
+},
+{
+"question": "Very-short-wavelength RF is ____ radiation.",
+"answer": "Microwave "
+},
+{
+"question": "Only difference of x-rays and gamma rays is their?",
+"answer": "Origin"
+},
+{
+"question": "Contains considerably more energy than a visible light photon or an RF Photon.",
+"answer": "X-ray photon"
+},
+{
+"question": "The frequency of x-radiation is much higher and the wavelength is _____ than the other types of electromagnetic energy.",
+"answer": "Much shorter"
+},
+{
+"question": "Identified by wavelength?",
+"answer": "Visible Light"
+},
+{
+"question": "Identified by frequency?",
+"answer": "Radiofrequency"
+},
+{
+"question": "Idenitified by energy?",
+"answer": "X-rays"
+},
+{
+"question": "This is important for the viewing conditions of a radiographic and fluoroscopic image that are critical to diagnosis. ",
+"answer": "Visible light region "
+},
+{
+"question": "Has more important for medical imaging.",
+"answer": "RF region"
+},
+{
+"question": "Produced outside the nucleus of excited atoms",
+"answer": "X-rays"
+},
+{
+"question": "Produced inside the nucleus of radioactive atoms",
+"answer": "Gamma rays photons"
+},
+{
+"question": "Behaves as though they are particles ",
+"answer": "X-rays "
+},
+{
+"question": "A photon of x-radiation and a photon of ____ are fundamentally the same except that x-radiation has much higher frequency ,and hence a shorter wavelength. ",
+"answer": "Visible Light"
+},
+{
+"question": "Behaves more like waves ",
+"answer": "Visible Light"
+},
+{
+"question": "Visible light photons and X-ray photons exhibit both types of behavior. A phenomenon known as the ______ of electromagnetic energy.",
+"answer": "Wave-particle duality"
+},
+{
+"question": "It interact with matter most easily when the matter is approximately the same size as the photon wavelength. ",
+"answer": "Photons"
+},
+{
+"question": "Electromagnetic energy attenuation is the reduction in the intensity that results from?",
+"answer": "Scattering and Absorption"
+},
+{
+"question": "On either side of the visible spectrum are ultraviolet light and infrared light that are detected by? ",
+"answer": "Photographic emulsion"
+},
+{
+"question": "Many familiar phenomena of light , such as reflextion, absorption, and transmission , are most easily explained by using the wave of model of ? ",
+"answer": "Electromagnetic Energy "
+},
+{
+"question": "In visible light, the shorter the photon wavelength, the higher is the _______.",
+"answer": "Photon energy"
+},
+{
+"question": "The three degrees of interaction between light and an absorbing material.",
+"answer": "Transparency, Translucensy, and Opacity"
+},
+{
+"question": "Objects absorb light in three degrees are?",
+"answer": "Transmission (not at all), Partially (Attenuation), Completely (Absorption) "
+},
+{
+"question": "Structures that attenuate x-rays are described as ____, depending on the relative degree of x-ray transmission or absorption, respectively. ",
+"answer": "Radiolucent or Radiopaque"
+},
+{
+"question": "Used routinely in x-ray diagnosis to describe the visual appearance of anatomical structures. Whereas bone is radiopaque, lung tisssue and to some extent soft tissue are radiolucent.",
+"answer": "Radiopaque and Radiolucent "
+},
+{
+"question": "Structures that absorbs x-rays are called?",
+"answer": "Radiopaque "
+},
+{
+"question": "Structures that transmit x-rays are called ?",
+"answer": "Radiolucent"
+},
+{
+"question": "Describes the relationship between radiation intensity and distance from the radiation source.",
+"answer": "Inverse square law"
+},
+{
+"question": "Electromagnetic Energy (radiation) intensity is inversely related to the square of the distance from the source. ",
+"answer": "True."
+},
+{
+"question": "The inverse square law can be applied to distances greater than seven times the longest dimension of the source.",
+"answer": "True."
+},
+{
+"question": "Discrete bundle of energy",
+"answer": "X-ray photon"
+},
+{
+"question": "The wavelength of an ______ is measured similarly to that of any electromagnetic energy : It is the distance from any position on th sine wave to the corresponding position to the next wave. ",
+"answer": "X-ray photon"
+},
+{
+"question": "The frequency of an x-ray photon is calculated similarly to the frequency of any electromagnetic photon , with use of the?",
+"answer": "Wave equation"
+},
+{
+"question": "What is the one substantive statements of Planck's quantum theory?",
+"answer": "X-rays are created with the speed of light ( c ), and they exist with velocity ( c ) or they do not exist at all."
+},
+{
+"question": "Physicists whose mathematical and physical theories synthesize our understanding of electromagnetic radiation into a uniform model ; for this work, he received the Nobel Prize in 1918.",
+"answer": "Max Planck"
+},
+{
+"question": "Another important consequence of this Planck's quantum theory is the relationship between ________.",
+"answer": "Energy and Frequency"
+},
+{
+"question": "In Planck's quantum theory, Photon energy is directly proportional to _______.",
+"answer": "Photon Frequency "
+},
+{
+"question": "The constant proportionality , known as Planck's constant and symbolized by h, has numeric value of? ",
+"answer": "4.15 x 10 ^ -15 eVs or 6.63 x 10 ^ -34"
+},
+{
+"question": "One joule is equal to ?",
+"answer": "6.24 x 10 ^18 eV"
+},
+{
+"question": "Example of the conversion of energy into mass.",
+"answer": "Pair production"
+},
+{
+"question": "Matter can be neither created nor destroyed.",
+"answer": "Law of conversion of matter"
+},
+{
+"question": "Energy can be neither created nor destroyed.",
+"answer": "Law of conversion of energy"
+},
+{
+"question": "Is fundamental to producing a high quality radiograph",
+"answer": "X-ray region "
+},
+{
+"question": "Are produced inside the nucleus of radioactive atom.",
+"answer": "Gamma rays"
+},
+{
+"question": "Properties of electromagnetic energy",
+"answer": "Frequency, Wavelength , Velocity , Amplitude "
+},
+{
+"question": "Naturally apparent to us",
+"answer": "Visible spectrum"
+},
+{
+"question": "Have no mass and therefore no identifiable form, they do have electric and magnetic filds that are continuosly changing in sinusodial fashion ",
+"answer": "Photons"
+},
+{
+"question": "Can be represented as a bundle of energy consisting of varying electric and magnetic fields that travel at the speed of light.",
+"answer": "Photons"
+},
+{
+"question": "Any incident light is totally absorbed.",
+"answer": "Opaque"
+},
+{
+"question": "Allows light to be transmitted almost unaltered.",
+"answer": "Transparent"
+},
+{
+"question": "Light is still transmitted through the glass but is greatly scattered and reduced in intensity.",
+"answer": "Translucent "
+},
+{
+"question": "Principle that states that both wave and particle concepts mut be retained.",
+"answer": "Wave particle duality"
+},
+{
+"question": "The reduction in intensity that results from scattering and absorption.",
+"answer": "Electromgnetic Energy attenuation "
+}
+]

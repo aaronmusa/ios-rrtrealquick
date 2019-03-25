@@ -40,8 +40,22 @@ class BaseViewController: UIViewController {
             
             destinationVc.answeredQuestions = answeredQuestions
         }
+        
+        if segue.identifier == Segue.ShowQuestionnaire {
+            guard let destinationVc = segue.destination as? QuestionnaireViewController, let subject = sender as? Subject else { return }
+            
+            destinationVc.subject = subject
+        }
     }
 
 
+    @IBAction func didTapStartButton(_ sender: UIButton) {
+        let subjectsView = ChooseSubjectAlertView(frame: view.frame)
+        view.addSubview(subjectsView)
+        
+        subjectsView.onTapSubject = { subject in
+            self.performSegue(withIdentifier: Segue.ShowQuestionnaire, sender: subject)
+        }
+    }
 }
 
