@@ -37,11 +37,12 @@ class AnswerKeyAlertView: UIView {
     }
     
     func setupView(_ question: Question, answer: String) {
-        let isCorrect = question.answer ?? "" == answer
+        guard let correctAnswer = question.answer?.lowercased() else { return }
+        let isCorrect = correctAnswer == answer.lowercased()
         
         resultTitleLabel.text = isCorrect ? "Correct" : "Wrong"
         resultTitleLabel.textColor = isCorrect ? .green : .red
-        descTextView.text = "The answer is\n\n\(question.answer ?? "")"
+        descTextView.text = "Your answer:\n\(answer)\n\nCorrect answer:\n\(correctAnswer)"
     }
     
     @IBAction func didTapDismissButton(_ sender: AMButton) {

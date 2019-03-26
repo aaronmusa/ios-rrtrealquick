@@ -14,6 +14,7 @@ class CacheManager {
     let defaults = UserDefaults.standard
     
     private let numberOfItemsKey = "numberOfItems"
+    private let questionnaireTypeKey = "questionnaireType"
     
     var numberOfItems: Int {
         get {
@@ -27,6 +28,22 @@ class CacheManager {
         }
         set {
             defaults.set(newValue, forKey: numberOfItemsKey)
+            defaults.synchronize()
+        }
+    }
+    
+    var questionnaireType: QuestionnaireType {
+        get {
+            let questionnaireInt = defaults.integer(forKey: questionnaireTypeKey)
+            
+            if let type = QuestionnaireType(rawValue: questionnaireInt) {
+                return type
+            }
+            
+            return .identification
+        }
+        set {
+            defaults.set(newValue.rawValue, forKey: questionnaireTypeKey)
             defaults.synchronize()
         }
     }

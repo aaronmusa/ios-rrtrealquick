@@ -1,0 +1,846 @@
+[
+	{
+		"question": "Science of Stationary Electric Charges",
+		"answer": "Electrostatics "
+	},
+	{
+		"question": "Science of Electric charge in motion",
+		"answer": "Electrodynamics"
+	},
+	{
+		"question": "Describes how electrons are given electric potential energy (voltage) and how electrons in motion create magnetism",
+		"answer": "Electromagnetism"
+	},
+	{
+		"question": "Primary function of the x-ray imaging system is to convert electric energy into?",
+		"answer": "Electromagnetic energy"
+	},
+	{
+		"question": "Is a means of transferring electric potential energy from one position to another, as in a transformer.",
+		"answer": "Electromagnetic induction "
+	},
+	{
+		"question": "Supplied to the x-ray imaging system in the form of well-controlled electric current.",
+		"answer": "Electric Energy "
+	},
+	{
+		"question": "A conversion takes place in the x-ray tube , where most of the electric energy is transformed into heat, some of it into?",
+		"answer": "X-rays"
+	},
+	{
+		"question": "Electric charge comes in discrete units that are ?",
+		"answer": "Positive or Negative"
+	},
+	{
+		"question": "Smallest units of electric charge?",
+		"answer": "Electrons and Protons"
+	},
+	{
+		"question": "Has mass and energy equivalence. Also may have electric charge.",
+		"answer": "Matter"
+	},
+	{
+		"question": "An object is said to be electrified if it has ?",
+		"answer": "Two few or too many electrons"
+	},
+	{
+		"question": "Electrification can be created by?",
+		"answer": "Contact , friction and induction"
+	},
+	{
+		"question": "One object that is always available to accept electric charges from an electrified object is the Earth. The Earth behaves as a huge reservoir for stray electric charges. In this capacity, it is called?",
+		"answer": "Electric Ground"
+	},
+	{
+		"question": "The source of lightning in a storm. ",
+		"answer": "Electrified Clouds"
+	},
+	{
+		"question": "The smallest unit of electric charge is the?",
+		"answer": "Electron"
+	},
+	{
+		"question": "Unlike charges attract ; like _______.",
+		"answer": "Charges repel"
+	},
+	{
+		"question": "The force of attraction between unlike charges or repulsion between like charges is attributable to the electric field . It is called? ",
+		"answer": "Electric Force"
+	},
+	{
+		"question": "The electrostatic force is directly proportional to the product of the electrostatic charges and inversely proportional to the square of the distance between them.",
+		"answer": "Coulomb's Law"
+	},
+	{
+		"question": "Associated with each electric charge is an? ",
+		"answer": "Electric Field"
+	},
+	{
+		"question": "The ______ point outward from a positive charge and toward a negative charge. Uncharge particles do not have an electric field. ",
+		"answer": "Electric Field "
+	},
+	{
+		"question": "When two similar electric charges - negative and negative or positive and positive - are brought close together, their electric fields are opposite directions, which cause the electric charges to _____ each other. ",
+		"answer": "Repel"
+	},
+	{
+		"question": "T/F. When unlike charges - one negative and one positive - are close to each other , the electric fields radiate in the same direction and cause the two charges to attract each other. ",
+		"answer": "True."
+	},
+	{
+		"question": "The electrostatic force is very strong when objects are close but decreases rapidly as objects separate. This inverse square law relationship for electrostatic force is the same as that for?",
+		"answer": "X-ray intensity"
+	},
+	{
+		"question": "_____ of a conductor is concentrated along the sharpest curvature of the surface. It have potential energy.",
+		"answer": "Electric charge"
+	},
+	{
+		"question": "The unit of electric potential is the? ",
+		"answer": "volt (V)"
+	},
+	{
+		"question": "Electric potential is sometimes called ? ",
+		"answer": "Voltage"
+	},
+	{
+		"question": "The higher the voltage , the greater is the _____ to do work. ",
+		"answer": "Potential"
+	},
+	{
+		"question": "We recognized electrodynamic phenomena as ?",
+		"answer": "Electricity"
+	},
+	{
+		"question": "Is any substance through which electrons flow easily. Example : Electric wire, copper, aluminum ",
+		"answer": "Conductor "
+	},
+	{
+		"question": "Is any material that does not allow electron flow. Examples : Rubber, Wood, Plastic",
+		"answer": "Insulator"
+	},
+	{
+		"question": "If an electric potential is applied to objects such as copper wire, the electrons move along the wire. This is called an? ",
+		"answer": "Electric current , or electricity"
+	},
+	{
+		"question": "He assumed that positive electric charges were conducted on his kit string. ",
+		"answer": "Benjamin Franklin"
+	},
+	{
+		"question": "One of the best electric conductors",
+		"answer": "Copper"
+	},
+	{
+		"question": "In 1946, who demonstrated semiconduction? ",
+		"answer": "William Shockley"
+	},
+	{
+		"question": "The principal semiconductor materials are? ",
+		"answer": "Silicon (Si) and Germanium (Ge)"
+	},
+	{
+		"question": "This development led to microchips and hence the explosive rise of computer technology",
+		"answer": "Silicon (Si) and Germanium (Ge)"
+	},
+	{
+		"question": "A meterial that under some conditions behaves as an insulator and in other conditions behaves as a conductor. ",
+		"answer": "Semiconductor"
+	},
+	{
+		"question": "The property of some materials to exhibit no resistance below a critical temperature (Tc)",
+		"answer": "Superconductivity"
+	},
+	{
+		"question": "Discovered in 1911 but was not developed commercially until the early 1960's. ",
+		"answer": "Superconductivity"
+	},
+	{
+		"question": "Super conducting materials such as ______ and _____ allow electrons to flow without resistance.",
+		"answer": "Nobium and Titatium"
+	},
+	{
+		"question": "The voltage across the total circuit or any portion of the circuit is equal to the current times the resistance. ",
+		"answer": "Ohm's Law"
+	},
+	{
+		"question": "It does not hold true for superconductors. ",
+		"answer": "Ohm's Law"
+	},
+	{
+		"question": "Can be viewed as one in perpetual motion because electric current exits without voltage.",
+		"answer": "Superconducting circuit"
+	},
+	{
+		"question": "When resistance is controlled and the conductor is made into a closed path, the result is an _____. ",
+		"answer": "Electric Circuit"
+	},
+	{
+		"question": "Increasing electric resistance results in a ?",
+		"answer": "Reduced electric current"
+	},
+	{
+		"question": "Electric Current is measured in ?",
+		"answer": "Amperes (A)"
+	},
+	{
+		"question": "Proportional to the number of electrons flowing in the electric circuit. ",
+		"answer": "Amperes (A)"
+	},
+	{
+		"question": "One ampere is equal to an electric charge of ___ C flowing through a conductor each second. ",
+		"answer": "1"
+	},
+	{
+		"question": "Electric Potential is measured in ? ",
+		"answer": "Volts (V)"
+	},
+	{
+		"question": "Electric resistance is measured in ? ",
+		"answer": "Ohms ( Ω )"
+	},
+	{
+		"question": "The manner in which electric currents behave in an electric circuit is described by a relationship known as ? ",
+		"answer": "Ohm's Law"
+	},
+	{
+		"question": "Electrons at high voltage have high potential energy and high capacity to do work.",
+		"answer": "True."
+	},
+	{
+		"question": "In ___, all circuit elements are connected in a line along the same conductor. ",
+		"answer": "Series circuit"
+	},
+	{
+		"question": "It contains elements that are connected at their ends rather than lying in a line along a conductor. ",
+		"answer": "Parallel Circuit"
+	},
+	{
+		"question": "Is the flow of electrons through a conductor? ",
+		"answer": "Electric Current or electricity"
+	},
+	{
+		"question": "Electrons can be made to flow in one direction along the conductor, in which case th electric current is called ? ",
+		"answer": "Direct current (DC)"
+	},
+	{
+		"question": "Current in which electrons oscillate back and forth is called? ",
+		"answer": "Alternating current (AC)"
+	},
+	{
+		"question": "Electrons that flow in only one direction constitute ?",
+		"answer": "Direct current (DC)"
+	},
+	{
+		"question": "Electrons that flow alternately is oppsosite directions constiture?",
+		"answer": "ALternating current (AC) "
+	},
+	{
+		"question": "The horizontal axis , or x-axis , of the current waveform represents ? ",
+		"answer": "Time"
+	},
+	{
+		"question": "The vertical axis , or y -axis, of the current waveform represents the ? ",
+		"answer": "Amplitude of the the electric current"
+	},
+	{
+		"question": "The waveform of AC is a ? ",
+		"answer": "Sine curve"
+	},
+	{
+		"question": "For DC, the electrons always flow in the same direction ; therefore, DC is represented by a ? ",
+		"answer": "Horizontal Line"
+	},
+	{
+		"question": "Electric Power is measured in ? ",
+		"answer": "watts (W)"
+	},
+	{
+		"question": "One watt is equal to ___ of curent flowing through an electric potential of 1 V. Power (W) = voltage (V) x current (A)",
+		"answer": "1  Current"
+	},
+	{
+		"question": "It comes from the name of that ancient village of Magnesia. ",
+		"answer": "Magnetism"
+	},
+	{
+		"question": "An oxide of iron (Fe3O4)",
+		"answer": "Magnetite"
+	},
+	{
+		"question": "Around 1000 BC, shepherds and dairy farmers near the village of Magnesia (what is now is Western Turkey) discovered ?",
+		"answer": "Magnetite"
+	},
+	{
+		"question": "Magnetite, a rodlike stone , would rotate back and forth ; when it came to rest , it pointed the way to water. It was called a ? ",
+		"answer": "Lodestone or leading stone."
+	},
+	{
+		"question": "Fundamental property of some forms of water. ",
+		"answer": "Magnetism"
+	},
+	{
+		"question": "T/F. Any charge particle in motion creates a magnetic field. ",
+		"answer": "True."
+	},
+	{
+		"question": "The proton in a hydrogen nucleus spin on its axis and creates a nuclear magnetic dipole called ? ",
+		"answer": "Magnetic Moment"
+	},
+	{
+		"question": "Electron behaves as if they rotate on an axis clock-wise or counterclockwise. This rotation creates property called?",
+		"answer": "Electron Spin"
+	},
+	{
+		"question": "The electron spin creates a magnetic field , which is neutralized in? ",
+		"answer": "Electron Pairs"
+	},
+	{
+		"question": "Is the ability of a material to attract the lines of magnetic field intensity. ",
+		"answer": "Magnetic Permeability"
+	},
+	{
+		"question": "An accumulation of many atomic magnets with their dipoles aligned creates a? ",
+		"answer": "Magnetic Domain"
+	},
+	{
+		"question": "If all the magnetic domains in an object are aligned , it acts like? ",
+		"answer": "Magnet"
+	},
+	{
+		"question": "Magnets are classified according to the ___ of th magnetic property. ",
+		"answer": "Origin"
+	},
+	{
+		"question": "There are three principal types of magnets and these are? ",
+		"answer": "Naturally occuring magnets, artificially induced permanent magnets, and electromagnets"
+	},
+	{
+		"question": "The small magnet created by the electron orbit is called a?",
+		"answer": "Magnetic Dipole"
+	},
+	{
+		"question": "The lines of a magnetic field do not start or end as the lines of an electric field do. Such a field is called ____ or _____; it always has a north and a south pole. ",
+		"answer": "Bipolar or Dipolar"
+	},
+	{
+		"question": "The best example of a natural magnet is the? ",
+		"answer": "Earth itself"
+	},
+	{
+		"question": "Prime example of an artificial permanent magnet. ",
+		"answer": "Compass"
+	},
+	{
+		"question": "Such permanent magnets do not necessarily stay _____. One can destroy the magnetic property of a magnet by heating it or even by hitting it with a hammer. ",
+		"answer": "Permanent"
+	},
+	{
+		"question": "T/F.Artificially produced permanent magnets are available in many sizes and shapes but principally as bar or horseshoe-shaped magnets, usually made of iron. ",
+		"answer": "True."
+	},
+	{
+		"question": "What are the 4 Magnetic States of Matter?",
+		"answer": "Nonmagnetic, Diamagnetic, Paramagnetic and Ferromagnetic"
+	},
+	{
+		"question": "All matter can be classified according to the manner in which it interacts with an external magnetic field.",
+		"answer": "True."
+	},
+	{
+		"question": "Many materials are unaffected when brought to a magnetic field. Such materials are nonmagnetic and include substances such as ? ",
+		"answer": "Wood and Glass"
+	},
+	{
+		"question": "Materials are weakly repelled by either magnetic pole. They cannot be artificially magnetized, and they are not attracted to a magnet. ",
+		"answer": "Diamagnetic "
+	},
+	{
+		"question": "Example of Diamagnetic?",
+		"answer": "Water and Plastic"
+	},
+	{
+		"question": "Materials in Ferromagnetic? ",
+		"answer": "Iron, Nickel and Cobalt "
+	},
+	{
+		"question": "These are strongly attracted by a magnet and usually can be permanently magnetized by exposure to a magnetic field.",
+		"answer": "Ferromagnetic"
+	},
+	{
+		"question": "One of the more useful magnets produced from ferromagnetic material.  ",
+		"answer": "Alnico"
+	},
+	{
+		"question": "An alloy of aluminum , nickel and cobalt called?",
+		"answer": "Alnico"
+	},
+	{
+		"question": "Have been developed recently and are considerably stonger magnets. ",
+		"answer": "Rare Earth Ceramics "
+	},
+	{
+		"question": "Materials lie somewhere between ferromagnetic and nonmagnetic. They are very slightly attracted to a magnet and are loosely influenced by an external magnetic field. ",
+		"answer": "Paramagnetic"
+	},
+	{
+		"question": "The degree to which a material can be magnetized is its? ",
+		"answer": "Magnetic Susceptibility "
+	},
+	{
+		"question": "Ferromagnetic objects can be made into magnets by induction.",
+		"answer": "True."
+	},
+	{
+		"question": "If a magnet is placed on a surface with small iron fillings , the filings attach most strongly and with greater concentration to the ends of the magnet. These ends are called _____, and every magnet has two poles , a north pole and south pole , analogous to positive and negative electric charges. ",
+		"answer": "Poles"
+	},
+	{
+		"question": "The imaginary lines of the magnetic field leave the north pole of a magnet and return to the south pole is? The density of these lines is proportional to the intensity of the magnetic field. ",
+		"answer": "Magnetic lines of induction"
+	},
+	{
+		"question": "Just as an electrostatic charge can be induced from one material to another, so some materials can be made magnetic by?",
+		"answer": "Induction"
+	},
+	{
+		"question": "The _____ is proportional to the product of the magnetic pole strengths divided by the square of the distance between them.",
+		"answer": "Magnetic Force"
+	},
+	{
+		"question": "The SI unit of magnetic field strength is the? ",
+		"answer": "Tesla"
+	},
+	{
+		"question": "The SI unit of magnetic field strength is the tesla. An older unit is the ?",
+		"answer": "Gause"
+	},
+	{
+		"question": "One Tesla (T) = ______ gauss?",
+		"answer": "10,000 Gauss"
+	},
+	{
+		"question": "Electric Potential is measured in units of?",
+		"answer": "Joule per coulomb, or volt"
+	},
+	{
+		"question": "In the late 1700's an Italian anatomist observed that a disected frog leg twitched when touched by two different metals, just as if it had been touched by  an electrostatic charge.",
+		"answer": "Luigi Galvani"
+	},
+	{
+		"question": "In 1700's an Itlian physicist question an electric current might be produced when two different metals are brought into contact. ",
+		"answer": "Alesandro Volta"
+	},
+	{
+		"question": "Using this plates , Volta succeded in producing a feeble electric current to increase. ",
+		"answer": "Zinc and Copper"
+	},
+	{
+		"question": "To increase a feeble electric current , he stacked the copper-zinc plates like a Dagwood sandwich to form what was called ?",
+		"answer": "Voltaic Pile "
+	},
+	{
+		"question": "A precursor of the modern battery. ",
+		"answer": "Voltaic Pile "
+	},
+	{
+		"question": "Each zinc-copper sandwich is called a ____ of the battery?",
+		"answer": "Cell"
+	},
+	{
+		"question": "Modern dry cells use a ____ as the positive electrode surrounded by an electrolytic paste housed in a negative zinc cylindrical can .",
+		"answer": "Carbon rod"
+	},
+	{
+		"question": "Any device that converts some form of energy directly into electric energy is said to be a source of?",
+		"answer": "Electric Potential"
+	},
+	{
+		"question": "A danish physicist , discovered the first such link in 1820?",
+		"answer": "Hans Oersted"
+	},
+	{
+		"question": "Represented by imaginary lines that form concentric circles centered on the wire.",
+		"answer": "Magnetic Field"
+	},
+	{
+		"question": "He fashioned a long straight wire, supported near a free-rotating magnetic compass. With no current in the wire, the magnetic compass pointed north. When a current was passed through wire, however, the compass needle swung to point straight at the wire. ",
+		"answer": "Hans Oersted"
+	},
+	{
+		"question": "A coil of wire is called a ?",
+		"answer": "Solenoid"
+	},
+	{
+		"question": "Current-carrying coil of wire wrapped around an iron core , which intensifies the induced magnetic field.",
+		"answer": "Electromagnet "
+	},
+	{
+		"question": "An electric current is induced in a critical if some part of that circuit is in a changing magnetic field.",
+		"answer": "Electromagnetic Induction"
+	},
+	{
+		"question": "Varying magnetic field intensity induces an ______. ",
+		"answer": "Electric current"
+	},
+	{
+		"question": "His experiment demonstrated that electricity can be used to generate magnetic fields. ",
+		"answer": "Hans Oersted"
+	},
+	{
+		"question": "A self-educated British Experimenter found the answer for 'Can magnetic fields somehow be used to generate electricity?'",
+		"answer": "Michael Faraday"
+	},
+	{
+		"question": "He concluded that an electric current cannot be induced in a circuit merely by the presence of a magnetic field. ",
+		"answer": "Michael Faraday"
+	},
+	{
+		"question": "A coil of wire is connected to a current-measuring device called ?",
+		"answer": "Ammeter"
+	},
+	{
+		"question": "Faraday discovered that when the magnet is moved, the coiled of wire does have a current , as indicated by the ammeter. Therefore, to induce a current with the use of a magnetic field, the magnetic field cannot be constant but must be changing. This observation is summarized in what is called ? ",
+		"answer": "Faraday's Law"
+	},
+	{
+		"question": "Prime example of electromagnetic induction is?",
+		"answer": "Radio Reception"
+	},
+	{
+		"question": "Electric motors and generators are practical applications of ?",
+		"answer": "Oersted's and Faraday's experiments"
+	},
+	{
+		"question": "Basis of electric motor?",
+		"answer": "Electric current produces a mechanical motion ( the motion of compass needle)"
+	},
+	{
+		"question": "The principle on which the electric generator operates. ",
+		"answer": "Mechanical Motion (the motion of a magnet near a coil of wire) induces electricity in a coil of wire."
+	},
+	{
+		"question": "In electric generator the coil of wire is placed in a strong magnetic field between ?",
+		"answer": "Two magnetic poles"
+	},
+	{
+		"question": "Type of motor used with x-ray tubes is an ?",
+		"answer": "Induction motor "
+	},
+	{
+		"question": "In induction motor, the rotating rotor is a shaft made of bars of copper and soft iron fabricated into one mass; however , the external magnetic field is supplied by several fixed electromagnets called ____. ",
+		"answer": "Stators "
+	},
+	{
+		"question": "It powers the rotating anode of an x-ray tube",
+		"answer": "Induction motor "
+	},
+	{
+		"question": "A transformer changes the intensity of alternating voltage and current. ",
+		"answer": "True."
+	},
+	{
+		"question": "Another device that uses the interacting magnetic fields produced by changing electric currents is the ? It does not convert one form of energy to another but rather transforms electricity potential and current into higher or lower intensity. ",
+		"answer": "Transformer"
+	},
+	{
+		"question": "A transformer with a turns ratio greater than 1 is a ____ because the voltage is increased or stepped up from the primary side to the secondary side.",
+		"answer": "Step-up transformer"
+	},
+	{
+		"question": "When the turns ratio is less than 1, the transformer is a? ",
+		"answer": "Step-down transformer "
+	},
+	{
+		"question": "The _____ has one winding and varies both voltage and current. ",
+		"answer": "Autotransformer"
+	},
+	{
+		"question": "The type of transfomer , built about a square core of ferromagnetic material is called? ",
+		"answer": "Close-core transformer"
+	},
+	{
+		"question": "This type of transformer consists of iron core with only one winding of wire about it. The single winding acts as both the primary and the secondary winding. Connections are made different points on the coil for both primary and the secondary sides. ",
+		"answer": "Autotransformer "
+	},
+	{
+		"question": "This type of transformer confines even more of the magnetic field lines of the primary winding because the secondary is wrapped around it and there are essentially two closed cores. ",
+		"answer": "Shell-type transformer "
+	},
+	{
+		"question": "This is more efficient than the close-core transformer. ",
+		"answer": "Shell-type transformer "
+	},
+	{
+		"question": "What is the most currently used transformer ?",
+		"answer": "Shell-type transformer "
+	},
+	{
+		"question": "The practical applications of the laws of electromagnetism appear in the?",
+		"answer": "Electric Motor, Electric Generator and Transformer"
+	},
+	{
+		"question": "T/F. The transformer law describes how electric current and voltage change from the primary coil to secondary coil. ",
+		"answer": "True."
+	},
+	{
+		"question": "Electric current produces mechanical motion",
+		"answer": "Electric Motor"
+	},
+	{
+		"question": "Mechanical motion produces electric current ",
+		"answer": "Electric Generator"
+	},
+	{
+		"question": "Alternating electric current and electric potential transformed in intensity",
+		"answer": "Transformer "
+	},
+	{
+		"question": "A form of energy created by the activity of electrons and other subatomic particles in motion. ",
+		"answer": "Electricity "
+	},
+	{
+		"question": "The process of adding or removing electrons from a substance. ",
+		"answer": "Electrification "
+	},
+	{
+		"question": "Two objects actually touch permitting electrons to flow from one to another?",
+		"answer": "Contact "
+	},
+	{
+		"question": "One object is rubbed against another.",
+		"answer": "Friction "
+	},
+	{
+		"question": "The process of electrical fields acting on one another without contact. ",
+		"answer": "Induction "
+	},
+	{
+		"question": "T/F. The smallest unit of electric charge is an electron. ",
+		"answer": "True. "
+	},
+	{
+		"question": "It carries one unit of negative charge. It measured in coulomb. ",
+		"answer": "Electrostatic Charge"
+	},
+	{
+		"question": "When an object becomes electrified, the eletric charges are uniformly distributed throughout the object or on its surface. ",
+		"answer": "Distribution "
+	},
+	{
+		"question": "Unlike charges attract ; like repel ",
+		"answer": "Repulsion-attraction "
+	},
+	{
+		"question": "The electric charge of a conductor is concentrated along the sharpest curvature of its surface. ",
+		"answer": "Concentration "
+	},
+	{
+		"question": "Only negative charges move along solid conductors (not in text) ",
+		"answer": "Movement"
+	},
+	{
+		"question": "Commonly called electric current or electricity. Measures the flow of electrons. ",
+		"answer": "Electrodynamics "
+	},
+	{
+		"question": "A material which under certain extreme temperatures offer no resistance to eelctron movemement. ",
+		"answer": "Superconductor "
+	},
+	{
+		"question": "The number of electrons flowing in the circuit. ",
+		"answer": "Electrical current "
+	},
+	{
+		"question": "Measured in ampere (A). And also called Intensity (I)",
+		"answer": "Electric Current "
+	},
+	{
+		"question": "The potential number of electrons that can be used in the circuit. Measured in volts (V)",
+		"answer": "Electric Potential"
+	},
+	{
+		"question": "Anything that hinders the movement of electrons.",
+		"answer": "Electric Resistance "
+	},
+	{
+		"question": "Measured in watts",
+		"answer": "Electric Power"
+	},
+	{
+		"question": "Like poles repel, unlike poles attract",
+		"answer": "Repulsion-attraction "
+	},
+	{
+		"question": "______ of a conductor is concentrated along the sharpest curvature of the surface. ",
+		"answer": "Electric Charge "
+	},
+	{
+		"question": "The _____ across the total circuit or any portion of the circuit is equal to the current times the resistance. ",
+		"answer": "Voltage"
+	},
+	{
+		"question": "The ____ of a magnetic field are always closed loops. ",
+		"answer": "Imaginary lines "
+	},
+	{
+		"question": "______ objects can be made into magnets by induction. ",
+		"answer": "Ferromagnetic"
+	},
+	{
+		"question": "A charge in motion includes a ______. ",
+		"answer": "Magnetic field"
+	},
+	{
+		"question": "Composed of several external electromagnets (stator) with a fixed internal loop of wire (rotor). Utilized in the rotor of the x-ray tube. ",
+		"answer": "Induction motor "
+	},
+	{
+		"question": "Converts electrical energy into mechanical energy. Composed of the same elements as generator except that a current is applied to the wire which creates a small magnetic field and causes the wire to move. ",
+		"answer": "Electric Motor"
+	},
+	{
+		"question": "Constructed similar to AC generators with the addition of a commutator ring. Commutator ring acts as a switch to reverse the negative current to positive current. ",
+		"answer": "Direct Current Generators"
+	},
+	{
+		"question": "Coverts mechanical energy to electrical energy. Movement of the armature through the magnetic field lines causes a current to be induced in the wire. ",
+		"answer": "Electric Generator "
+	},
+	{
+		"question": "Composed of a loop of wire (armature) placed between 2 magnets of opposing poles. ",
+		"answer": "Electric Generator "
+	},
+	{
+		"question": "Produces Alternating Current (AC) ",
+		"answer": "Electric Generator"
+	},
+	{
+		"question": "Inducing a current flow into a secondary coil by placing it in the varying magnetic field lines",
+		"answer": "Mutual Induction "
+	},
+	{
+		"question": "When a current is induced due to the construction of the electromagnet .",
+		"answer": "Self Induction "
+	},
+	{
+		"question": "Of the magnetic field",
+		"answer": "Strength "
+	},
+	{
+		"question": "Of the motion betwees the magnetic fields and the conductor",
+		"answer": "Speed "
+	},
+	{
+		"question": "Between the magnetic fields and the conductor",
+		"answer": "Angle"
+	},
+	{
+		"question": "In the conducting coil",
+		"answer": "Number of turns"
+	},
+	{
+		"question": "Advantage of Electromagnet",
+		"answer": "Magnetism can be turned on and off"
+	},
+	{
+		"question": "Discovery of battery (constant flow of electricity)",
+		"answer": "1700"
+	},
+	{
+		"question": "Any chage in motion induces a magnetic field. A charge at rest produces no magnetic field",
+		"answer": "Oersted's Experiment "
+	},
+	{
+		"question": "Charges could be induced to move but only in a sudden discharge",
+		"answer": "Earliest studies of electricity "
+	},
+	{
+		"question": "Oerted's Experiment",
+		"answer": "1820"
+	},
+	{
+		"question": "The force between two magnetic fields is directly proportional to the product of their magnitudes and inversely proportional to the square of the distance between them (Maxwell's Field Theory)",
+		"answer": "Invers Square Law"
+	},
+	{
+		"question": "Every magnet has two poles, a north and a south",
+		"answer": "Magnetic Poles"
+	},
+	{
+		"question": "Highly permeable and greatly susceptible to induction",
+		"answer": "Ferromagnetic"
+	},
+	{
+		"question": "Have a low permeability and week attraction to magnetic fields",
+		"answer": "Paramagnetic"
+	},
+	{
+		"question": "Weakly repelled by all magnetic fields including both north and south poles.",
+		"answer": "Diamagnetic "
+	},
+	{
+		"question": "Materials that are not affected by magnetic fields and cannot be magnetized",
+		"answer": "Non-magnetic"
+	},
+	{
+		"question": "An electric wire wrapped around an iron core with an electric current flowing through it.",
+		"answer": "Electromagnets"
+	},
+	{
+		"question": "A magnet that is created by charging a material in a field of an electromagnetic. ",
+		"answer": "Artificially induced permanent magnets "
+	},
+	{
+		"question": "The earth (loadstone)",
+		"answer": "Naturally occuring magnets "
+	},
+	{
+		"question": "Transforms electric potential and current into higher and lower intensities. Can only be used with Alternating Current",
+		"answer": "Transformer"
+	},
+	{
+		"question": "As the number of turns on the primary side increases so does the voltage proportionally.",
+		"answer": "Transformer Law"
+	},
+	{
+		"question": "Steps voltage up from a lower voltage to a higher voltage.",
+		"answer": "Step-up transformer"
+	},
+	{
+		"question": "Steps down voltage from higher to lower voltages",
+		"answer": "Step-down transformer "
+	},
+	{
+		"question": "Current, voltage and the turns ratio is inversely proportional to one another.",
+		"answer": "Transformer effect on Current"
+	},
+	{
+		"question": "For every action there is an equal but opposite reaction.",
+		"answer": "Resistance"
+	},
+	{
+		"question": "The additional resistance created by alternate reversal to the magnetic field caused by the AC (Also called lagging loss)",
+		"answer": "Hysteresis"
+	},
+	{
+		"question": "Described by Len'z law",
+		"answer": "Eddy Currents"
+	},
+	{
+		"question": "Square iron core with primary windings on one side and secondary windings on the other side. Operates by means of mutual induction.",
+		"answer": "Closed core transformer "
+	},
+	{
+		"question": "Contains one coil of wire with an iron core which acts as primary and secondary windings. Operates by means of self induction rather than mutual induction.",
+		"answer": "Autotransformer (Open core)"
+	},
+	{
+		"question": "Composed of two closed iron cores which has one winding in the center of the two cores. Operates by means of self induction. ",
+		"answer": "Shell-Type"
+	},
+	{
+		"question": "T/F. Contrast agents used in MRI are paramagnetic. ",
+		"answer": "True."
+	}
+]
