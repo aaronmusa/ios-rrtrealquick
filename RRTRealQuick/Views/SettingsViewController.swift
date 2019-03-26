@@ -15,7 +15,7 @@ class SettingsViewController: BaseViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        
+        view.addTapToDismissKeyboard()
     }
     
     override func setupView() {
@@ -30,5 +30,12 @@ class SettingsViewController: BaseViewController {
         cacheManager.numberOfItems = Int(numberOfItems) ?? 0
         
         navigationController?.popViewController(animated: true)
+    }
+}
+
+extension SettingsViewController: UITextFieldDelegate {
+    func textFieldShouldReturn(_ textField: UITextField) -> Bool {
+        view.endEditing(true)
+        return true
     }
 }

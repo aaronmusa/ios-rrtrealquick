@@ -28,6 +28,7 @@
 		EC983742224929D600737D8F /* ChooseSubjectAlertView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC983741224929D600737D8F /* ChooseSubjectAlertView.swift */; };
 		EC98374A22493D1000737D8F /* Chapter2.json in Resources */ = {isa = PBXBuildFile; fileRef = EC98374822493D1000737D8F /* Chapter2.json */; };
 		EC98374B22493D1000737D8F /* Chapter3.json in Resources */ = {isa = PBXBuildFile; fileRef = EC98374922493D1000737D8F /* Chapter3.json */; };
+		EC98374E2249AE3200737D8F /* ViewHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC98374D2249AE3200737D8F /* ViewHelper.swift */; };
 		ECF3C3AE2243C75700515C04 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF3C3AD2243C75700515C04 /* ResultViewController.swift */; };
 		ECF3C3B12243CFDA00515C04 /* SummaryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF3C3B02243CFDA00515C04 /* SummaryCell.swift */; };
 		ECF3C3B32243D00200515C04 /* SummaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF3C3B22243D00200515C04 /* SummaryViewController.swift */; };
@@ -60,6 +61,7 @@
 		EC983741224929D600737D8F /* ChooseSubjectAlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseSubjectAlertView.swift; sourceTree = "<group>"; };
 		EC98374822493D1000737D8F /* Chapter2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Chapter2.json; sourceTree = "<group>"; };
 		EC98374922493D1000737D8F /* Chapter3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Chapter3.json; sourceTree = "<group>"; };
+		EC98374D2249AE3200737D8F /* ViewHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewHelper.swift; sourceTree = "<group>"; };
 		ECF3C3AD2243C75700515C04 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		ECF3C3B02243CFDA00515C04 /* SummaryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummaryCell.swift; sourceTree = "<group>"; };
 		ECF3C3B22243D00200515C04 /* SummaryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummaryViewController.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 		EC0F57832242792700FB350B /* RRTRealQuick */ = {
 			isa = PBXGroup;
 			children = (
+				EC98374C2249AE1B00737D8F /* Helper */,
 				EC0F57842242792700FB350B /* AppDelegate.swift */,
 				EC0F57A322427FEB00FB350B /* Common */,
 				EC0F57A022427F2400FB350B /* Custom */,
@@ -210,6 +213,14 @@
 				EC9837372249272F00737D8F /* RadBiology.json */,
 			);
 			path = "Json Files";
+			sourceTree = "<group>";
+		};
+		EC98374C2249AE1B00737D8F /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				EC98374D2249AE3200737D8F /* ViewHelper.swift */,
+			);
+			path = Helper;
 			sourceTree = "<group>";
 		};
 		ECF3C3AF2243CFC700515C04 /* Cells */ = {
@@ -357,6 +368,7 @@
 				EC0F57AE224286AB00FB350B /* DataStore.swift in Sources */,
 				EC983742224929D600737D8F /* ChooseSubjectAlertView.swift in Sources */,
 				ECF3C3B12243CFDA00515C04 /* SummaryCell.swift in Sources */,
+				EC98374E2249AE3200737D8F /* ViewHelper.swift in Sources */,
 				EC0F57852242792700FB350B /* AppDelegate.swift in Sources */,
 				ECF3C3B72243E55400515C04 /* CacheManager.swift in Sources */,
 				ECF3C3AE2243C75700515C04 /* ResultViewController.swift in Sources */,

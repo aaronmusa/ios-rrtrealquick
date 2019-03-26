@@ -31,6 +31,8 @@ class ChooseSubjectAlertView: UIView {
         content.frame = self.bounds
         content.autoresizingMask = [.flexibleWidth, .flexibleHeight]
         addSubview(content)
+        
+        addTapToRemoveFromView()
     }
     
     @IBAction func didTapSubjectButton(_ sender: AMButton) {
