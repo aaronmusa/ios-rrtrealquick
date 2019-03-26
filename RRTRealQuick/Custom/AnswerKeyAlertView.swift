@@ -37,8 +37,8 @@ class AnswerKeyAlertView: UIView {
     }
     
     func setupView(_ question: Question, answer: String) {
-        guard let correctAnswer = question.answer?.lowercased() else { return }
-        let isCorrect = correctAnswer == answer.lowercased()
+        guard let correctAnswer = question.answer else { return }
+        let isCorrect = correctAnswer.lowercased().replacingOccurrences(of: " ", with: "") == answer.lowercased().replacingOccurrences(of: " ", with: "")
         
         resultTitleLabel.text = isCorrect ? "Correct" : "Wrong"
         resultTitleLabel.textColor = isCorrect ? .green : .red

@@ -139,3 +139,10 @@ class QuestionnaireViewController: BaseViewController {
     }
     
 }
+
+extension QuestionnaireViewController: UITextFieldDelegate {
+    func textFieldShouldReturn(_ textField: UITextField) -> Bool {
+        view.endEditing(true)
+        return true
+    }
+}

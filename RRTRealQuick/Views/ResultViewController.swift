@@ -15,7 +15,7 @@ class ResultViewController: BaseViewController {
     @IBOutlet weak var scoreLabel: UILabel!
     
     var scoreText: String {
-        let correctAnswersCount = answeredQuestions.filter { $0.answer?.lowercased() == $0.chosenAnswer?.lowercased() }.count
+        let correctAnswersCount = answeredQuestions.filter { $0.answer?.lowercased().replacingOccurrences(of: " ", with: "") == $0.chosenAnswer?.lowercased().replacingOccurrences(of: " ", with: "") }.count
         
         return "\(correctAnswersCount)/\(answeredQuestions.count)"
     }
