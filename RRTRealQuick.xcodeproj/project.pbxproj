@@ -22,6 +22,7 @@
 		EC0F57AC2242868700FB350B /* Repository.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0F57AB2242868700FB350B /* Repository.swift */; };
 		EC0F57AE224286AB00FB350B /* DataStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0F57AD224286AB00FB350B /* DataStore.swift */; };
 		EC525952224A695E00DC2758 /* Chapter4-Bushong.json in Resources */ = {isa = PBXBuildFile; fileRef = EC525951224A695E00DC2758 /* Chapter4-Bushong.json */; };
+		EC525954224A7F5000DC2758 /* Chapter5-Bushong.json in Resources */ = {isa = PBXBuildFile; fileRef = EC525953224A7F4F00DC2758 /* Chapter5-Bushong.json */; };
 		EC98373A2249272F00737D8F /* RadBiology.json in Resources */ = {isa = PBXBuildFile; fileRef = EC9837372249272F00737D8F /* RadBiology.json */; };
 		EC98373B2249272F00737D8F /* Chapter1-Bushong.json in Resources */ = {isa = PBXBuildFile; fileRef = EC9837382249272F00737D8F /* Chapter1-Bushong.json */; };
 		EC98373E2249275500737D8F /* Glossary.json in Resources */ = {isa = PBXBuildFile; fileRef = EC98373D2249275500737D8F /* Glossary.json */; };
@@ -56,6 +57,7 @@
 		EC0F57AB2242868700FB350B /* Repository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Repository.swift; sourceTree = "<group>"; };
 		EC0F57AD224286AB00FB350B /* DataStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataStore.swift; sourceTree = "<group>"; };
 		EC525951224A695E00DC2758 /* Chapter4-Bushong.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Chapter4-Bushong.json"; sourceTree = "<group>"; };
+		EC525953224A7F4F00DC2758 /* Chapter5-Bushong.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Chapter5-Bushong.json"; sourceTree = "<group>"; };
 		EC9837372249272F00737D8F /* RadBiology.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = RadBiology.json; sourceTree = "<group>"; };
 		EC9837382249272F00737D8F /* Chapter1-Bushong.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Chapter1-Bushong.json"; sourceTree = "<group>"; };
 		EC98373D2249275500737D8F /* Glossary.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Glossary.json; sourceTree = "<group>"; };
@@ -208,6 +210,7 @@
 		EC0F57AF22428BCE00FB350B /* Json Files */ = {
 			isa = PBXGroup;
 			children = (
+				EC525953224A7F4F00DC2758 /* Chapter5-Bushong.json */,
 				EC525951224A695E00DC2758 /* Chapter4-Bushong.json */,
 				EC98374822493D1000737D8F /* Chapter2-Bushong.json */,
 				EC98374922493D1000737D8F /* Chapter3-Bushong.json */,
@@ -294,6 +297,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC525954224A7F5000DC2758 /* Chapter5-Bushong.json in Resources */,
 				EC98374A22493D1000737D8F /* Chapter2-Bushong.json in Resources */,
 				EC0F57A82242807000FB350B /* AnswerKeyAlertView.xib in Resources */,
 				EC525952224A695E00DC2758 /* Chapter4-Bushong.json in Resources */,

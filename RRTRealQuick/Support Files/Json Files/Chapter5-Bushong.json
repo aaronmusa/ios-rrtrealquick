@@ -1,0 +1,802 @@
+[
+	{
+		"question": "Three main components of an x-ray imaging system are? ",
+		"answer": "X-ray tube, Operating Console and High Voltage Generator"
+	},
+	{
+		"question": "Usually located under the examining table.",
+		"answer": "Fluoroscopic X-ray tube"
+	},
+	{
+		"question": "Attached to an overhead movable crane assembly that permits easy positioning of the tube and aiming of the x-ray beam.",
+		"answer": "Radiographic X-ray tube"
+	},
+	{
+		"question": "Strong and absorb little x-radiation. This contributes to reduced patient radiation dose.",
+		"answer": "Carbon Fiber couches "
+	},
+	{
+		"question": "A fluoroscopic couch is identified by its?",
+		"answer": "Head and Food tilt"
+	},
+	{
+		"question": "Located in an adjoining room",
+		"answer": "Operating Console"
+	},
+	{
+		"question": "Allows radiologic technologists to control the x-ray tube current and voltage so that the useful x-ray beam is of proper quantity and quality.",
+		"answer": "Operating Console"
+	},
+	{
+		"question": "Refers to the number of x-rays or the intensity of the x-ray beam. ",
+		"answer": "Radiation Quantity"
+	},
+	{
+		"question": "Radiation Quantity is usually expressed in ?",
+		"answer": "milligray (mGya) or milligray/milliampere-second (mGya/mAs)"
+	},
+	{
+		"question": "Refers to the penetrability of the x-ray beam.",
+		"answer": "Radiation Quality"
+	},
+	{
+		"question": "Radiation Quality is expressed in?",
+		"answer": "kilovolt peak (kVp) or Half-value layer (HVL)"
+	},
+	{
+		"question": "Measures the voltage provided to the x-ray imaging system and adjusts that voltage to precisely 220 V. ",
+		"answer": "Line Compensator"
+	},
+	{
+		"question": "The power supplied to the x-ray imaging is delivered first to the?",
+		"answer": "Autotransformer "
+	},
+	{
+		"question": "Has a single winding and is designed to supply a precise voltage to the filament circuit and to the high-voltage circuit of the x-ray imaging system.",
+		"answer": "Autotransformer "
+	},
+	{
+		"question": "Two of the connections conduct the input power to the autotransformer and are called?",
+		"answer": "Primary Connections"
+	},
+	{
+		"question": "Determines the quality of the x-ray beam.",
+		"answer": "kVp"
+	},
+	{
+		"question": "Adjustments 'fine' tubes the selected unique technique.",
+		"answer": "minor kVp "
+	},
+	{
+		"question": "The _____adjustment and the minor kilovolt peak adjustments represent two separate series of connections on the autotransformer. ",
+		"answer": "major kVp"
+	},
+	{
+		"question": "Actually reads voltage, not kVp",
+		"answer": "kVp meter"
+	},
+	{
+		"question": "It allows the voltage to be monitored before an exposure. ",
+		"answer": "Pre-reading kVp meter"
+	},
+	{
+		"question": "Crossing from cathode to anode, is measured in milliamperes (mA)",
+		"answer": "X-ray tube current"
+	},
+	{
+		"question": "It is for dual x-ray tube ?",
+		"answer": "Filament Circuit"
+	},
+	{
+		"question": "The release of electrons from a heated filament.",
+		"answer": "Thermionic Emission"
+	},
+	{
+		"question": "Filaments normally operate at currents of ?",
+		"answer": "3 to 6 A"
+	},
+	{
+		"question": "Filament temperature is in turn controlled by the filament current , which is measured in?",
+		"answer": "amperes (A)"
+	},
+	{
+		"question": "X-ray tube current is controlled through a separate circuit called the ?",
+		"answer": "Filament Circuit"
+	},
+	{
+		"question": "In _____, the exposure begins at maximum mA, and the mA drops as the anode heats. The result is minimum exposure time. ",
+		"answer": "Falling Load Generator"
+	},
+	{
+		"question": "The product of x-ray tube current (mA) and exposure time(s) is mAs, which is also?",
+		"answer": "Electric charge ( C ) "
+	},
+	{
+		"question": "Filament Transformer ",
+		"answer": "Step-down transformer "
+	},
+	{
+		"question": "Will terminate an exposure after a prescribed time, usually approximately 6 .",
+		"answer": "Guard timer"
+	},
+	{
+		"question": "The timer circuit is separate from the other main circuits of the x-ray imaging system.It consists of an electronic device whose action is to ____ and ____ to high voltage across the x-ray tube.",
+		"answer": "Make and Break"
+	},
+	{
+		"question": "Most exposure timers are electronic and are controlled by a ? ",
+		"answer": "Microprocessor"
+	},
+	{
+		"question": "There are how many types of timing circuits? Three are controlled by radiologic technologists , and one is automatic.",
+		"answer": "4 types "
+	},
+	{
+		"question": "A special type of electric motor. It is a precision device designed to drive a shaft at precisely 60 revolutions per second (rps). In some imaging systems , it is used as timing mechanism. It cannot be used for serial exposures becausee they must be reset after exposure. ",
+		"answer": "Synchronous Timers"
+	},
+	{
+		"question": "X-ray imaging systems with this timers are recognizable because the minimum exposure time possible is 1/60 s (17 ms) , and timing intervals increase by multiples thereof, such as, 1/30, 1/20 , and so on. ",
+		"answer": "Synchronous Timers"
+	},
+	{
+		"question": "It is the most sophisticated and most complicated ,and most accurate of the x-ray exposure timers. It consist of rather complex circuitry based on the time required to charge a capacitor through a variable resistance. ",
+		"answer": "Electronic Timers"
+	},
+	{
+		"question": "This timing circuit allow a wide range of time intervals to be selected and are accurate to intervals as small as 1 ms . Because they can be used for rapid serial exposure, they are suitable for interventional radiology procedures.",
+		"answer": "Electronic Timers"
+	},
+	{
+		"question": "Terminates the x-ray exposure at the desired film optical density. This is done with an ionization chamber or a photodiode detector assembly.",
+		"answer": "Automatic Exposure Control"
+	},
+	{
+		"question": "A special kind of electronic timer monitors the product of mA and exposure time and terminates exposure when the desired mAs value is attained. ",
+		"answer": "mAs timers"
+	},
+	{
+		"question": "This timing circuit is usually designed to provide the highest safe tube current for the shortest exposure for any mAs selected. Because it must monitor the actual tube current , it is located on the secondary side of the high-voltage transformer. ",
+		"answer": "mAs timers"
+	},
+	{
+		"question": "Used on falling-load and capacitor discharge imaging systems.",
+		"answer": "mAs timers"
+	},
+	{
+		"question": "Device that measures the quantity of radiation that reaches the image receptor. It automatically terminates the exposure when the image receptor has received the required radiation intensity. ",
+		"answer": "Automatic Exposure Control"
+	},
+	{
+		"question": "The type of AEC used by most manufacturers incorporates are?",
+		"answer": "Flat, parallel plate ionization chamber positioned b/w the px and image receptor"
+	},
+	{
+		"question": "The _____ of an x-ray imaging system is responsible for increasing the output voltage from the autotransformer to the kVp necessary for x-ray production. ",
+		"answer": "High-Voltage Generator"
+	},
+	{
+		"question": "The High Voltage Generator contains three primary part and these are? ",
+		"answer": "High-voltage transformer, Filament Transformer , Rectifiers"
+	},
+	{
+		"question": "High voltage transformer is a? ",
+		"answer": "Step-up transformer"
+	},
+	{
+		"question": "The secondary voltage is higher than the primary voltage because the number of secondary windings is greater than the number of primary windings. ",
+		"answer": "High-Voltage Transformer"
+	},
+	{
+		"question": "The turns ratio of a high - voltage transformer is usually between ? Because transformers operate only on an alternating current",
+		"answer": "500 : 1 and 1000 : 1"
+	},
+	{
+		"question": "The only difference between primary and secondary waveforms is their ? ",
+		"answer": "Amplitude"
+	},
+	{
+		"question": "The ratio of the number of secondary windings to the number of primary windings are called?",
+		"answer": "Turns ratio"
+	},
+	{
+		"question": "The primary voltage is measured in ?",
+		"answer": "Volts (V)"
+	},
+	{
+		"question": "The secondary voltage is measured in ?",
+		"answer": "kilovolts (kV)"
+	},
+	{
+		"question": "The primary current is measured in? ",
+		"answer": "amperes (A)"
+	},
+	{
+		"question": "The secondary current is measured in? ",
+		"answer": "milliamperes (mA)"
+	},
+	{
+		"question": "Radiographers outside Japan may use a frequency of ?",
+		"answer": "50 Hz"
+	},
+	{
+		"question": "It is the process of converting AC to DC?",
+		"answer": "Rectification"
+	},
+	{
+		"question": "The electronic device that allows current flow in only one direction is a? ",
+		"answer": "Rectifier"
+	},
+	{
+		"question": "Is required to ensure that electrons flow from x-ray tube cathode and anode. ",
+		"answer": "Voltage Rectification"
+	},
+	{
+		"question": "Rectification is accomplished with?",
+		"answer": "Diodes"
+	},
+	{
+		"question": "An electronic device that contains two electrodes? ",
+		"answer": "Diodes"
+	},
+	{
+		"question": "Originally, all diode rectifiers were vacuum tubes called ? ",
+		"answer": "Valve Tubes"
+	},
+	{
+		"question": "These have been replaced by solid-state rectifiers made of silicon.",
+		"answer": "Valve Tubes"
+	},
+	{
+		"question": "A third class of materials , called _____, lies between the range of insulators and conductors in their ability to conduct electricity. ",
+		"answer": "Semiconductors "
+	},
+	{
+		"question": "Semiconductors are classified into two types and these are? ",
+		"answer": "N-type and P-type"
+	},
+	{
+		"question": "A semiconductors that have loosely bound electrons that are relatively free to move. ",
+		"answer": "N-type"
+	},
+	{
+		"question": "A semiconductors have spaces, called ____, where there are no electrons. ",
+		"answer": "P-type"
+	},
+	{
+		"question": "Holes as mobile of?",
+		"answer": "Electrons"
+	},
+	{
+		"question": "Consider a tiny crystal of n-type material placed in contact with a p-type crystal to form what is called a ? ",
+		"answer": "p-n junction"
+	},
+	{
+		"question": "Electron flow is used when medical imaging systems are described",
+		"answer": "True."
+	},
+	{
+		"question": "Solid-state p-n junction tends to conduct electricity in only direction? This type of p-n junction is called? ",
+		"answer": "Solid-state diode"
+	},
+	{
+		"question": "These are rectifiers because they conduct electric current in only one direction.",
+		"answer": "Solid-state diode"
+	},
+	{
+		"question": "Rectifiers are located in the? ",
+		"answer": "High-voltage section"
+	},
+	{
+		"question": "This voltage waveform appears as the voltage waveform supplied to the primary side of the high - voltage transformer except its amplitude is much greater. ",
+		"answer": "Unrectified Voltage"
+	},
+	{
+		"question": "The inverse voltage is removed from the supply to the x-ray tube by rectification. ",
+		"answer": "Half-Wave Rectification"
+	},
+	{
+		"question": "Is a condition in which the voltage is not allowed to swing negatively during the negative half of its cycle. ",
+		"answer": "Half-Wave Rectification"
+	},
+	{
+		"question": "Half-wave -rectified circuits contain how many diodes? ",
+		"answer": "0,1 or 2"
+	},
+	{
+		"question": "The x-ray output from a half-wave high-voltage generator pulsates , producing how many x-ray pulses each second?",
+		"answer": "60"
+	},
+	{
+		"question": "The resultant electric current is a rectified current because electrons flow in only one direction. This form of rectification is called ______ because only half of the AC waveform appears in the output.",
+		"answer": "Half-Wave Rectification"
+	},
+	{
+		"question": "One shortcoming of half wave rectification is that it wastes half the supply of the power. It also requires twice the exposure time. It is possible, however, to devise a circuit that rectifies the entire AC waveform. This form of voltage rectification is called? ",
+		"answer": "Full-wave rectification"
+	},
+	{
+		"question": "Full-wave-rectified x-ray imaging systems contains at least how many diodes in the voltage circuit? ",
+		"answer": "At least 4 diodes"
+	},
+	{
+		"question": "The main advantage of full-wave rectification is that the exposure time for any given technique is cut in?",
+		"answer": "Half"
+	},
+	{
+		"question": "Single-phase power results in a? This is caused by the alternate swing in voltage from zero to maximum potential 120 times each second under full-wave rectification.",
+		"answer": "Pulsating x-ray beam"
+	},
+	{
+		"question": "The engineering required to produce three-phase power involves the manner in which the high-voltage step-up transformer in wired into the circuit. ",
+		"answer": "Three-Phase Power"
+	},
+	{
+		"question": "Ending exposure",
+		"answer": "Extinction Time"
+	},
+	{
+		"question": "Starting exposure",
+		"answer": "Initiation Time"
+	},
+	{
+		"question": "T/F. With three-phase power, the voltage applied across the x-ray tube is nearly constant , never dropping to zero during exposure.",
+		"answer": "True."
+	},
+	{
+		"question": "T/F. Full-wave rectification or high-frequency voltage generation is used in almost all stationary x-ray imaging systems.",
+		"answer": "True."
+	},
+	{
+		"question": "During capacitor discharge , the voltage falls approximately ?",
+		"answer": "1 kV/mAs"
+	},
+	{
+		"question": "Are high-speed switches , or choppers, that convert DC into a series of square pulses. ",
+		"answer": "Inveter Circuits "
+	},
+	{
+		"question": "Single-phase power has how many voltage ripple? ",
+		"answer": "100 % voltage ripple"
+	},
+	{
+		"question": "Three-phase, six pulse power produces voltage with approximately how many percent of ripple?",
+		"answer": "14% ripple"
+	},
+	{
+		"question": "T/F. Less voltage ripple results in greater radiation quantity and quality. ",
+		"answer": "True."
+	},
+	{
+		"question": "High-frequency generators have approximately how many % of ripple and therefore greater quantity and quality? ",
+		"answer": "1%"
+	},
+	{
+		"question": "Three-phase,12 pulses power results in only how many % of ripple? ",
+		"answer": "4%"
+	},
+	{
+		"question": "The principal disadvantage of the three phase apparatus is its ?",
+		"answer": "Initial Cost "
+	},
+	{
+		"question": "Is the science of stationary electric charges",
+		"answer": "Electrostatics"
+	},
+	{
+		"question": "Is the science of electric charges in motion",
+		"answer": "Electrodynamics"
+	},
+	{
+		"question": "Is supplied to the x-ray imaging system in the form of well-controlled electric current (mAs)",
+		"answer": "Electric Energy"
+	},
+	{
+		"question": "Electric energy is transformed into heat",
+		"answer": "X-ray tube"
+	},
+	{
+		"question": "Electric Energy is converted into mechanical energy.",
+		"answer": "Electric motor"
+	},
+	{
+		"question": "T/F. Electrons and protons are the smallest units of electric charge",
+		"answer": "True."
+	},
+	{
+		"question": "If it has too few or too many elctrons ",
+		"answer": "Electrified"
+	},
+	{
+		"question": "Smallest unit of electric charge",
+		"answer": "Electron"
+	},
+	{
+		"question": "Points outward from a positive charge and towarda negative charge.",
+		"answer": "Electric Field"
+	},
+	{
+		"question": "The force of attraction between unlike charges or repulsion between like charges is due to the electric field .",
+		"answer": "Electrostatic Force "
+	},
+	{
+		"question": "Magnitude of the electrostatic force ",
+		"answer": "Coulumb's Law "
+	},
+	{
+		"question": "'Our business is shocking'",
+		"answer": "Cattle Prod Motto"
+	},
+	{
+		"question": "The electrostatic force is directly proportional to the product of the electrostatic charges and inversely proportional to the square of the distance between them.",
+		"answer": "Coulumb's Law "
+	},
+	{
+		"question": "T/F. Electric Charge of a conductor is concentrated along the sharpest curvature of the surface.",
+		"answer": "True."
+	},
+	{
+		"question": "Electric potential unit",
+		"answer": "Volt/V"
+	},
+	{
+		"question": "T/F. The higher the voltage, the greater is the potential to do work.",
+		"answer": "True."
+	},
+	{
+		"question": "(I V= I J/C)",
+		"answer": "Joule/ Coulomb "
+	},
+	{
+		"question": "When the eelctron moves a long the wire.",
+		"answer": "Electric current/ Electricity"
+	},
+	{
+		"question": "He Assumed that positive electric charges were conducted on his kite string. RESULT : The convention that the direction of electric current is always opposite that of electron flow.",
+		"answer": "Benjamin Franklin "
+	},
+	{
+		"question": "Is any substance through which eelctrons flow easily.",
+		"answer": "Conductor "
+	},
+	{
+		"question": "Is any material that does not allow electron flow.",
+		"answer": "Insulator "
+	},
+	{
+		"question": "Demonstrates semiconduction , the principal semiconduct or materials are silicon (Si) and Germanium (Ge)",
+		"answer": "William Shockley (1946)"
+	},
+	{
+		"question": "Is a material that undersome condition behaves as insulator and in other conditions behaves as a conductor",
+		"answer": "Semiconductors "
+	},
+	{
+		"question": "Is the property of some materials to exhibit no resistance below a critical temperature (Tc)",
+		"answer": "Superconductivity "
+	},
+	{
+		"question": "Niobium and Titanium ",
+		"answer": "Superconducting materials"
+	},
+	{
+		"question": "Allow electrons to flow without a Resistance",
+		"answer": "Superconducting materials"
+	},
+	{
+		"question": "T/F. A superconducting circuit can viewed as one in perpetual motion because electric current exist without voltage. ",
+		"answer": "True."
+	},
+	{
+		"question": "Ampere (A). NOTE: The ampere is proportional to the number of electrons flowing in the electric circuit.",
+		"answer": "Electric Current"
+	},
+	{
+		"question": "volts (V)",
+		"answer": "Electric potential "
+	},
+	{
+		"question": "Ohms (Ω) ",
+		"answer": "Electric Resistace "
+	},
+	{
+		"question": "The voltage across the total circuit or any portion of the cicuit or any portion of the circuit is equal to the current times the resistance.",
+		"answer": "Ohm's Law"
+	},
+	{
+		"question": "All circuit elements are connected in a line along the same conductor",
+		"answer": "Series Circuit"
+	},
+	{
+		"question": "Contains elements that are connected at their ends rather than lying in a line along conductor.",
+		"answer": "Parallel Circuit "
+	},
+	{
+		"question": "T/F. Electromagnetic energy attenuation is the reduction in intensity that results from scattering and absorption",
+		"answer": "True."
+	},
+	{
+		"question": "From the silvered surface of a mirror is common",
+		"answer": "Reflection "
+	},
+	{
+		"question": "Window glass",
+		"answer": "Transparent"
+	},
+	{
+		"question": "Froaste Glass",
+		"answer": "Translucent"
+	},
+	{
+		"question": "Black glass",
+		"answer": "Opaque"
+	},
+	{
+		"question": "Structures that absorb x-ray (white)",
+		"answer": "Radiopaque "
+	},
+	{
+		"question": "Structures that transmit x-ray (black)",
+		"answer": "Radiolucent"
+	},
+	{
+		"question": "Relationship between radiation intensity and distace from the radiation source.",
+		"answer": "Inverse square law"
+	},
+	{
+		"question": "T/F. X-ray energy ranges from approximately 10 keV to 50 meV (Diagnostic)",
+		"answer": "True. "
+	},
+	{
+		"question": "X-rays are created with the speed of light ( c ) , and they exist with velocity ( c) or they do not exist at all.",
+		"answer": "Planck's Quantum Theory "
+	},
+	{
+		"question": "Most xray systems usually operated and what voltages and what currents",
+		"answer": "25 to 150 kVp and 100 to 1200 mA"
+	},
+	{
+		"question": "The xray table is usually made out of what?  ",
+		"answer": "Carbon Fiber Table"
+	},
+	{
+		"question": "How far below horizontal will a patients head go on a fluoroscopic couch? ",
+		"answer": "30 degrees below horizontal"
+	},
+	{
+		"question": "What refers to the number of xrays or the intensity of the xray beam? ",
+		"answer": "Radiation quantity"
+	},
+	{
+		"question": "All of the electric circuits that connect the meters and controls on the operating console are at what kind of voltage ? ",
+		"answer": "Low voltage to minimize the possibility of hazardous shock"
+	},
+	{
+		"question": "Most xray imaging systems are designed to operate on 220 volt although some can operate on what? ",
+		"answer": "110 volt and 440 volt"
+	},
+	{
+		"question": "The voltage provided to an xray unit easily may vary by as much as what ? ",
+		"answer": "5%"
+	},
+	{
+		"question": "The autotransformer can be designed to step up voltage to approximately how much of the input voltage value ? ",
+		"answer": "Twice the input voltage value"
+	},
+	{
+		"question": "The autotransformer operates as an induction device the voltage it receives ( the primary voltage) and the voltage it provides (the secondary voltage) are related to what? ",
+		"answer": "Directly to the number of turns of the transformer enclosed by the respective connections"
+	},
+	{
+		"question": "What kind of kVp meter registers even though no exposure is being made and the circuit has no current? ",
+		"answer": "Prereading kVp meter. It allows voltage to be monitored before an exposure"
+	},
+	{
+		"question": "The xray tube current crossing from cathode to anode is measured in what? ",
+		"answer": "milliamperes (mA)"
+	},
+	{
+		"question": "The number of electrons emitted by the filament is determined by the what? ",
+		"answer": "Temperature of the filament"
+	},
+	{
+		"question": "As the filament current increases the filament becomes hotter and more electrons are released by what? ",
+		"answer": "Thermionic emission"
+	},
+	{
+		"question": "What is the release of electrons from a heated filament? ",
+		"answer": "Thermionic emission"
+	},
+	{
+		"question": "Precision resistors result in fixed stations that provide tube currents of what?",
+		"answer": "100, 200, 300 mA and higher"
+	},
+	{
+		"question": "Precision resistors are used to what? ",
+		"answer": "Reduce the voltage to a value that corresponds to the selected milliamperage"
+	},
+	{
+		"question": "What is the full name of a filament transformer? ",
+		"answer": "Filament heating isolation step down transformer"
+	},
+	{
+		"question": "When radiographs are taken in the AEC mode, the electronic timer should be set to what for the expected exposure time as a backup timer in case the AEC fails to terminate? ",
+		"answer": "1.5 times the expected exposure time"
+	},
+	{
+		"question": "What are devices that operate with a very accurate internal clock based on a quartz crystal oscillator and are used for exposure timer checks? ",
+		"answer": "Solid state radiation detectors"
+	},
+	{
+		"question": "The high voltage transformer is what kind of transformer?",
+		"answer": "Step up transformer"
+	},
+	{
+		"question": "The ratio of the number of secondary windings to the number of primary windings is called what? ",
+		"answer": "Turns ratio"
+	},
+	{
+		"question": "What is used when medical imaging systems are described?",
+		"answer": "Electron flow"
+	},
+	{
+		"question": "There are how many pulses per second in a three phase power compared with the two pulses characteristic of single phase power? ",
+		"answer": "6 pulses per 1/60th of a second"
+	},
+	{
+		"question": "Full wave rectified power at 60 Hz is converted to a higher frequency that is what?",
+		"answer": "500 to 25000 hz and then is transferred to high voltage"
+	},
+	{
+		"question": "What are high speed switches or choppers that convert DC into a series of square pulses? ",
+		"answer": "Inverter circuits"
+	},
+	{
+		"question": "During capacitor discharge, the voltage fall approximately where? ",
+		"answer": "1 kV/mAs"
+	},
+	{
+		"question": "Less voltage ripple results in what? ",
+		"answer": "Greater radiation quantity and quality"
+	},
+	{
+		"question": "Transformers and high voltage generators usually are identified by their power rating in what? ",
+		"answer": "kilowatts (kW)"
+	},
+	{
+		"question": "current x potential = what? ",
+		"answer": "power"
+	},
+	{
+		"question": "amperes x Volts = what?",
+		"answer": "watts"
+	},
+	{
+		"question": "High voltage generator power (kW) = what? ",
+		"answer": "Maximum xray tube current (mA) at 100 kVp and 100 mS"
+	},
+	{
+		"question": "A high voltage generator for a basic radiographic unit is rated at what? ",
+		"answer": "30 to 50 kW"
+	},
+	{
+		"question": "Power to the primary side of the high voltage transformer comes from what?",
+		"answer": "The secondary side of the autotransformer"
+	},
+	{
+		"question": "The output voltage from the autotransformer is what? ",
+		"answer": "Proportional to the turns ratio"
+	},
+	{
+		"question": "The autotransformer operates on the principle of what law? ",
+		"answer": "Faraday's law"
+	},
+	{
+		"question": "The voltage supplied to an xray imaging system is 220V. The voltage used by the xray tube is produced by what?",
+		"answer": "High voltage transformer"
+	},
+	{
+		"question": "The principal purpose of the autotransformer is to what? ",
+		"answer": "adjust voltage"
+	},
+	{
+		"question": "What is directly connected to the autotransformer? ",
+		"answer": "kVp meter"
+	},
+	{
+		"question": "Taps on the windings of an autotransformer may be used to select what? ",
+		"answer": "line compensation"
+	},
+	{
+		"question": "Selection of kVp uses what? ",
+		"answer": "The step up transformer"
+	},
+	{
+		"question": "What is used to determine the voltage before exposure? ",
+		"answer": "A voltmeter"
+	},
+	{
+		"question": "The filament transformer does what? ",
+		"answer": "Increases current"
+	},
+	{
+		"question": "The unit mAs could be expressed how?",
+		"answer": "In coulombs"
+	},
+	{
+		"question": "An exposure technique of 100mA at 100 mS compared with 50mA at 50 mS results in how many more electrons? ",
+		"answer": "4 times the total number of electrons"
+	},
+	{
+		"question": "The meter that monitors xray tube current is located where? ",
+		"answer": "Physically located on the control console"
+	},
+	{
+		"question": "Xray tube current is usually measured in what? ",
+		"answer": "mA"
+	},
+	{
+		"question": "What would be a another way to express xray tube current other than mA?",
+		"answer": "Coulombs/second"
+	},
+	{
+		"question": "The control of exposure time is always where? ",
+		"answer": "On the primary side of the high voltage transformer"
+	},
+	{
+		"question": "The exposure timer on a three phase radiographic imaging system will be what? ",
+		"answer": "Be electronic"
+	},
+	{
+		"question": "There are 30 video frames each second for a fluoroscopic CRT dynamic image. What is the length for each frame? ",
+		"answer": "33 ms"
+	},
+	{
+		"question": "The human eye cannot visualize faster than approximately five views each second. What is the integration time of the human eye? ",
+		"answer": "200 ms"
+	},
+	{
+		"question": "mA is a unit of electric current, and mAs is a unit of what? ",
+		"answer": "Electric charge"
+	},
+	{
+		"question": "What is contained in a typical high voltage generator? ",
+		"answer": "Autotrasformer"
+	},
+	{
+		"question": "A change in the voltage waveform from the primary side to the secondary side of the high voltage transformer produces a change in what? ",
+		"answer": "Amplitude"
+	},
+	{
+		"question": "In half wave rectification, each inverse half cycle in the primary circuit corresponds to how many voltage pulses across the xray tube? ",
+		"answer": "None"
+	},
+	{
+		"question": "What is a disadvantage of three phase power compared with single phase power?",
+		"answer": "Higher capital cost"
+	},
+	{
+		"question": "The disadvantage of a self rectified circuit is what?",
+		"answer": "its limited exposure time"
+	},
+	{
+		"question": "Full wave rectification requires what? ",
+		"answer": "At least 4 rectifiers"
+	},
+	{
+		"question": "A rectifier can be what? ",
+		"answer": "A semiconductor"
+	},
+	{
+		"question": "Concerning the transformers used in the xray circuit the high voltage transformer is a what? ",
+		"answer": "Step up device"
+	},
+	{
+		"question": "What is an advantage of three phase power over single phase power? ",
+		"answer": "Increased xray intensity per mA"
+	},
+	{
+		"question": "Oil is used in the high voltage section of an xray imaging system for which of the following functions? ",
+		"answer": "Electrical insulation"
+	}
+]

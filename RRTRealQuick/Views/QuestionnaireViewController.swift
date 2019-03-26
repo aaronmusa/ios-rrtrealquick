@@ -61,6 +61,8 @@ class QuestionnaireViewController: BaseViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        view.addTapToDismissKeyboard()
+        
         repository.getQuestions(subject: subject, successHandler: { questions, answers  in
             self.questions = questions
             self.answers = answers

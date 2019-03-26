@@ -15,6 +15,7 @@ enum Subject: String, CaseIterable {
     case chapterTwoBushong = "Chapter2-Bushong"
     case chapterThreeBushong = "Chapter3-Bushong"
     case chapterFourBushong = "Chapter4-Bushong"
+    case chapterFiveBushong = "Chapter5-Bushong"
     case radBiology = "RadBiology"
     case all = "All"
 }
