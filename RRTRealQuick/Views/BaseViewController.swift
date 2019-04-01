@@ -42,19 +42,28 @@ class BaseViewController: UIViewController {
         }
         
         if segue.identifier == Segue.ShowQuestionnaire {
-            guard let destinationVc = segue.destination as? QuestionnaireViewController, let subject = sender as? Subject else { return }
+            guard let destinationVc = segue.destination as? QuestionnaireViewController, let bookAndSubject = sender as? (BookType, Subject) else { return }
             
-            destinationVc.subject = subject
+            destinationVc.bookType = bookAndSubject.0
+            destinationVc.subject = bookAndSubject.1
         }
     }
 
 
     @IBAction func didTapStartButton(_ sender: UIButton) {
-        let subjectsView = ChooseSubjectAlertView(frame: view.frame)
-        view.addSubview(subjectsView)
+        let booksView = ChooseSubjectAlertView(pageType: .books)
+        view.addSubview(booksView)
         
-        subjectsView.onTapSubject = { subject in
-            self.performSegue(withIdentifier: Segue.ShowQuestionnaire, sender: subject)
+        
+        booksView.onTapBook = { book in
+            let subjectsView = ChooseSubjectAlertView(pageType: .subjects, bookType: book)
+            self.view.addSubview(subjectsView)
+            
+            subjectsView.onTapSubject = { subject, book in
+                let bookAndSubject = (book, subject)
+                self.performSegue(withIdentifier: Segue.ShowQuestionnaire, sender: bookAndSubject)
+            }
+//            subjectsView.
         }
     }
 }

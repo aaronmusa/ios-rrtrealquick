@@ -21,6 +21,10 @@ class CacheManager {
             let numberOfItems = defaults.integer(forKey: numberOfItemsKey)
             
             if numberOfItems < 10 {
+                if numberOfItems == 0 {
+                    return 0
+                }
+                
                 return 10
             }
             

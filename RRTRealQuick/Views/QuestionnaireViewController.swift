@@ -39,6 +39,7 @@ class QuestionnaireViewController: BaseViewController {
         return cacheManager.questionnaireType
     }
     var subject: Subject = .glossary
+    var bookType: BookType = .clusterOneAndTwo
     var questions = [Question]()
     var answers = [String]()
     
@@ -63,7 +64,7 @@ class QuestionnaireViewController: BaseViewController {
         
         view.addTapToDismissKeyboard()
         
-        repository.getQuestions(subject: subject, successHandler: { questions, answers  in
+        repository.getQuestions(bookType: bookType, subject: subject, successHandler: { questions, answers  in
             self.questions = questions
             self.answers = answers
             
@@ -72,7 +73,7 @@ class QuestionnaireViewController: BaseViewController {
     }
     
     func populateView(_ question: Question, choices: [String]) {
-        numberLabel.text = "#\(number) / \(cacheManager.numberOfItems)"
+        numberLabel.text = "#\(number) / \(questions.count)"
         questionTextView.text = question.text
         answerTextField.text?.removeAll()
         

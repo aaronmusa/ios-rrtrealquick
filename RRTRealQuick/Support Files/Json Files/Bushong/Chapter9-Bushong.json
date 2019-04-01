@@ -1,0 +1,210 @@
+[
+	{
+		"question": "Interacts with the structures that are similar in size to the wavelength of the radiation.",
+		"answer": "Electromagnetic Radiation "
+	},
+	{
+		"question": "X-rays have very short wavelengths, approximately?",
+		"answer": "10 ^-8 to 10 ^-9 m"
+	},
+	{
+		"question": "The higher the energy of an x-ray , the _____  is its wavelength.",
+		"answer": "Shorter"
+	},
+	{
+		"question": "X-rays with energies below approximately 10 keV interact with matter by ? ",
+		"answer": "Coherent Scattering/ Classical Scattering/ Thompson Scattering "
+	},
+	{
+		"question": "Who was the physicist to first describe the Coherent Scattering? ",
+		"answer": "J.J. Thompson "
+	},
+	{
+		"question": "T/F. Coherent Scattering is of little importance to diagnostic radiology.",
+		"answer": "True. "
+	},
+	{
+		"question": "In ______, the incident x-ray interacts with a target atom , causing it to become excited.",
+		"answer": "Coherent Scattering"
+	},
+	{
+		"question": "T/F. Most coherently scattered x-rays are scattered in the forward direction.",
+		"answer": "True. "
+	},
+	{
+		"question": "At 70 kVp, a few percent of the x-rays undergo coherent scattering , which contributes slightly to _____, the general graying of an image that reduces image contrast.",
+		"answer": "Image noise"
+	},
+	{
+		"question": "Primarily involves low-energy x-rays",
+		"answer": "Coherent Scattering "
+	},
+	{
+		"question": "X-rays throughout the diagnostic range can undergo an interaction with outer-shell electrons that not only scatters the x-ray but reduces its energy and ionizes the atom as well. This interaction is called? ",
+		"answer": "Compton Scattering"
+	},
+	{
+		"question": "In Compton Scattering, the incident x-ray interacts with an outer-shell electron and ejects it from the atom, thereby ionizing the atom. The ejected electron is called? ",
+		"answer": "Compton Electron"
+	},
+	{
+		"question": "T/F. The probability of Compton Scattering is inversely proportional to x-ray energy (1/E) and independent of atomic number.",
+		"answer": "True. "
+	},
+	{
+		"question": "An interaction between low-energy x-rays and atoms. The xray loses no energy but changes direction slightly. The wavelength of the incident x-ray is equal to the wavelength of the scatttered x-ray. ",
+		"answer": "Coherent Scattering"
+	},
+	{
+		"question": "Occurs between moderate-energy x-rays and outer-shell electrons. It results in ionization of the target atom, a change in x-ray direction, and a reduction in x-ray energy. The wavelength of the scattered x-ray is greater than that of the incident x-ray. ",
+		"answer": "Compton Scattering"
+	},
+	{
+		"question": "X-rays scattered back in the direction of the incident x-ray beam are called? ",
+		"answer": "Backscatter Radiation"
+	},
+	{
+		"question": "In radiography, _____, is responsible for cassette-hinge image sometimes seen on a radiograph even through the hinge was on the back side of the cassette. In such situations, the x-radiation has backscattered from the wall or the examination table, not from the px. ",
+		"answer": "Backscatter Radiation"
+	},
+	{
+		"question": "T/F. Compton Scattering reduces image contrast.",
+		"answer": "True. "
+	},
+	{
+		"question": "The scattered x-ray from Compton Scattering can create a serious radiation exposure hazard in radiography, and particularly in _______. ",
+		"answer": "Fluoroscopy "
+	},
+	{
+		"question": "X-rays in the diagnostic range also undergo ionizing interactions with inner-shell electrons. The x-ray is not scattered, but it is totally absorbed. This process is called? ",
+		"answer": "Photoelectric Effect "
+	},
+	{
+		"question": "Who earned the 1921 Nobel prize in physics about photoelectric effect?",
+		"answer": "Albert Einstein"
+	},
+	{
+		"question": "The electron removed from the atom, called a _____, escapes with kinetic energy equal to the difference between the energy of the incident x-ray and the binding energy of the electron. ",
+		"answer": "Photoelectron "
+	},
+	{
+		"question": "T/F. The photoelectric effect is total x-ray absorption.",
+		"answer": "True. "
+	},
+	{
+		"question": "T/F. The probability of the photoelectric effect is inversely proportional to the third power of the x-ray energy (1/E) ^3",
+		"answer": "True. "
+	},
+	{
+		"question": "T/F. The probability to photoelectric effect is direectly proportional to the third power of the atomic number of the absorbing material (Z^3)",
+		"answer": "True. "
+	},
+	{
+		"question": "An example of a graph with a logarithmic (log for short) scale along the vertical axis. ",
+		"answer": "Semilogarithmic Graphs"
+	},
+	{
+		"question": "If an incident x-ray has sufficient energy, it may escape interaction with electrons and come close enough to the nucleus of the atom to be influenced by the strong nuclear field. The interaction between the x-ray and the nuclear field causes the x-ray to disappear, and in its place, two electrons appear, one positively charged (positron) and one negatively charged. This process is called ? ",
+		"answer": "Pair Production"
+	},
+	{
+		"question": "An x-ray with less than _____ cannot undergo pair production. ",
+		"answer": "1.02 MeV"
+	},
+	{
+		"question": "The electron that resuts from pair production loses energy through excitation and ionization and eventually fills a vacancy in an atomic orbital shell. The positron unites with a free electron, and the mass of both particles is converted to energy in a process called ? ",
+		"answer": "Annihilation Radiation"
+	},
+	{
+		"question": "X-rays w/ energy above 10 MeV can escape interaction w/ electrons and the nuclear field can absorbed directly by nucleus. When this happens, the nucleus is raised to an excited state and instantly emits a nucleon or other nuclear fragment. This process is called? ",
+		"answer": "Photodisintegration"
+	},
+	{
+		"question": "T/F. Photodisintegration does not occur in diagnostic imaging",
+		"answer": "True. "
+	},
+	{
+		"question": "Of the five ways an x-ray can interact with tissue, only two are important to radiology, and these are? ",
+		"answer": "Compton Scattering and Photoelectric effect"
+	},
+	{
+		"question": "What are the only two methods of x-ray production are important? ",
+		"answer": "Bremsstrahlung x-rays and Characteristic x-rays"
+	},
+	{
+		"question": "The ___ x-ray contributes no useful information to the image. ",
+		"answer": "Compton-scattered "
+	},
+	{
+		"question": "When a ____ x-ray interacts with the image receptor, the image receptor assumes that the x-ray came straight from the x-ray tube target.",
+		"answer": "Compton-Scattered "
+	},
+	{
+		"question": "X-rays that undergo  photoelectric interaction provide diagnostic information to the image receptor. Because they do not reach the image receptor, these x-rays are representative of anatomical structures with high x-ray absorption characteristics;such structures are?",
+		"answer": "Radiopaque "
+	},
+	{
+		"question": "Other x-rays penetrate the body and are transmitted to the image receptor with no interaction or what so ever. They produce dark areas of a radiograph. The anatomical sructures through which these x-rays pass are ? ",
+		"answer": "Radiolucent"
+	},
+	{
+		"question": "Basically, an x-ray image results from the difference between those x-rays absorbed photoelectrically in the patient and those transmitted to the image receptor. This difference in x-ray interaction is called?",
+		"answer": "Differential Absorption"
+	},
+	{
+		"question": "T/F. Differential absorption increases as the kVp is reduced.",
+		"answer": "True. "
+	},
+	{
+		"question": "Independent of the atomic number of tissue.",
+		"answer": "Compton Scattering "
+	},
+	{
+		"question": "The probability of ____ is inversely proportional to x-ray energy (1/E)",
+		"answer": "Compton Scattering "
+	},
+	{
+		"question": "The probability of ____ is inversely proportional to the third power of the x-ray energy (1/E^3)",
+		"answer": "Photoelectric effect"
+	},
+	{
+		"question": "As ___ increased, more x-rays penetrate to the image receptor; therefore , a lower x-ray quantity (lower mAs) is required.",
+		"answer": "kVp"
+	},
+	{
+		"question": "Below 20 keV, most x-rays interact with soft tissue _____. ",
+		"answer": "Photoelectrically"
+	},
+	{
+		"question": "Above 20 keV, the predominant interaction witth soft tissue is? ",
+		"answer": "Compton Scattering"
+	},
+	{
+		"question": "The crossover point between photoelectrc effect and Compton Scattering for bone is approximately?",
+		"answer": "40 keV"
+	},
+	{
+		"question": "Two other important in making an x-rays are? ",
+		"answer": "X-ray emission spectrum, Mass density of px tissue"
+	},
+	{
+		"question": "The loss of contrast is due to noise caused by?",
+		"answer": "Compton Scaterring"
+	},
+	{
+		"question": "_____ in bone and soft tissue results from photoelectric interactions, which greatly depend on the atomic number of tissue.",
+		"answer": "Differential Absorption"
+	},
+	{
+		"question": "The crossover energies of 20 and 40 keV refer to a ___ x-ray beam, that is, a beam containing x-rays that all have the same energy. ",
+		"answer": "Monoenergetic"
+	},
+	{
+		"question": "Clinical x-rays are? They are emitted over an entire spectrum of energies.",
+		"answer": "Polyenergetic"
+	},
+	{
+		"question": "Sometimes ____ is reported in grams per cubic centimeter (g/cm ^3). ",
+		"answer": "Mass density"
+	}
+]

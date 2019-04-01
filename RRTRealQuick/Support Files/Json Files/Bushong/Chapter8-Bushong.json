@@ -1,0 +1,222 @@
+[
+	{
+		"question": "Emitted through a window in the glass or metal enclosure of the x-ray tube in the form of a spectrum of energies.",
+		"answer": "X-rays"
+	},
+	{
+		"question": "It is characterized by quantity (the number of x-rays in the beam) and quality (the penetrability of the beam). ",
+		"answer": "X-ray beam"
+	},
+	{
+		"question": "The intensity of the x-ray beam of an x-ray imaging system is measured in milligray in air (mGya) [ formerly milliroentgen (mR) and is called the? ",
+		"answer": "X-ray quantity"
+	},
+	{
+		"question": "Another term is often used instead of x-ray intesity or x-ray quantity. All have the same meaning, and all are measured in mGya (mR)",
+		"answer": "Radiation exposure"
+	},
+	{
+		"question": "The number of x-rays in the useful beam",
+		"answer": "X-ray quantity "
+	},
+	{
+		"question": "X-ray quantity is directly proportional to mAs",
+		"answer": "True."
+	},
+	{
+		"question": "X-ray quantity is directly proportional to the mAs. When mAs is doubled, the number of electrons striking the tube target is doubled, and therefore the number of x-rays emitted is doubled.",
+		"answer": "Milliampere Seconds (mAs)"
+	},
+	{
+		"question": "Is a measure of the number of ion pairs produced in air by a quantity of x-rays. Ionization of air increases as the number of x-rays in the beam increases. ",
+		"answer": "mGya (mR)"
+	},
+	{
+		"question": "T/F. X-ray quantity is inversely proportional to the square of the distance from the source. ",
+		"answer": "True. "
+	},
+	{
+		"question": "Varies rapidly with changes in kVp. The change of it is proportional to the square of the ratio of the kVp ; in other words , if kVp were doubled , the x-ray intensity would increase by a factor of 4.",
+		"answer": "X-ray Quantity "
+	},
+	{
+		"question": "X-ray intensity varies inversely with the square of the distance from the x-ray tube target. This relationship is known as the ?",
+		"answer": "Inverse square law"
+	},
+	{
+		"question": "Compensating for a change in SID by changing mAs by the factor SID2 is known as the _____, a corollary to the inverse square law. ",
+		"answer": "Square Law"
+	},
+	{
+		"question": "Is the best method for specifying x-ry quality.",
+		"answer": "HVL"
+	},
+	{
+		"question": "Adding filtration to the useful x-ray beam reduces? ",
+		"answer": "Patient Dose"
+	},
+	{
+		"question": "X-ray imaging systems have ______ positioned in the useful beam. The purpose of this is to reduce the number of low-energy x-rays. ",
+		"answer": "Metal Filters (1 to 5 mm of aluminum [Al] )"
+	},
+	{
+		"question": "One description of the ability of an x-ray beam to pass through tissue. ",
+		"answer": "Penetrability"
+	},
+	{
+		"question": "As the energy of an x-ray beam is increased, the penetrability is also increased.",
+		"answer": "True. "
+	},
+	{
+		"question": "Refers to the ability of x-rays to penetrate depper in tissue. ",
+		"answer": "Penetrability"
+	},
+	{
+		"question": "The penetrability of an x-ray beam is called? ",
+		"answer": "X-ray quality"
+	},
+	{
+		"question": "X-rays with high penetrability are termed ?",
+		"answer": "High-quality x-rays"
+	},
+	{
+		"question": "Those with low penetrability are ?",
+		"answer": "Low-quality x-rays"
+	},
+	{
+		"question": "The reduction in x-ray intensity that results from absorption and scattering",
+		"answer": "Attenuation"
+	},
+	{
+		"question": "In radiography, the quality of x-ray intensity is measured by the?",
+		"answer": "HVL"
+	},
+	{
+		"question": "A diagnostic x-ray beam usually has an HVL in the range of _____ of soft tissue. ",
+		"answer": "3 to 5 mm Al or 3 to 6 cm"
+	},
+	{
+		"question": "HVL consist of three principal parts and these are?",
+		"answer": "X-ray tube, Radiation Detector, Graded thickness of filters, usually Al"
+	},
+	{
+		"question": "X-ray beam quality can be identified by? ",
+		"answer": "kVp or filtration, but HVL is most appropriate"
+	},
+	{
+		"question": "Increasing kVp increase quality of an x-ray beam. ",
+		"answer": "True."
+	},
+	{
+		"question": "The total filtration of the beam is?",
+		"answer": "2.5 mm of Al"
+	},
+	{
+		"question": "Increasing filtration increases the quality of an x-ray beam.",
+		"answer": "True."
+	},
+	{
+		"question": "Filtration of diagnostic x-ray beams has two components and these are?",
+		"answer": "Inherent Filtration and Added Filtration"
+	},
+	{
+		"question": "The glass or metal enclosure of an x-ray tube filters the emitted x-ray tube. This type of filtration is called?",
+		"answer": "Inherent Filtration"
+	},
+	{
+		"question": "The inherent filtration of a general purpose x-ray tube is approximately ?",
+		"answer": "0.5 mm Al equivalent"
+	},
+	{
+		"question": "Inspection of an x-ray tube reveals that the part of the glass or metal enclosure through which x-rays are emitted - ______- is very thin. This provides for low inherent filtration.",
+		"answer": "The window"
+	},
+	{
+		"question": "Added filtration results in increased ? ",
+		"answer": "HVL"
+	},
+	{
+		"question": "A thin sheet of Al positioned between the protective x-ray tube housing and the x-ray beam collimator is th usual form of? ",
+		"answer": "Added Filtration"
+	},
+	{
+		"question": "Added Filtration usually has two sources",
+		"answer": "True."
+	},
+	{
+		"question": "One of the most difficult tasks facing radiographers is producing an image with a uniform intensity when a body part is examined that varies greatly in thickness or tissue composition. When a filter is used in this fashion , it is called __ because it compensates for differences in subject radiopacity.",
+		"answer": "Compensating Filter"
+	},
+	{
+		"question": "Shaped Filters are used with computed tomography imaging system to compensate for the shape of the hend, or body.",
+		"answer": "Special-'bow-tie'"
+	},
+	{
+		"question": "Is an adaption of the wedge filter. Used in some interventional radiology procedures, usually when long sections of the anatomy are imaged with the use of two or three separate image receptors. ",
+		"answer": "Step-wedge Filter "
+	},
+	{
+		"question": "Compensating filters are useful for maintaning image quality. They are not radiation protection devices. ",
+		"answer": "True."
+	},
+	{
+		"question": "A common application of a step-wedge filter involves a ____ image recetors for translumbar and femoral arteriography and venography.",
+		"answer": "Three-step Al  wedge and three 35 x 43-cm (14 x 17 in)"
+	},
+	{
+		"question": "Characteristic of a useful x-ray beam. ",
+		"answer": "HVL"
+	},
+	{
+		"question": "The thickness of filtration that reduces the x-ray intensity to half of its orginal value is the? ",
+		"answer": "HVL"
+	},
+	{
+		"question": "Principally used during radiography of the body part, such as the foot, that varies considerably in thickness.",
+		"answer": "Wedge Filter "
+	},
+	{
+		"question": "Sometimes used in chest radiography",
+		"answer": "Bilateral Wedge Filter or through filter"
+	},
+	{
+		"question": "Either concave or convex, find application in digital flouroscopy, in which the image receptor , the image intensifier tube, is round.",
+		"answer": "Conic Filters"
+	},
+	{
+		"question": "Intensity of radiation is measured in what unit?",
+		"answer": "roentgen ( R ) "
+	},
+	{
+		"question": "A high speed electron entering the tungsten target is attracted to the positive nucleu of a tungsten atom and, in the process is declererated this result in. ",
+		"answer": "Bremsstrahlung radiation"
+	},
+	{
+		"question": "Change in x-ray quantity is proportional to the? ",
+		"answer": "Square of the ratio of the kVp"
+	},
+	{
+		"question": "If kVp is double the x-ray intensity increases by? ",
+		"answer": "Factor of four "
+	},
+	{
+		"question": "Thickness of an absorbing material necessay to reduce the x-ray intensity to half of its original value.",
+		"answer": "HVL"
+	},
+	{
+		"question": "Added filtration attenuatees ",
+		"answer": "X-rays of all energies"
+	},
+	{
+		"question": "Added filtration ___ mm of Al equivalent ",
+		"answer": "2 to 3"
+	},
+	{
+		"question": "Thicker part of the body is under?",
+		"answer": "Thinner side of the filter "
+	},
+	{
+		"question": "It not affect the attenuation of an x-ray beam",
+		"answer": "Speed"
+	}
+]

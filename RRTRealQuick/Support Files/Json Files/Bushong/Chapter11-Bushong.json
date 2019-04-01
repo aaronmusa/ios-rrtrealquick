@@ -1,0 +1,534 @@
+[
+	{
+		"question": "Important Characteristics of image quality.",
+		"answer": "Contrast and Contrast Resolution"
+	},
+	{
+		"question": "Arises from the areas of light, dark, and shades of gray on the x-ray image on the x-ray image.",
+		"answer": "Contrast "
+	},
+	{
+		"question": "Is the ability to image adjacent similar tissues.",
+		"answer": "Contrast Resolution "
+	},
+	{
+		"question": "Produced by Compton scatter produces noise, reducing image contrast and contrast resolution. ",
+		"answer": "X-radiation "
+	},
+	{
+		"question": "Three factors contribute to increased scatter radiation? ",
+		"answer": "Increased kVp, Increased x-ray field size, Increased Px Thickness"
+	},
+	{
+		"question": "Are designed to control and minimize scatter radiation by limiting the x-ray field size to only  the anatomy of interest.",
+		"answer": "Beam-restricting devices"
+	},
+	{
+		"question": "The three principal types of beam-restricting devices are ? ",
+		"answer": "Aperture Diaphragm, Cones or Cylinders, Collimators"
+	},
+	{
+		"question": "T/F. By removing scattered x-rays from the remnant beam, the grid removes a major sources of noise , thus improving radiographic image contrast.",
+		"answer": "True."
+	},
+	{
+		"question": "The two principal characteristics of any image are? These qualities are quite distinct and are influenced by different links of the imaging chain.",
+		"answer": "Spatial Resolution and Contrast Resolution"
+	},
+	{
+		"question": "Some refer to these together as image detail or visibility of detail?",
+		"answer": "Spatial Resolution and Contrast Resolution"
+	},
+	{
+		"question": "Determined by focal-spot size and other factors that contribute to blur.",
+		"answer": "Spatial Resolution"
+	},
+	{
+		"question": "Determined by scatter radiation and other sources of image noise.",
+		"answer": "Contrast Resolution "
+	},
+	{
+		"question": "Two principal tools are used to control scatter radiation.",
+		"answer": "Beam-restricting devices and Grids"
+	},
+	{
+		"question": "Two types of x-rays are responsible for the optical density (OD) and contrast on a radiographic image and these are? ",
+		"answer": "Pass through the px w/o interacting, Compton scattered w/n the px"
+	},
+	{
+		"question": "X-rays that exit from the px are remnant x-rays and those that exit and interact with the image receptor are called? ",
+		"answer": "Image forming x-rays"
+	},
+	{
+		"question": "Reduces patient radiation dose and imrpoves contrast resolution.",
+		"answer": "Collimation "
+	},
+	{
+		"question": "As Scatter Radiation increases, the radiographic image loses contrast and appears?",
+		"answer": "Gray and Dull"
+	},
+	{
+		"question": "Three primary factors influence the relative intensity of scatter radiation that reaches the image receptor ? ",
+		"answer": "kVp, Field Size and Px Thickness"
+	},
+	{
+		"question": "As x-ray energy is increased, the absolute number of Compton interactions decreases, but the number of _____ decreases much more rapidly. Therefore , the relative number of x-rays that undergo Compton scattering increases. ",
+		"answer": "Photoelectric Interactions "
+	},
+	{
+		"question": "Which is one of the factors that affect the level of scatter radiation , can be controlled by the radiologic technologist.",
+		"answer": "Kilovoltage"
+	},
+	{
+		"question": "The increase in photoelectric absorption results in a considerable ______ in patient radiation dose.",
+		"answer": "Increase"
+	},
+	{
+		"question": "Approximately 1 % of x-rays incident on the patient reach the image receptor.",
+		"answer": "True."
+	},
+	{
+		"question": "______ increases as the x-ray beam field size increases. ",
+		"answer": "Scatter radiation "
+	},
+	{
+		"question": "T/F. Compression of anatomy improves spatial resolution and contrast resolution and lowers the patient dose.",
+		"answer": "True."
+	},
+	{
+		"question": "One of the most important characterisics of image quality is _____, the visible difference between the light and dark areas of an image. ",
+		"answer": "Contrast"
+	},
+	{
+		"question": "Is the degree of difference in OD between areas of a radiographic image. ",
+		"answer": "Contrast"
+	},
+	{
+		"question": "The ability to image and distinguish soft tissues",
+		"answer": "Contrast Resolution  "
+	},
+	{
+		"question": "Even under the most favorable conditions, most remnant x-rays are scattered.",
+		"answer": "True."
+	},
+	{
+		"question": "Reduced image contrast results from ?",
+		"answer": "Scattered x-rays"
+	},
+	{
+		"question": "Consist of both transmitted ans scattered x-rays",
+		"answer": "Image forming x-rays"
+	},
+	{
+		"question": "Two types of devices reduce the amount of scatter radiation that reaches the image receptor?",
+		"answer": "Beam restrictors and Grids"
+	},
+	{
+		"question": "Basically, three types of beam restricting devices are used and these are? ",
+		"answer": "Aperture Diaphragm,Cones or Cylinders,Variable- Aperture Collimator"
+	},
+	{
+		"question": "Simplest of all beam-restricting devices. ",
+		"answer": "Aperture Diaphragm "
+	},
+	{
+		"question": "It is basically a lead or lead-lined metal diaphragm that is attached to the x-ray tube head. ",
+		"answer": "Aperture Diaphragm "
+	},
+	{
+		"question": "The opening of this is usually designed to cover just less than the size of the image receptor used. ",
+		"answer": "Aperture Diaphragm "
+	},
+	{
+		"question": "T/F. The most familiar clinical example of aperture diagphragms may be radiographic imaging systems for trauma.",
+		"answer": "True."
+	},
+	{
+		"question": "Radiographic Extension _____ are considered modifications of the aperture diaphragm.",
+		"answer": "Cones and Cylinders"
+	},
+	{
+		"question": "In contrast to the beam produced by an aperture diagphragm, the useful beam produced by an extension cone or cylinder is usally circular. Both of these beam restrictors are routinely called cones even though the most commonly used type is actually cylinder. ",
+		"answer": "Cones and Cylinders"
+	},
+	{
+		"question": "One difficulty with using cones is?",
+		"answer": "Alignment "
+	},
+	{
+		"question": "If the x-ray source , cone, and image receptor are not aligned on the same axis , one side of the radiograph may not be exposed because the edge of the cone may interfere with the x-ray beam. Such interference is called?",
+		"answer": "Cone cutting"
+	},
+	{
+		"question": "The light-localizing ______ is the most commonly used beam-restricting device in radiography. ",
+		"answer": "Variable Aperture Collimator "
+	},
+	{
+		"question": "Reduces the patient radiation dose and improves contrast resolution. ",
+		"answer": "Collimation "
+	},
+	{
+		"question": "Some x-rays are produced when projectile electrons stray and interact at positions on the other anode other than the focal spot. Such radiation, which is called _____, increases image blur. ",
+		"answer": "Off-focus radiation"
+	},
+	{
+		"question": "Today, nearly all light-localizing collimators manufactured in the United States for fixed radiographic equipment are automatic. They are called? ",
+		"answer": "Positive-beam-limiting (PBL) devices"
+	},
+	{
+		"question": "Mandated by the U.S. Food and Drug Administration in 1974. That regulation was removed in 1994 , but it prevails. ",
+		"answer": "Positive-beam-limitation"
+	},
+	{
+		"question": "T/F. Under no circumstances should the x-ray beam exceed the size of the image receptor.",
+		"answer": "True."
+	},
+	{
+		"question": "An extremely effective device for reducing level of scatter radiation that reaches the image receptor is the _____, a carefully fabricated section of radiopaque material ( grid strip) aleternating with the radiolucent material (interspace material) ",
+		"answer": "Radiographic Grid "
+	},
+	{
+		"question": "T/F. Scattered x-rays that reach the image receptor are part of the image-forming process;indeed, the x-rays that are scattered forward to do contribute to the image.",
+		"answer": "True. "
+	},
+	{
+		"question": "The ___ is positioned between the patient and the image receptor. ",
+		"answer": "Grid"
+	},
+	{
+		"question": "The technique for reducing the amount of scatter radiation that reaches the image receptor was first demonstrated in 1913 by? ",
+		"answer": "Gustav Bucky"
+	},
+	{
+		"question": "Designed to transmit only x-rays whose direction is on straight line from the x-ray tube target to the image reeceptor. ",
+		"answer": "Grid"
+	},
+	{
+		"question": "T/F. Laboratory measurements show that high-quality grids can attenuate 80 % tto 90 % of the scatter radiation. Such a grid is said to exhibit good 'cleanup",
+		"answer": "True."
+	},
+	{
+		"question": "A grid has of three important dimensions and these are? ",
+		"answer": "Thickness of the grid strip (T), Width of the interspace material (D), Height of Grid (h)"
+	},
+	{
+		"question": "The ____ is the height of the grid divided by the interspace width. ",
+		"answer": "Grid ratio"
+	},
+	{
+		"question": "Are more effective in reducing scatter radiation than are low-ratio grids. This is because the angle of scatter allowed by the high-ratio grids is less than that permitted by low-ratio grids.",
+		"answer": "High-ratio grids"
+	},
+	{
+		"question": "T/F. High-ratio grids increase the patient radiation dose.",
+		"answer": "True."
+	},
+	{
+		"question": "In general , grid ratios range from _____; higher-ratio grids are used most often in high-kVp radiography. ",
+		"answer": "5:1 to 16 :1 "
+	},
+	{
+		"question": "An ____ grid is frequently used with general-purpose x-ray imaging systems. ",
+		"answer": "8 : 1 to 10 :1"
+	},
+	{
+		"question": "5:1 grid reduces approximately how many % of scatter radiation? ",
+		"answer": "85%"
+	},
+	{
+		"question": "16:1 grid may reduce as much as? ",
+		"answer": "97%"
+	},
+	{
+		"question": "The number of grid strips per centimeter is called the? ",
+		"answer": "Grid Frequency "
+	},
+	{
+		"question": "The use of high-frequency grids requires high radiographic technique and results in a higher patient radiation dose.",
+		"answer": "True."
+	},
+	{
+		"question": "Most grids have frequencies in the range of ______ lines per centimeter. ",
+		"answer": "25 to 45"
+	},
+	{
+		"question": "It can be calculated if the widths of the grid strip and of interspace are known. ",
+		"answer": "Grid Frequency "
+	},
+	{
+		"question": "Computed by dividing the thickness of one line pair (T + D) , expressed in um, ino 1 cm",
+		"answer": "Grid Frequency "
+	},
+	{
+		"question": "The interspace material of most grids consists of ? ",
+		"answer": "Aluminum or Plastic Fiber"
+	},
+	{
+		"question": "The purpose of the _____ is to maintain a precise separation between the delicate lead strips of the grid. ",
+		"answer": "Interspace material"
+	},
+	{
+		"question": "T/F. In interspace material, aluminum ha a higher atomic number that plastic. ",
+		"answer": "True."
+	},
+	{
+		"question": "Usually are preferred to aluminum interspace grids.",
+		"answer": "Fiber interspace Grids"
+	},
+	{
+		"question": "In Interspace material, still, aluminum has two additional advantages over fiber. It is ___, that is, it does not absorb moisture as plastic fiber does. ",
+		"answer": "Nonhygroscopic"
+	},
+	{
+		"question": "Theoritically, the _____ should be infinitely thin and should have high absorption properties. ",
+		"answer": "Grid Strips"
+	},
+	{
+		"question": "In Grid strip, ___ is most widely used because It is easy to shape and is relatively inexpensive. Its high atomic number and high mass density make this material of choice in the manufacture grid.",
+		"answer": "Lead"
+	},
+	{
+		"question": "Principal function of grid is to improve ? ",
+		"answer": "Image Contrast"
+	},
+	{
+		"question": "Largest single factor responsible for poor radiographic image quality is?",
+		"answer": "Scatter radiation "
+	},
+	{
+		"question": "Most grids have contrast improvement factors of between? ",
+		"answer": "1.5 and 2.5"
+	},
+	{
+		"question": "The contrast improvement factor usually is measured at ? ",
+		"answer": "100 kVp"
+	},
+	{
+		"question": "The contrast improvement factor is higher for? ",
+		"answer": "High-ratio grids"
+	},
+	{
+		"question": "Bucky factor (B) also called? ",
+		"answer": "Grid Factor"
+	},
+	{
+		"question": "When a grid is used, the radiographic technique must be increased to produce the same image receptor signal. The amount of this increase is given by the? ",
+		"answer": "Bucky Factor or Grid Factor"
+	},
+	{
+		"question": "Inventor of Grid",
+		"answer": "Gustav Bucky"
+	},
+	{
+		"question": "It is an attempt to measure the penetration of primary and scatter radiation through the grid.",
+		"answer": "Grid"
+	},
+	{
+		"question": "The ____the grid ratio, the higher is the Bucky factor. The penetration of primary radiation through a grid is fairly independent of grid ratio. Penetration of scatter radiation through a grid becomes less likely with increasing grid ratio;therefore, the Bucky factor increases. ",
+		"answer": "Higher"
+	},
+	{
+		"question": "The Bucky factor increases with increasing ____. At high voltage, more scatter radiation is produced. This scatter radiation  has a more difficult time penetrating the grid ; thus, the Bucky factor increases.",
+		"answer": "kVp"
+	},
+	{
+		"question": "T/F. As the Bucky factor increases, radiographic technique and the patient radiation dose increase proportionately.",
+		"answer": "True."
+	},
+	{
+		"question": "Measures improvement in image quality when grids are used. ",
+		"answer": "Contrast Improvement factor "
+	},
+	{
+		"question": "The ____ measures how much of an increase in technique will be required compared with nongrid exposure.",
+		"answer": "Bucky Factor"
+	},
+	{
+		"question": "The ____ also indicates how large an increase in patient radiation dose will accompany the use of a particular grid.",
+		"answer": "Bucky Factor"
+	},
+	{
+		"question": "The simplest type of grid is the ? ",
+		"answer": "Parallel Grid"
+	},
+	{
+		"question": "In the parallel grid, all leads strips are? ",
+		"answer": "Parallel Grid"
+	},
+	{
+		"question": "The parallel grid is the easiest to manufacture, but it has some properties that are clinically undesirable, namely _____, the undesirable absorption of primary x-rays by the grid. ",
+		"answer": "Grid Cut off"
+	},
+	{
+		"question": "Grid cut off is most common with? ",
+		"answer": "Parallel Grids"
+	},
+	{
+		"question": "It can be partial or complete. The term is derived from the fact that the primary x-rays are 'cut off' from reaching the image receptor. ",
+		"answer": "Grid Cut off"
+	},
+	{
+		"question": "Parallel Grids clean up scatter radiation in only one direction along the axis of the grid. _____ are designed to overcome this deficiency. ",
+		"answer": "Crossed Grids "
+	},
+	{
+		"question": "Grid that have lead grid strips that run parallel to the long and short axes of the grid. They fabricated by sandwiching two parallel grids together with their grid stips perpendicular to one another.",
+		"answer": "Crossed Grids "
+	},
+	{
+		"question": "The main disadvantage of parallel and crossed grids is ? ",
+		"answer": "Grid cut off"
+	},
+	{
+		"question": "This grid are much more efficient than parallel grids in cleaning up scatter radiation. In fact, it has a higher contrast improvement factor than a parallel grid twice the grid ratio. ",
+		"answer": "Crossed Grids "
+	},
+	{
+		"question": "A ___ crossed grid will clean up more scatter radiation than 12 : 1 parallel grid.",
+		"answer": "6:1'"
+	},
+	{
+		"question": "A ___ identified as having a grid ratio of 6 :1 is constructed with two 6:1 parallel grids",
+		"answer": "Crossed Grids "
+	},
+	{
+		"question": "The ____ is designed to minimize grid cutoff. ",
+		"answer": "Focused Grid"
+	},
+	{
+		"question": "The lead grid strips of a _____ lie on the imaginary radial lines of a circle centered at the focal spot, so they coincide with the divergence of the x-ray beam. The x-ray tube target should be placed at the center of the imaginary circle when a focused grid is used. ",
+		"answer": "Focused Grid"
+	},
+	{
+		"question": "Are more difficult to manufacture than parallel grids. They are characterized by all of the properties of parallel grids except that when properly positioned, they exhibit no grid cut off. ",
+		"answer": "Focused Grid"
+	},
+	{
+		"question": "Have less positioning latitude than low-ratio grids.",
+		"answer": "High-ratio grids"
+	},
+	{
+		"question": "An obvious and annoying shortcoming of the grids previously discussed is that they can produce ___ on the image.",
+		"answer": "Grid lines"
+	},
+	{
+		"question": "Are the images made when primary x-rays are absorbed within the grid strips. Even though the grid strips are very small, their image is still observable.",
+		"answer": "Grid lines"
+	},
+	{
+		"question": "A major improvement in grid development occurred in ? ",
+		"answer": "1920"
+	},
+	{
+		"question": "He hit on a very simple idea : Move the grid while the x-ray exposure is being made. The grid lines disappear at little cost of increased radiographic technique. ",
+		"answer": "Hollis E. Potter"
+	},
+	{
+		"question": "Move the grid while the x-ray exposure is being made. The grid lines disappear at little cost of increased radiographic technique. A device that does this is called a ? ",
+		"answer": "Moving Grid / Potter-Bucky diaphragm / Bucky"
+	},
+	{
+		"question": "_____usually are moving grids? ",
+		"answer": "Focused Grid"
+	},
+	{
+		"question": "What are the two basic types of moving grid mechanisms are in use today? ",
+		"answer": "Reciprocating and Oscillating"
+	},
+	{
+		"question": "Moving grid that is motor-driven back and forth several times during x-ray exposure. The total distance of drive is approximately 2 cm.",
+		"answer": "Reciprocating Grid"
+	},
+	{
+		"question": "Moving Grid that is positioned w/n a frame with a 2-to 3-cm tolerance on all sides b/n the frame and grid. ",
+		"answer": "Oscillating Grid"
+	},
+	{
+		"question": "Springlike devices located in the four corners hold the grid centered within the frame. A powerful electromagnet pulls the grid to one side and releases it at the beginning of the exposure. Thereafter, the grid oscillates in a circular fashion around the grid frame, coming to rest after 20 to 30 seconds.",
+		"answer": "Oscillating Grid"
+	},
+	{
+		"question": "Moving Grids require a bulky mechnism that is subject to failure. The distance between the px and the image receptor is increased with moving grids because of this mechanism; this extra distance may create an unwanted increase in magnification and image blur. ",
+		"answer": "Disadvantage of Moving Grids"
+	},
+	{
+		"question": "Can introduce motion into the cassette-holding device, which can result in additional image blur.",
+		"answer": "Moving Grid"
+	},
+	{
+		"question": "T/F. Most grids in diagnostic imaging are of the moving type.",
+		"answer": "True."
+	},
+	{
+		"question": "The most frequenct error in the use of grids is?",
+		"answer": "Improper Positioning "
+	},
+	{
+		"question": "The only problem with parallel and crossed grids? ",
+		"answer": "Off-level grid"
+	},
+	{
+		"question": "T/F. A properly functioning grid must lie in a plane perpendicular to the central ray of the x-ray beam. ",
+		"answer": "True."
+	},
+	{
+		"question": "The ____ x-ray beam is the x-ray that travels along the center of the useful x-ray beam.",
+		"answer": "Central Ray"
+	},
+	{
+		"question": "Despite it's name, an ___ in fact is usually produced with an improperly positioned x-ray tube and not an improperly positioned grid. However, this can occur when the grid tilts during horizontal beam radiography or during mobile radiography when the image receptor sinks into the patient's bed.",
+		"answer": "Off-level grid "
+	},
+	{
+		"question": "The center of a focused grid must be positioned directly under the x-ray tube target, so the central ray of the x-ray beam passes through the centermost interspace of the grid. Any lateral shifts results in grid cut off across the radiograph, producing lower OD. This error in positioning is called? ",
+		"answer": "Lateral Decentering "
+	},
+	{
+		"question": "The farther the grid is from the specified focal distance, the more severe will be the grid cutoff. ",
+		"answer": "Off-focus Grid"
+	},
+	{
+		"question": "T/F. A major problem with using a focused grid arises when radiographs are taken at SIDs unspecified for that grid.",
+		"answer": "True."
+	},
+	{
+		"question": "Perhaps the most common improper grid position occurs if the grid is both ? ",
+		"answer": "Off center and Off focus"
+	},
+	{
+		"question": "Selection of a grid with the proper ratio depends on an understanding of three interrelated factors and these are? ",
+		"answer": "kVp, Degree of Scatter Radiation Reduction, Patient Radiation Dose"
+	},
+	{
+		"question": "In general, grid ratio up to ___ are satisfactory at tube potentials below 90 kVp. Grid ratios above 8:1 are used when kVp exceeds 90 kVp.",
+		"answer": "8:1"
+	},
+	{
+		"question": "T/F. One major disadvantage that accompanies the use of radiographic grids is increased patient radiation dose.",
+		"answer": "True."
+	},
+	{
+		"question": "The use of a moving grid instead of a stationary grid with similar physical characteristics requires approximately how many % more patient radiation?",
+		"answer": "15%"
+	},
+	{
+		"question": "One additional disadvantage of the use of radiographic grids is the increased radiographic technique required.",
+		"answer": "True."
+	},
+	{
+		"question": "A clever technique that may be used as an alternative to the use of radiographic grids is the ___. This is another method of reducing scatter radiation .",
+		"answer": "Air-gap technique"
+	},
+	{
+		"question": "When the air-gap technique is used, the image receptor is moved to how many cm from the patient ? ",
+		"answer": "10 to 15 cm"
+	},
+	{
+		"question": "When an air-gap technique is used , the mAs is increased approximately how many % for every centimeter of air gap? The technique factors usually are about the same as those for an 8 :1 grid.",
+		"answer": "10%"
+	},
+	{
+		"question": "T/F. The air-gap technique has found application particularly in the areas of chest radiography and cerebral angiography. The magnification that accompanies these techniques is usually acceptable.",
+		"answer": "True."
+	}
+]

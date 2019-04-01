@@ -13,6 +13,7 @@
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ChooseSubjectAlertView" customModule="RRTRealQuick" customModuleProvider="target">
             <connections>
                 <outlet property="contentView" destination="zli-oF-AHg" id="nBE-6S-Ps7"/>
+                <outlet property="stackView" destination="mbw-hT-Dlj" id="6vC-B7-u2E"/>
             </connections>
         </placeholder>
         <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
@@ -20,152 +21,14 @@
             <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
             <subviews>
-                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8Fu-nq-cHd">
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="8Fu-nq-cHd">
                     <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                     <subviews>
-                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="T5R-xX-ATY">
+                        <view contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="T5R-xX-ATY">
                             <rect key="frame" x="0.0" y="0.0" width="375" height="612"/>
                             <subviews>
-                                <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="mbw-hT-Dlj">
+                                <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" axis="vertical" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="mbw-hT-Dlj">
                                     <rect key="frame" x="20" y="100" width="335" height="492"/>
-                                    <subviews>
-                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3AL-Dd-tB4" customClass="AMButton" customModule="RRTRealQuick" customModuleProvider="target">
-                                            <rect key="frame" x="0.0" y="0.0" width="335" height="44"/>
-                                            <color key="backgroundColor" red="0.0" green="0.76484511393835619" blue="0.68907855308219179" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                            <constraints>
-                                                <constraint firstAttribute="height" constant="44" id="t2e-IC-h64"/>
-                                            </constraints>
-                                            <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
-                                            <state key="normal" title="Glossary">
-                                                <color key="titleColor" red="0.93333333330000001" green="0.93333333330000001" blue="0.93333333330000001" alpha="1" colorSpace="calibratedRGB"/>
-                                            </state>
-                                            <userDefinedRuntimeAttributes>
-                                                <userDefinedRuntimeAttribute type="string" keyPath="identifier" value="Glossary"/>
-                                            </userDefinedRuntimeAttributes>
-                                            <connections>
-                                                <action selector="didTapSubjectButton:" destination="-1" eventType="touchUpInside" id="B3A-Dd-CdZ"/>
-                                            </connections>
-                                        </button>
-                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tsT-Xg-jY7" customClass="AMButton" customModule="RRTRealQuick" customModuleProvider="target">
-                                            <rect key="frame" x="0.0" y="64" width="335" height="44"/>
-                                            <color key="backgroundColor" red="0.0" green="0.76484511393835619" blue="0.68907855308219179" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                            <constraints>
-                                                <constraint firstAttribute="height" constant="44" id="ZNG-lj-UOG"/>
-                                            </constraints>
-                                            <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
-                                            <state key="normal" title="Chapter One (Bushong)">
-                                                <color key="titleColor" red="0.93333333330000001" green="0.93333333330000001" blue="0.93333333330000001" alpha="1" colorSpace="calibratedRGB"/>
-                                            </state>
-                                            <userDefinedRuntimeAttributes>
-                                                <userDefinedRuntimeAttribute type="string" keyPath="identifier" value="Chapter1-Bushong"/>
-                                            </userDefinedRuntimeAttributes>
-                                            <connections>
-                                                <action selector="didTapSubjectButton:" destination="-1" eventType="touchUpInside" id="PQI-Vr-d1j"/>
-                                            </connections>
-                                        </button>
-                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="d3P-8h-2og" customClass="AMButton" customModule="RRTRealQuick" customModuleProvider="target">
-                                            <rect key="frame" x="0.0" y="128" width="335" height="44"/>
-                                            <color key="backgroundColor" red="0.0" green="0.76484511393835619" blue="0.68907855308219179" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                            <constraints>
-                                                <constraint firstAttribute="height" constant="44" id="MiL-09-u8X"/>
-                                            </constraints>
-                                            <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
-                                            <state key="normal" title="Chapter Two (Bushong)">
-                                                <color key="titleColor" red="0.93333333330000001" green="0.93333333330000001" blue="0.93333333330000001" alpha="1" colorSpace="calibratedRGB"/>
-                                            </state>
-                                            <userDefinedRuntimeAttributes>
-                                                <userDefinedRuntimeAttribute type="string" keyPath="identifier" value="Chapter2-Bushong"/>
-                                            </userDefinedRuntimeAttributes>
-                                            <connections>
-                                                <action selector="didTapSubjectButton:" destination="-1" eventType="touchUpInside" id="4Cg-gt-yi3"/>
-                                            </connections>
-                                        </button>
-                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="K11-eT-eGT" customClass="AMButton" customModule="RRTRealQuick" customModuleProvider="target">
-                                            <rect key="frame" x="0.0" y="192" width="335" height="44"/>
-                                            <color key="backgroundColor" red="0.0" green="0.76484511389999998" blue="0.68907855309999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                            <constraints>
-                                                <constraint firstAttribute="height" constant="44" id="cpg-p7-pPG"/>
-                                            </constraints>
-                                            <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
-                                            <state key="normal" title="Chapter Three (Bushong)">
-                                                <color key="titleColor" red="0.93333333330000001" green="0.93333333330000001" blue="0.93333333330000001" alpha="1" colorSpace="calibratedRGB"/>
-                                            </state>
-                                            <userDefinedRuntimeAttributes>
-                                                <userDefinedRuntimeAttribute type="string" keyPath="identifier" value="Chapter3-Bushong"/>
-                                            </userDefinedRuntimeAttributes>
-                                            <connections>
-                                                <action selector="didTapSubjectButton:" destination="-1" eventType="touchUpInside" id="gUP-EX-tCp"/>
-                                            </connections>
-                                        </button>
-                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="50N-Ya-ctd" customClass="AMButton" customModule="RRTRealQuick" customModuleProvider="target">
-                                            <rect key="frame" x="0.0" y="256" width="335" height="44"/>
-                                            <color key="backgroundColor" red="0.0" green="0.76484511389999998" blue="0.68907855309999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                            <constraints>
-                                                <constraint firstAttribute="height" constant="44" id="l1p-sF-2RY"/>
-                                            </constraints>
-                                            <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
-                                            <state key="normal" title="Chapter Four (Bushong)">
-                                                <color key="titleColor" red="0.93333333330000001" green="0.93333333330000001" blue="0.93333333330000001" alpha="1" colorSpace="calibratedRGB"/>
-                                            </state>
-                                            <userDefinedRuntimeAttributes>
-                                                <userDefinedRuntimeAttribute type="string" keyPath="identifier" value="Chapter4-Bushong"/>
-                                            </userDefinedRuntimeAttributes>
-                                            <connections>
-                                                <action selector="didTapSubjectButton:" destination="-1" eventType="touchUpInside" id="5Wj-8C-L2q"/>
-                                            </connections>
-                                        </button>
-                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wds-rr-BAZ" customClass="AMButton" customModule="RRTRealQuick" customModuleProvider="target">
-                                            <rect key="frame" x="0.0" y="320" width="335" height="44"/>
-                                            <color key="backgroundColor" red="0.0" green="0.76484511389999998" blue="0.68907855309999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                            <constraints>
-                                                <constraint firstAttribute="height" constant="44" id="eYC-YY-eKR"/>
-                                            </constraints>
-                                            <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
-                                            <state key="normal" title="Chapter Five (Bushong)">
-                                                <color key="titleColor" red="0.93333333330000001" green="0.93333333330000001" blue="0.93333333330000001" alpha="1" colorSpace="calibratedRGB"/>
-                                            </state>
-                                            <userDefinedRuntimeAttributes>
-                                                <userDefinedRuntimeAttribute type="string" keyPath="identifier" value="Chapter5-Bushong"/>
-                                            </userDefinedRuntimeAttributes>
-                                            <connections>
-                                                <action selector="didTapSubjectButton:" destination="-1" eventType="touchUpInside" id="78O-AO-gZj"/>
-                                            </connections>
-                                        </button>
-                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="N1h-Ba-8dy" customClass="AMButton" customModule="RRTRealQuick" customModuleProvider="target">
-                                            <rect key="frame" x="0.0" y="384" width="335" height="44"/>
-                                            <color key="backgroundColor" red="0.0" green="0.76484511393835619" blue="0.68907855308219179" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                            <constraints>
-                                                <constraint firstAttribute="height" constant="44" id="mbK-pX-boQ"/>
-                                            </constraints>
-                                            <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
-                                            <state key="normal" title="Radbiology">
-                                                <color key="titleColor" red="0.93333333330000001" green="0.93333333330000001" blue="0.93333333330000001" alpha="1" colorSpace="calibratedRGB"/>
-                                            </state>
-                                            <userDefinedRuntimeAttributes>
-                                                <userDefinedRuntimeAttribute type="string" keyPath="identifier" value="RadBiology"/>
-                                            </userDefinedRuntimeAttributes>
-                                            <connections>
-                                                <action selector="didTapSubjectButton:" destination="-1" eventType="touchUpInside" id="z8I-k8-Vkz"/>
-                                            </connections>
-                                        </button>
-                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8Gc-3a-sAv" customClass="AMButton" customModule="RRTRealQuick" customModuleProvider="target">
-                                            <rect key="frame" x="0.0" y="448" width="335" height="44"/>
-                                            <color key="backgroundColor" red="0.0" green="0.76484511393835619" blue="0.68907855308219179" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                            <constraints>
-                                                <constraint firstAttribute="height" constant="44" id="mgf-xy-fxW"/>
-                                            </constraints>
-                                            <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
-                                            <state key="normal" title="All">
-                                                <color key="titleColor" red="0.93333333330000001" green="0.93333333330000001" blue="0.93333333330000001" alpha="1" colorSpace="calibratedRGB"/>
-                                            </state>
-                                            <userDefinedRuntimeAttributes>
-                                                <userDefinedRuntimeAttribute type="string" keyPath="identifier" value="All"/>
-                                            </userDefinedRuntimeAttributes>
-                                            <connections>
-                                                <action selector="didTapSubjectButton:" destination="-1" eventType="touchUpInside" id="mI2-uw-fFr"/>
-                                            </connections>
-                                        </button>
-                                    </subviews>
                                 </stackView>
                             </subviews>
                             <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>

@@ -16,8 +16,20 @@ enum Subject: String, CaseIterable {
     case chapterThreeBushong = "Chapter3-Bushong"
     case chapterFourBushong = "Chapter4-Bushong"
     case chapterFiveBushong = "Chapter5-Bushong"
+    
+    case chapterSixBushong = "Chapter6-Bushong"
+    case chapterSevenBushong = "Chapter7-Bushong"
+    case chapterEightBushong = "Chapter8-Bushong"
+    case chapterNineBushong = "Chapter9-Bushong"
+    case chapterTenBushong = "Chapter10-Bushong"
+    case chapterElevenBushong = "Chapter11-Bushong"
     case radBiology = "RadBiology"
     case all = "All"
+}
+
+enum BookType: String, CaseIterable {
+    case clusterOneAndTwo = "Cluster 1 - 2"
+    case radBiology = "Radbiology"
 }
 
 class Repository {
@@ -26,7 +38,11 @@ class Repository {
     let dataStore = DataStore.shared
     let cacheManager = CacheManager.shared
     
-    func getQuestions(subject: Subject,
+    let bushongChapters = Subject.allCases.filter { $0.rawValue.contains("Bushong") }.map { $0.rawValue }
+    let radBioChapters = Subject.allCases.filter { $0.rawValue.contains("RadBiology") }.map { $0.rawValue }
+    
+    func getQuestions(bookType: BookType,
+                      subject: Subject,
                       successHandler success: @escaping ([Question], [String]) -> Void) {
         
         if subject == .all {
@@ -35,11 +51,11 @@ class Repository {
             var filteredQuestions = [Question]()
             var raffleQuestions = finalQuestions
             
-            parseAllSubjects { questions, answers in
+            parseAllSubjects(bookType: bookType) { questions, answers in
                 finalQuestions = questions
                 raffleQuestions = questions
                 
-                for _ in 1...self.cacheManager.numberOfItems {
+                for _ in 1...(self.cacheManager.numberOfItems == 0 ? raffleQuestions.count : self.cacheManager.numberOfItems) {
                     if !raffleQuestions.isEmpty {
                         let index = Int.random(in: 0...(raffleQuestions.count - 1))
                         let randomizedQuestion = raffleQuestions.remove(at: index)
@@ -72,7 +88,7 @@ class Repository {
             var raffleQuestions = questions
             var filteredQuestions = [Question]()
             
-            for _ in 1...cacheManager.numberOfItems {
+            for _ in 1...(self.cacheManager.numberOfItems == 0 ? raffleQuestions.count : self.cacheManager.numberOfItems) {
                 if !raffleQuestions.isEmpty {
                     let index = Int.random(in: 0...(raffleQuestions.count - 1))
                     let randomizedQuestion = raffleQuestions.remove(at: index)
@@ -87,28 +103,42 @@ class Repository {
         }
     }
     
-    func parseAllSubjects(success: @escaping ([Question], [String]) -> Void) {
+    func parseAllSubjects(bookType: BookType, success: @escaping ([Question], [String]) -> Void) {
+        
+        switch bookType {
+        case .clusterOneAndTwo:
+            iterateChapters(with: bushongChapters) { questions in
+                success(questions, questions.map { $0.answer ?? "" })
+            }
+        case .radBiology:
+            iterateChapters(with: radBioChapters) { questions in
+                success(questions, questions.map { $0.answer ?? "" })
+            }
+        }
+    }
+    
+    func iterateChapters(with subjects: [String],
+                         completion: @escaping ([Question]) -> Void){
         let dispatchGroup = DispatchGroup()
+        
         var allQuestions = [Question]()
         
-        Subject.allCases.forEach { subject in
-            if subject != .all, subject != .glossary, subject != .radBiology {
-                dispatchGroup.enter()
-                if let pathUrl = Bundle.main.url(forResource: subject.rawValue, withExtension: "json") {
-                    let jsonString = try! String(contentsOf: pathUrl, encoding: .utf8)
-                    let json = try! JSON(data: jsonString.data(using: .utf8) ?? Data())
-                    let responseDict = json.arrayValue.map { $0.dictionaryObject ?? [:] }
-                    
-                    let questions = responseDict.map { Question(json: $0) }
-                    print("-----\(questions.count)")
-                    allQuestions.append(contentsOf: questions)
-                    dispatchGroup.leave()
-                }
+        subjects.forEach { chapterName in
+            dispatchGroup.enter()
+            if let pathUrl = Bundle.main.url(forResource: chapterName, withExtension: "json") {
+                let jsonString = try! String(contentsOf: pathUrl, encoding: .utf8)
+                let json = try! JSON(data: jsonString.data(using: .utf8) ?? Data())
+                let responseDict = json.arrayValue.map { $0.dictionaryObject ?? [:] }
+                
+                let questions = responseDict.map { Question(json: $0) }
+                print("-----\(questions.count)")
+                allQuestions.append(contentsOf: questions)
+                dispatchGroup.leave()
             }
         }
         
         dispatchGroup.notify(queue: .main) {
-            success(allQuestions, allQuestions.map { $0.answer ?? "" })
+            completion(allQuestions)
         }
     }
 }

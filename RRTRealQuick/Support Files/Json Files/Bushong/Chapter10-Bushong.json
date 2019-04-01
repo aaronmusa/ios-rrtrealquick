@@ -1,0 +1,617 @@
+[{
+		"question": "Is the exactness  of representation of the patient's anatomy on a radiographic image. ",
+		"answer": "Radiographic Image Quality "
+	},
+	{
+		"question": "To produce high-quality images, radiographers apply knowledge of the three major interrelated categories of radiographic quality. And these are? ",
+		"answer": "Film Factors, Geometric Factors, and Subject Factors"
+	},
+	{
+		"question": "Refers to the fidelity with which the anatomical structure that is being examined is rendered on the radiograph. ",
+		"answer": "Radiographic Image Quality "
+	},
+	{
+		"question": "A radiograph that faithfully reproduces structure and tissues is identified as a ?",
+		"answer": "High-quality Radiograph "
+	},
+	{
+		"question": "The most important characteristics of radiographic image quality are?",
+		"answer": "Spatial Resolution, Contrast Resolution, Noise, and Artifacts"
+	},
+	{
+		"question": "Ability to image two separate objects and visually distinguish one form the other.",
+		"answer": "Resolution "
+	},
+	{
+		"question": "Refers to the ability to image small objects that have high subject contrast, such as a bone-soft tissue interface, a breast microcalcification , or a calcified lung nodule. ",
+		"answer": "Spatial Resolution"
+	},
+	{
+		"question": "T/F. Screen-film radiography has excellent spatial resolution.",
+		"answer": "True."
+	},
+	{
+		"question": "_____ improves as screen blur decreases, motion blur decreases, and geometric blur decreases. ",
+		"answer": "Spatial Resolution"
+	},
+	{
+		"question": "The ability to distinguish antomical structures of similar subject contrast such as liver-spleen and gray matter-white matter.",
+		"answer": "Contrast Resolution "
+	},
+	{
+		"question": "These less precise terms sometimes are used instead of spatial resolution and contrast resolution. ",
+		"answer": "Detail and Recorded Detail"
+	},
+	{
+		"question": "It refer to the degree of sharpness of stuctural lines on a radiograph. ",
+		"answer": "Detail and Recorded Detail"
+	},
+	{
+		"question": "Refers to the ability to visualize recorded detail when image contrast and optical density (OD) are optimized.",
+		"answer": "Visibility of Detail"
+	},
+	{
+		"question": "Is a term that is borrowed from electrical engineering.",
+		"answer": "Noise"
+	},
+	{
+		"question": "The flutter, hum, and whistle heard from an audio system constitute ___ that is inherent in the design of the system. ",
+		"answer": "Audio Noise "
+	},
+	{
+		"question": "The 'snow' on television screens, especially in weak signal areas, is ____, and it is also inherent in the system. ",
+		"answer": "Video Noise"
+	},
+	{
+		"question": "Is the random flunctuation in the OD of the image and also is inherent in the imaging system.",
+		"answer": "Radiographic Noise"
+	},
+	{
+		"question": "T/F. Lower noise results in a better radiographic image because it improves contrast resoluion. ",
+		"answer": "True."
+	},
+	{
+		"question": "Radiographic Noise has four components and these are? ",
+		"answer": "Film Graininess, Structure Mottle, Quantum Mottle, and Scatter Radiation"
+	},
+	{
+		"question": "The principal source of radiographic noise is? ",
+		"answer": "Scatter Radiation"
+	},
+	{
+		"question": "Refers to the distribution in size and space of silver halide grains in the emulsion.",
+		"answer": "Film Graininess "
+	},
+	{
+		"question": "Similar to the film graininess but refers to the phosphor of the radiographic intensifying screen",
+		"answer": "Structure Mottle "
+	},
+	{
+		"question": "Inherent in the screen-film image receptor. They are not under the control of the radiologic technologist, and they contribute very little to radiograhic noise, with the exception of mammography. ",
+		"answer": "Film Graininess and Structure Mottle"
+	},
+	{
+		"question": "Somewhat under the control of the radiologic technologist.",
+		"answer": "Quantum Mottle"
+	},
+	{
+		"question": "Principal Contibutor to Radiographic noise in many radiographic imaging procedures.",
+		"answer": "Quantum Mottle"
+	},
+	{
+		"question": "Refers to the random nature by which x-rays interact with the image receptor.",
+		"answer": "Quantum Mottle"
+	},
+	{
+		"question": "The use of high-mAs, low-kVp and of slower image receptors reduces? ",
+		"answer": "Quantum Mottle"
+	},
+	{
+		"question": "T/F. If an image is produced with just a few x-rays, the quantum mottle will be higher that if the image is formed from a large number of x-rays. The use of very fast intensifying screens results in increased quantum mottle.",
+		"answer": "True."
+	},
+	{
+		"question": "When fewer x-rays are 'cast' at the image receptor, the resulting image appears? And when more x-rays interact with the image receptor, the image appears smooth.",
+		"answer": "Mottled"
+	},
+	{
+		"question": "Two of the characteristics of radiographic quality (Resolution and Noise) are intimately connected with a third characteristic and this is?",
+		"answer": "Speed"
+	},
+	{
+		"question": "Unexposed x-ray film that has been processed appears quite lucent, like ? It easily transmits light but not images.",
+		"answer": "Frosted Window Glass"
+	},
+	{
+		"question": "Exposed processed x-ray film can be quite ? ",
+		"answer": "Opaque"
+	},
+	{
+		"question": "Properly exposed film appears with various shades of ? ",
+		"answer": "Gray"
+	},
+	{
+		"question": "Heavily exposed film appears? ",
+		"answer": "Black "
+	},
+	{
+		"question": "The study of the relationship between the intensity of exposure of the film and the blackness after processing is called? ",
+		"answer": "Sensitometry"
+	},
+	{
+		"question": "T/F. Knowledge of the sensitometric aspects of radiographic film is essensital for maintaining adequately quality control.",
+		"answer": "True."
+	},
+	{
+		"question": "Relationship describe between OD and radiation exposure is called? ",
+		"answer": "Characteristic Curve"
+	},
+	{
+		"question": "Characteristic Curve are sometimes?",
+		"answer": "H & D Curve "
+	},
+	{
+		"question": "Who first describe H & D Curve? ",
+		"answer": "Hurter and Driffield"
+	},
+	{
+		"question": "At low and high radiation exposure levels, large variations in exposure result in only a small change in OD. These portions of the characterstic curve are called? ",
+		"answer": "Toe and Shoulder"
+	},
+	{
+		"question": "Black : Shoulder ; _____ : White",
+		"answer": "Toe "
+	},
+	{
+		"question": "At intermediate radiation exposure levels, small changes in exposure result in large changes in OD. This intermediate region, called ____, is the region which a properly exposed radiograph apears.",
+		"answer": "Straight-Line portion"
+	},
+	{
+		"question": "Two pieces of appratus are needed to construct a characteristic curve and these are? ",
+		"answer": "Optical Step Wedge and Densitometer"
+	},
+	{
+		"question": "Device that measures OD",
+		"answer": "Densitometer "
+	},
+	{
+		"question": "Optical Step wedge sometimes called ? ",
+		"answer": "Sensitometer"
+	},
+	{
+		"question": "Aluminum step wedge or? ",
+		"answer": "Penetrometer"
+	},
+	{
+		"question": "Alternative to the sensitometer? ",
+		"answer": "Aluminum step wedge / Penetrometer"
+	},
+	{
+		"question": "The processed film is analyzed in the ______, a device that has a light source focused through a pinhole.",
+		"answer": "Densitometer "
+	},
+	{
+		"question": "Sensitive over a wide range of exposures. ",
+		"answer": "Radiographic Film"
+	},
+	{
+		"question": "The exposure values for a ____ are presented in logarithmic fashion. ",
+		"answer": "Characteristic Curve"
+	},
+	{
+		"question": "Used as the scale along the x-axis.",
+		"answer": "Log relative exposure (LRE)"
+	},
+	{
+		"question": "T/F. An increase in LRE of 0.3 results from doubling the radiation exposure.",
+		"answer": "True."
+	},
+	{
+		"question": "Has a precise numeric value that can be calculated if the level of light incident on a processed film (Io) and the level of light transmitted through that film (It) are measured. ",
+		"answer": "Optical Density"
+	},
+	{
+		"question": "Logarithmic Function ",
+		"answer": "Optical Density"
+	},
+	{
+		"question": "Radiographic Film contains ODs that range from near ? ",
+		"answer": "0 to 4"
+	},
+	{
+		"question": "T/F. An OD of 4 actually means that only one in 10,000 light photons (10^4) is capable of penetrating in the x-ray film.",
+		"answer": "True."
+	},
+	{
+		"question": "High-quality of glass has an OD of?",
+		"answer": "Zero"
+	},
+	{
+		"question": "Unexposed radiographic film allows no more than approximately how many % of incident light photons to be transmitted?",
+		"answer": "80%"
+	},
+	{
+		"question": "Most unexposed and processed radiographic film has an OD in the range of _____ , corresponding to 79 % and 50 % transmission. ",
+		"answer": "0.1 to 0.3"
+	},
+	{
+		"question": "ODs of unexposed film are attributable to ? ",
+		"answer": "Base density and Fog density"
+	},
+	{
+		"question": "Is the OD that is inherent in the base of the film. It is attributable to the composition of the base and the tint added to the base to make the radiograph more pleasing to the eye.",
+		"answer": "Base density"
+	},
+	{
+		"question": "Base density has a value of approximately? ",
+		"answer": "0.1."
+	},
+	{
+		"question": "Is the development of the silver grains that contain no useful information. ",
+		"answer": "Fog Density"
+	},
+	{
+		"question": "Results from inadvertent exposure of film during storage, undesirable chemical contamination, improper processing, and a number of other influences. ",
+		"answer": "Fog Density"
+	},
+	{
+		"question": "Fog density on a processed radiograph should not exceed ____. ",
+		"answer": "0.1."
+	},
+	{
+		"question": "T/F. Higher fog density reduces the contrast of the radiographic image.",
+		"answer": "True."
+	},
+	{
+		"question": "Useful range of OD is approximately ? Most radiographs , however , show image patterns in the range of 0.5 to 1.25 OD",
+		"answer": "0.25 to 2.5"
+	},
+	{
+		"question": "Base plus fog OD has a range of approximately? ",
+		"answer": "0.1 to 0.3"
+	},
+	{
+		"question": "Mose useful range of OD is highly dependent on ? ",
+		"answer": "Viewbox Illumination and Shape of the Characteristic Curve "
+	},
+	{
+		"question": "The viewing condition ",
+		"answer": "Viewbox Illumination"
+	},
+	{
+		"question": "Whether a radiograph is made with short exposure time or long exposure time, the ____states that the OD will be the same if the mAs value is constant. ",
+		"answer": "Reciprocity Law"
+	},
+	{
+		"question": "The ____ states that the OD on a radiograph is proportional only to the total energy imparted to the radiographic film and independent of the time of exposure.",
+		"answer": "Reciprocity Law"
+	},
+	{
+		"question": "The reciprocity law holds for direct exposure w/ xrays,but it does not hold for exposure of film by visible light from radiographic intensifying screen. Consequently, the reciprocity law fails for screen-film exposures at exposure times less than approx. 10 ms or longer than approx. 2 s. ",
+		"answer": "True."
+	},
+	{
+		"question": "Important for special procedures that require very short or very long exposure times, such as angiointerventional radiography and mammography. ",
+		"answer": "Reciprocity Law"
+	},
+	{
+		"question": "When a high quality radiograph is placed on an illuminator, the differences in OD are obvious in the image. Such OD variations are called?",
+		"answer": "Radiographic Contrast"
+	},
+	{
+		"question": "A radiograph that has marked differences in OD is a? ",
+		"answer": "High-contrast radiograph"
+	},
+	{
+		"question": "Radiographic Contrast is the product of two separate factors and these are ? ",
+		"answer": "Image Receptor Contrast and Subject Contrast"
+	},
+	{
+		"question": "Inherent in the screen-film combination and is influenced somewhat by processing of the film. ",
+		"answer": "Image Receptor Contrast"
+	},
+	{
+		"question": "Determined by the size, shape, and x-ray- attenuating characteristics of the anatomy that is being examined and the energy (kVp) of the x-ray beam.",
+		"answer": "Subject Contrast"
+	},
+	{
+		"question": "Attenuating characteristics of the anatomy that is being examined and the energy (kVp) of the x-ray beam.",
+		"answer": "Size, Shape and X-ray"
+	},
+	{
+		"question": "Related to the slope of the straight-line portion of the characteristic curve.",
+		"answer": "Film Contrast"
+	},
+	{
+		"question": "Greatly affected by changes in Image Receptor contrast or Subject Contrast? ",
+		"answer": "Radiographic Contrast"
+	},
+	{
+		"question": "Image receptor contrast is inherent in the type of radiographic film and intensifying screen that is being used. However, it can be influenced by two other factors and these are?",
+		"answer": "Range of ODs and Film Processing technique"
+	},
+	{
+		"question": "It always have higher contrast compared wih direct film exposure images.",
+		"answer": "Film-screen images "
+	},
+	{
+		"question": "Is related to the slope of the straight-line portion of the characteristic curve.",
+		"answer": "Film Contrast"
+	},
+	{
+		"question": "It allows technologist to distinguish high-contrast image receptors from low-contrast image receptors.",
+		"answer": "Characteristic Curve"
+	},
+	{
+		"question": "One of the most often used in image receptor contrast.",
+		"answer": "Average Gradient "
+	},
+	{
+		"question": "The slope of a straight line drawn between two points on the characteristic curve at ODs 0.25 to 2.0 above base and fog densities.",
+		"answer": "Average Gradient "
+	},
+	{
+		"question": "Most radiographic image receptors have an average gradient in the range of? ",
+		"answer": "2.5 to 3.5"
+	},
+	{
+		"question": "Image receptor contrast also may be identified by ?",
+		"answer": "Gradient "
+	},
+	{
+		"question": "The ____ is the slope of the tangent at any point on the characteristic curve.",
+		"answer": "Gradient "
+	},
+	{
+		"question": "Is propably more important than average gradient for general radiography because many clinical ODs appear in the toe region of the characteristic curve.",
+		"answer": "Toe gradient "
+	},
+	{
+		"question": "More important for mammography",
+		"answer": "Midgradient or Shoulder Gradient "
+	},
+	{
+		"question": "H & H stands for ? ",
+		"answer": "Art Haus and Ed Henrick "
+	},
+	{
+		"question": "Physicist who first demonstrated H & H ? ",
+		"answer": "Art Haus and Ed Henrick "
+	},
+	{
+		"question": "Another way to evaluate image receptor contrast is to re-plot the data of a characteristic curve ( an H & D curve ) into an? ",
+		"answer": "H & H contrast curve"
+	},
+	{
+		"question": "The ability of an image receptor to respond to a low x-ray exposure is a measure of its ? ",
+		"answer": "Sensitivity / Speed"
+	},
+	{
+		"question": "Sensitivity or more commonly? ",
+		"answer": "Speed"
+	},
+	{
+		"question": "T/F. Radiographic screen-film image receptors are identified as fast or slow according to their sensitivity to x-ray exposure. ",
+		"answer": "True."
+	},
+	{
+		"question": "When numbers are used to express speed, all are relative to 100; this is called? ",
+		"answer": "Par Speed"
+	},
+	{
+		"question": "T/F. Numbers higher than 100 refer to fast or high-speed image receptors. ",
+		"answer": "True."
+	},
+	{
+		"question": "Numbers less than 100 refer to ?",
+		"answer": "Detail' Image Receptors"
+	},
+	{
+		"question": "In sensitometry, the _ specified for determining image receptor speed is 1.0 above base plus fog density, and the speed is measured in reciprocal roentgens (1/R)",
+		"answer": "OD"
+	},
+	{
+		"question": "T/F. Latitude and Contrast are inversely proportional",
+		"answer": "True."
+	},
+	{
+		"question": "An additional image receptor feature easily obtained from the characteristic curve is?",
+		"answer": "Latitude"
+	},
+	{
+		"question": "Refers to the range of exposures over which the image receptor responds with ODs in the diagnostically useful range.",
+		"answer": "Latitude"
+	},
+	{
+		"question": "Margin of error in technical factors? ",
+		"answer": "Latitude"
+	},
+	{
+		"question": "Image recpetors with wide latitude are said to have ____; those with narrow latitude have ______. ",
+		"answer": "Long gray scale ; Short Gray Scale"
+	},
+	{
+		"question": "Required for optimal image receptor contrast because the degree of development has a pronounced effect on the level of fog density and on the ODs resulting from a given exposure at a given image receptor speed. ",
+		"answer": "Proper Film Processing"
+	},
+	{
+		"question": "Recommended by the manufacturer is the time that will result in maximum contrast.",
+		"answer": "Development Time "
+	},
+	{
+		"question": "T/F. When development time extends far beyond the recommended period, the image receptor contrast decreases, the relative speed increases, and the fog level increases. ",
+		"answer": "True."
+	},
+	{
+		"question": "The relationships just described for variations in development time apply equally well to variations in ? ",
+		"answer": "Development Temperature "
+	},
+	{
+		"question": "When the average gradient , speed , and fog level for any film are plotted as a function of? ",
+		"answer": "Development Temperature "
+	},
+	{
+		"question": "The sharpness of the shadow image on the wall is a function of a number of? ",
+		"answer": "Geometric Factors"
+	},
+	{
+		"question": "What are the three principal geometric factors affect radiographic quality ? ",
+		"answer": "Magnification, Distortion, Focal-spot Blur"
+	},
+	{
+		"question": "All images on the radiograph are larger than the objects they represent, a condition called? ",
+		"answer": "Magnification"
+	},
+	{
+		"question": "During some examinations, however , magnification is desirable and is carefully planned into the radiographic examination. This type of magnification is called?",
+		"answer": "Magnification Radiography "
+	},
+	{
+		"question": "Two factors affect image magnification and these are?",
+		"answer": "SID and SOD"
+	},
+	{
+		"question": "The ___ is standard in most radiology departments at 180 cm fr chest imaging; 100 cm for routine examinations; and 90 cm for some special studies , such as mobile radiography and trauma radiography.",
+		"answer": "SID"
+	},
+	{
+		"question": "Unequal magnification of different portions of the same object is called? ",
+		"answer": "Shape Distortion"
+	},
+	{
+		"question": "What are the three conditions contribute to image distorton? ",
+		"answer": "Object Thickness, Object Position, Object Shape"
+	},
+	{
+		"question": "T/F. Thick objects are more distorted than thin objects. ",
+		"answer": "True."
+	},
+	{
+		"question": "If the object plane and the image plane are parallel, the image is not distorted. However, distortion is possible in every radiographic examination if the patient is not proprly positioned.",
+		"answer": "Object Position "
+	},
+	{
+		"question": "The previous discussion assumed a very simple object - an arrow positioned parallel to the image receptor at a fixed OID. If any one of these conditions I changed, as they all are in most radiographic imaging procedures,  the magnification will not be the same over the entire object. ",
+		"answer": "Distortion"
+	},
+	{
+		"question": "With a thick object, the OID changes measurably across the object. Consider, for instance, two rectangular structures of different thickness. Because of the change in OID across the thicker structure, the image of that structure is more distorted than the image of the thinner structure. ",
+		"answer": "Object Thickness"
+	},
+	{
+		"question": "The image of an inclined object can be smaller than the object itself. In such condition, the image is said to be? ",
+		"answer": "Foreshortened "
+	},
+	{
+		"question": "With multiple objects positioned at various OIDs, _____ can occur. ",
+		"answer": "Spatial Resolution"
+	},
+	{
+		"question": "The misinterpretation in the image of the actual spatial relationships among objects.",
+		"answer": "Spatial Resolution"
+	},
+	{
+		"question": "Caused by the effective size of the focal spot, which is larger to the cathode side of the image.",
+		"answer": "Focal-spot blur"
+	},
+	{
+		"question": "The most important factor for determining spatial resolution.",
+		"answer": "Focal-Spot blur"
+	},
+	{
+		"question": "Occurs because the focal spot is not a point.",
+		"answer": "Focal-spot blur"
+	},
+	{
+		"question": "A blurred region on the radiograph over which radiologic technologists have little control results because the effective focal spot has size. This phenomenon is called? ",
+		"answer": "Focal-spot blur"
+	},
+	{
+		"question": "Described as the varying radiation intensity across the x-ray field in the anode-cathode direction caused by attenuation of x-rays in the heel of anode. ",
+		"answer": "Heel Effect "
+	},
+	{
+		"question": "Another characteristic of the heel effect is unrelated to x-ray intensity but affects ? ",
+		"answer": "Focal-spot blur"
+	},
+	{
+		"question": "The ____ is small on the anode side and large on the cathode side of the image.",
+		"answer": "Focal-spot blur"
+	},
+	{
+		"question": "The contrast of a radiograph viewed on an illuminator is called?",
+		"answer": "Radiographic Contrast"
+	},
+	{
+		"question": "Is a function of image receptor contrast and subject contrast. In fact, this is simply the product of image receptor contrast and subject contrast.",
+		"answer": "Radiographic Contrast"
+	},
+	{
+		"question": "Given a standard composition , a thick body section attenuates a greater number of x-rays than does a thin body section. The same number of x-rays is incident on each section ; therefore , the contrast of the incidentt x-ray beam is zero, that is, there is no contrast.",
+		"answer": "Patient Thickness"
+	},
+	{
+		"question": "Important factor that affects subject contrast. ",
+		"answer": "Tissue mass density"
+	},
+	{
+		"question": "Another important factor that affects subject contrast is the effective atomic number of the tissue being examined. ",
+		"answer": "Effective Atomic Number "
+	},
+	{
+		"question": "T/F. Compton scattering is independent of the atomic number , but photoelectric effect varies in proportion to the cube of the atomic number.",
+		"answer": "True."
+	},
+	{
+		"question": "The shape of the anatomical structure under investagation influences its radiographic quality, not only through its geometry but also through its geometry but also through its contribution to subject contrast. ",
+		"answer": "Object Shape"
+	},
+	{
+		"question": "The characteristic of the subject that affects subject contrast is sometimes called?",
+		"answer": "Absorption Blur "
+	},
+	{
+		"question": "It reduces the spatial resolution and the contrast resolution of any anatomical structure, but it is most troublesome during interventional procedures in which vessels with diameters are examined.",
+		"answer": "Absorption Blur "
+	},
+	{
+		"question": "The most important influence on subject contrast.",
+		"answer": "kVp"
+	},
+	{
+		"question": "The radiologic technologist has no control over the four previous factors that influence subject contrast. The absolute magnitude of subject contrast, however, is greatly controlled by this. It also influences film contrast but not the extent that it controls subjects contrast.",
+		"answer": "kVp"
+	},
+	{
+		"question": "A low kVp results in high subject contrast, sometimes called ___ contrast because the radiographic image appears either black or white few shades of gray. ",
+		"answer": "Short Gray scale "
+	},
+	{
+		"question": "High kVp results in low subjects contrast.",
+		"answer": "Long gray scale contrast "
+	},
+	{
+		"question": "Movement of the px or the x-ray tube during exposure results in blurring of the radiographic image. This loss of radiographic quality, called _____, may result in repeated radiographs and therefore should be avoided. ",
+		"answer": "Motion Blur "
+	},
+	{
+		"question": "Two types of patient motion.",
+		"answer": "Voluntary motion and Involuntary Motion "
+	},
+	{
+		"question": "_____ is affected primarily by four factors.",
+		"answer": "Motion Blur"
+	},
+	{
+		"question": "The primary control of radiographic contrast is?",
+		"answer": "kVp"
+	},
+	{
+		"question": "T/F. The principal advantages of the use of high kVp include a reduction in patient dose and wide latitude of exposures allowed in the production of a diagnostic radiograph.",
+		"answer": "True."
+	},
+	{
+		"question": "The prinary control of OD is?",
+		"answer": "mAs"
+	}
+]

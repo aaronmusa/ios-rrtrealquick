@@ -1,0 +1,690 @@
+[
+	{
+		"question": "The external structure of the x-ray tube consists of three parts?",
+		"answer": "Support structure, Protective Housing and the Glass or Metal Enclosure"
+	},
+	{
+		"question": "The internal structures of the x-ray tube are?",
+		"answer": "Anode and Cathode"
+	},
+	{
+		"question": "Frequently used. It consists of two perpendicular sets of ceiling-mounted rails. This allows for both longitudinal and transverse travel of the x-ray tube. ",
+		"answer": "Ceiling Support System"
+	},
+	{
+		"question": "It attaches the x-ray tube housing to the rails , allowing for variable source-to-image receptor distance (SID)",
+		"answer": "Telescoping Column"
+	},
+	{
+		"question": "Some ceiling-supported x-ray tubes have a single control that removes all locks, allowing the tube to 'float'. This lock should be used only for minor adjustments and should not be used to move the tube farther than about how many maters? ",
+		"answer": "1 m"
+	},
+	{
+		"question": "Has a single column with rollers at each end , one attached to a ceiling-mounted rail and the other attached to a floor-mounted rail. ",
+		"answer": "Floor-to-Ceiling Support System"
+	},
+	{
+		"question": "A variation of Floor-to-Ceiling Support sytsem has the column positioned on a single floor support system with how many floor-mounted rails? ",
+		"answer": "One or two floor mounted rails"
+	},
+	{
+		"question": "Shaped like a 'C'",
+		"answer": "C-arm support system"
+	},
+	{
+		"question": "Ceiling mounted and provide for very flexible x-ray tube positioning. Image receptor is attatched to the other end of the C-arm from the x-ray tube. Variations called L-arm and U-arm support are also common. ",
+		"answer": "C-arm support system"
+	},
+	{
+		"question": "Three methods of supporting an x-ray tube and these are? ",
+		"answer": "Ceiling Support , Floor Support , and C-arm Support"
+	},
+	{
+		"question": "Guards against excessive radiation exposure and electric shock.",
+		"answer": "Protective Housing "
+	},
+	{
+		"question": "When x-rays are produced , they are emitted _____, that is , with equal intensity in all direction.",
+		"answer": "Isotropically"
+	},
+	{
+		"question": "The x-rays emitted through the special section of the x-ray tube called the ?",
+		"answer": "Window"
+	},
+	{
+		"question": "The x-rays emitted through the window are called? ",
+		"answer": "Useful Beam"
+	},
+	{
+		"question": "X-rays that escape through the protective housing are called?",
+		"answer": "Leakage radiation"
+	},
+	{
+		"question": "Protective Housing reduces the intensity leakage radiation to less than ? ",
+		"answer": "Less than 1 mGya/hr at 1m"
+	},
+	{
+		"question": "Dual-Filament cathode designed to provide focal spots of ?",
+		"answer": "0.5 mm and 1.5 mm"
+	},
+	{
+		"question": "It is designed with a glass or a metal enclosure.",
+		"answer": "X-ray tubes"
+	},
+	{
+		"question": "The negative side of the x-ray tube; it has two primary parts, a filament and a focusing cup.",
+		"answer": "Cathode"
+	},
+	{
+		"question": "It provides mechanical support for the x-ray tube and protects the tube from damage caused by rough handling.",
+		"answer": "Protective Housing "
+	},
+	{
+		"question": "The ______ around some x-ray tubes contains oil that serves as both an insulator against electric shock and as a thermal cushion to dissipate heat.",
+		"answer": "Protective Housing "
+	},
+	{
+		"question": "Allows the oil to expand when heated. If the expansion is too great, a microswitch is activated , so the tube cannot be used until it cools.",
+		"answer": "Bellows-like device"
+	},
+	{
+		"question": "An x-ray tube is an electronic vacuum tube with components contained within a?",
+		"answer": "Glass or metal enclosure"
+	},
+	{
+		"question": "Special type of vacuum tube.",
+		"answer": "X-ray tubes"
+	},
+	{
+		"question": "X-ray tubes contain two electrodes and these are?",
+		"answer": "Anode and Cathode"
+	},
+	{
+		"question": "The glass enclosure is made of _____ to enable it to withstand the tremendous heat generated. ",
+		"answer": "Pyrex Glass"
+	},
+	{
+		"question": "How long is X-ray tube? ",
+		"answer": "30-50 cm long and 20 cm in diameter"
+	},
+	{
+		"question": "Modern x-ray tube ",
+		"answer": "Coolidge Tube"
+	},
+	{
+		"question": "All high-capacity x-ray tubes now use ?",
+		"answer": "Metal Enclosures"
+	},
+	{
+		"question": "Maintain a constant electric potential between electrons of the tube current and the enclosure. ",
+		"answer": "Metal Enclosures"
+	},
+	{
+		"question": "The x-ray tube are designed with a glass or metal enclosure, aprroximately ? ",
+		"answer": "5 cm2"
+	},
+	{
+		"question": "The two filaments supply separate electron beams to produce?",
+		"answer": "Two focal spots"
+	},
+	{
+		"question": "Tungsten vaporization with deposition on the inside of the glass enclosure is the most common cause of tube failure.",
+		"answer": "True."
+	},
+	{
+		"question": "A coil of wire ",
+		"answer": "Filament"
+	},
+	{
+		"question": "The filament is approximately ? ",
+		"answer": "2 mm in diameter and 1 or 2 cm long"
+	},
+	{
+		"question": "An x-ray tube filament emits electrons when it is heated. When the current through the filament is sufficiently high, the outer-shell electrons of the filament atoms are ' boiled off' and ejected from the filament. This phenomenon  is known as? ",
+		"answer": "Thermionic emission"
+	},
+	{
+		"question": "Filament are usually made of?",
+		"answer": "Thoriated Tungsten"
+	},
+	{
+		"question": "Provides for higher thermionic emission than other metals.",
+		"answer": "Tungsten"
+	},
+	{
+		"question": "Melting point of tungten? ",
+		"answer": "3410 degree celsius"
+	},
+	{
+		"question": "The filament is embedded in a metal shroud called the? ",
+		"answer": "Focusing Cup"
+	},
+	{
+		"question": "Most rotating anode x-ray tubes have two filaments mounted in the cathode assemble _____, creating large and small focal spot sizes. ",
+		"answer": "'Side by side' "
+	},
+	{
+		"question": "The effectiveness of the focusing cup is determined by its?",
+		"answer": "Size and shape, It's charge, the filament size and shape & the position of the filament in the focusing cup"
+	},
+	{
+		"question": "Certain types of x-ray tubes called ______ ared designed to be turned on and off very rapidly. ",
+		"answer": "Grid-controlled tubes"
+	},
+	{
+		"question": "Used in portable capacitor discharge imaging systems and in digital subtraction angiography, digital radiography , and cineradiography. ",
+		"answer": "Grid-controlled tubes"
+	},
+	{
+		"question": "This term is borrowed from vaccum tube electronics and refers to an element in the tube that acts as the switch.",
+		"answer": "Grid"
+	},
+	{
+		"question": "In a grid-controlled x-ray tube , the ____ is the grid and therefore the exposure switch. ",
+		"answer": "Focusing Cup"
+	},
+	{
+		"question": "Cloud of electrons",
+		"answer": "Space Charge"
+	},
+	{
+		"question": "Space charge makes it difficult for subsequent electrons to be emitted by the filament because of electrostatic repulsion. This phenomenon is called?",
+		"answer": "Space charge effect"
+	},
+	{
+		"question": "Thermionic emision at low kVp and high mA can be space charge limited.",
+		"answer": "True."
+	},
+	{
+		"question": "Not reached at lower kVp because of space charge limitations.",
+		"answer": "Saturation Current"
+	},
+	{
+		"question": "Most diagnostic x-ray tubes have how many focal spots?",
+		"answer": "Two focal spots"
+	},
+	{
+		"question": "This focal spot is used when better spatial resolution is required. ",
+		"answer": "Small focal spot"
+	},
+	{
+		"question": "This focal spot is used when large body parts are imaged other techniques that produce high heat are required.",
+		"answer": "Large focal spot"
+	},
+	{
+		"question": "Small focal spots range from?",
+		"answer": "0.1 to 1 mm"
+	},
+	{
+		"question": "Large focal spots range from?",
+		"answer": "0.3 to 2 mm"
+	},
+	{
+		"question": "Small focal spot size is associated with the ?",
+		"answer": "Small filament"
+	},
+	{
+		"question": "Large focal spots size is associated with the? ",
+		"answer": "Large filament"
+	},
+	{
+		"question": "Two types of anodes?",
+		"answer": "Stationary and Rotating "
+	},
+	{
+		"question": "Type of anode that used in dental x-ray imaging systems , some portable imaging systems and other special purpose units in which high tube current and power are not required. ",
+		"answer": "Stationary Anode"
+	},
+	{
+		"question": "General-purpose x-ray tubes use the this type of anode because they must be capable producing high intensity x-ray beams in a short time.",
+		"answer": "Rotating Anode"
+	},
+	{
+		"question": "The anode is the positive side of the x-ray tube ; it conducts electricity and radiates heat and contains target.",
+		"answer": "True."
+	},
+	{
+		"question": "The anode serves three functions in an x-ray tube. ",
+		"answer": "True."
+	},
+	{
+		"question": "The ______ is an electrical conductor. It receives electrons emitted by the cathode and conducts them through the tube to the connecting cables and back to the high voltage generator.",
+		"answer": "Anode"
+	},
+	{
+		"question": "The ______ also must be a good thermal dissipater. ",
+		"answer": "Anode"
+	},
+	{
+		"question": "Most common anode materials? ",
+		"answer": "Copper, molybdenum and Graphite"
+	},
+	{
+		"question": "Area of the anode struck by the electrons from the cathode. ",
+		"answer": "Target"
+	},
+	{
+		"question": "In Stationary anode tubes, the ____ consists of a tungsten alloy embedded in the copper anode. ",
+		"answer": "Target"
+	},
+	{
+		"question": "In rotating anode tubes, the entire rotating disc is the ?",
+		"answer": "Traget"
+	},
+	{
+		"question": "Alloying the tungsten (usually with the rhenium) gives it added mechanical strength to widthstand the stresses of high-speed rotation and the effects of repetitive thermal expansion and contraction.",
+		"answer": "True."
+	},
+	{
+		"question": "Most rotating anodes revolve at how many rpm?",
+		"answer": "3400 rpm (revolution per minute)"
+	},
+	{
+		"question": "The anodes high capacity x-ray tubes rotate at? ",
+		"answer": "10,000 rpm"
+	},
+	{
+		"question": "The stem of the anode is the shaft between the?",
+		"answer": "Anode  and Rotor"
+	},
+	{
+		"question": "The stem of the anode is usually made of _____ because it is poor heat conductor.",
+		"answer": "Molybdenum "
+	},
+	{
+		"question": "Higher tube currents and shorter exposure times are possible with the rotating anode.",
+		"answer": "True."
+	},
+	{
+		"question": "The target of a rotating anode tube is powered by an induction motor, principal components of which are the?",
+		"answer": "Stator and the rotor"
+	},
+	{
+		"question": "An induction motor consists of two principal parts separated from each other by the glass or metal enclosure. The part outside of the glass or metal enclosure called the ___, consists of a series of electromagnets usually spaced around the neck of the tube.",
+		"answer": "Stator"
+	},
+	{
+		"question": "An induction motor consists of two principal parts separated from each other by the glass or metal enclosure. The part inside the enclosure is a shaft made of bars of copper and soft iron fabricated into one mass. This part is called?",
+		"answer": "Rotor"
+	},
+	{
+		"question": "The rotating anode is powered by an electromagnetic induction motor.",
+		"answer": "True."
+	},
+	{
+		"question": "In a new x-ray tube, the _____ is approximately 60 s. ",
+		"answer": "Coast Time"
+	},
+	{
+		"question": "The focal spot is the actual x-ray source. ",
+		"answer": "True."
+	},
+	{
+		"question": "Before the rotating anode was developed, another design was incorporated into x-ray tube targets to allow a large area for heating while maintaining a small focal spot. The design is known as the? ",
+		"answer": "Line focus principle"
+	},
+	{
+		"question": "Diagnostic x-ray tubes have target angles that vary from approximately ?",
+		"answer": "5 to 20 degrees"
+	},
+	{
+		"question": "The advantage of the line-focus principle is that it simultaneously improves spatial resolution and heat capacity.",
+		"answer": "True."
+	},
+	{
+		"question": "The line focus principle results in an effective focal spot size much less than the actual focal spot size.",
+		"answer": "True."
+	},
+	{
+		"question": "The small the anode angle, the larger the heel effect.",
+		"answer": "True."
+	},
+	{
+		"question": "____ focal spots are particularly important for high-resolution magnification raidiography and mammography. ",
+		"answer": "Round"
+	},
+	{
+		"question": "The intensity of x-rays that are emitted through the 'heel' of the target is reduced because they have a longer path through the target and therefore increased absorption. This is the ?",
+		"answer": "Heel Effect"
+	},
+	{
+		"question": "The _____ is important when one is imaging anatomical structures that differ greatly in thickness or mass density.",
+		"answer": "Heel Effect"
+	},
+	{
+		"question": "The _____ results in smaller effective focal spot ad less radiation intensity on the anode side of the x-ray beam. ",
+		"answer": "Heel Effect "
+	},
+	{
+		"question": "X-ray tubes are designed so projectile electrons from cathode interact w/ the target only at focal spot. However, some of electrons bounce off the focal spot and then land on areas of the target, causing x-rays to be produced from outside of focal spot. These x-rays are called? ",
+		"answer": "Off-Focus Radiation "
+	},
+	{
+		"question": "Excessive heat results in reduced in x-ray tube life.",
+		"answer": "True."
+	},
+	{
+		"question": "Is the transfer of heat by the emission of infrared radiation.",
+		"answer": "Radiation "
+	},
+	{
+		"question": "Transfer of energy from one area of an object to another. ",
+		"answer": "Conduction "
+	},
+	{
+		"question": "Transfer of heat by the movement of a heated substance from one place to another. ",
+		"answer": "Convection "
+	},
+	{
+		"question": "The most frequent cause of abrupt tube failure is electron arcing from the filament to the enclosure because of vaporizd tungsten. ",
+		"answer": "True."
+	},
+	{
+		"question": "With excessive heating of the filament caused by high mA operation for prolonged periods , more tungsten is vaporized. The filament wire becomes thinner and eventually breaks, producing an ?",
+		"answer": "Open Filament "
+	},
+	{
+		"question": "Radiologic Technologist are guided in the use of x-ray tubes by?",
+		"answer": "X-ray tube rating charts"
+	},
+	{
+		"question": "Three types of x-ray tube rating charts are particularly important , the?",
+		"answer": "Radiographic Rating chart, Anode Cooling Chart and Housing Cooling Chart"
+	},
+	{
+		"question": "Of the three rating charts, this is the most important because it conveys which radiographic techniques are safe and which techniques are unsafe for x-ray tube operation.",
+		"answer": "Radiographic Rating Chart"
+	},
+	{
+		"question": "Of the three rating charts, this has a limited capacity for storing heat. Although heat is dissipated to the oil bath and x-ray tube housing , it is possible through prolonged use or multiple exposures to exceed the heat storage capacity of the anode.",
+		"answer": "Anode Heel Effect"
+	},
+	{
+		"question": "The thermal capacity of an anode , and its heat dissipation characteristics are contained in a rating chart of?",
+		"answer": "Anode Heel Effect"
+	},
+	{
+		"question": "The housing chart for the housing of the x-ray tube has a shape similar to that of the anode cooling chart and is used in precisely the same way. ",
+		"answer": "Housing Cooling Chart"
+	},
+	{
+		"question": "Complete cooling after maximum heat capacity requires from how many hours?",
+		"answer": "1-2 hours."
+	},
+	{
+		"question": "When the x-ray tube is centered above the examination table at the standard SID, the x-ray tube is in _______.",
+		"answer": "Preffered Detent Position "
+	},
+	{
+		"question": "Were not vacuum tubes but rather contained controlled quantities of gas within the enclosure. ",
+		"answer": "Cookes Tube "
+	},
+	{
+		"question": "A dual-filament cathode and a schematic drawing of its electricity supply.",
+		"answer": "Cathode"
+	},
+	{
+		"question": "T/F. The addition of 1 % to 2 % thorium to the tungsten filament enhances the efficiency of thermionic emission and prolongs tube life.",
+		"answer": "True."
+	},
+	{
+		"question": "All electrons of the electrons accelerated frm cathode to anode are? ",
+		"answer": "Electrically negative"
+	},
+	{
+		"question": "Filaments in biangle x-ray tubes have to be placed ____, with the small focus filament above the large filament. ",
+		"answer": "'End to end' "
+	},
+	{
+		"question": "At any given filament current, the x-ray tube current will rise with increasing kVp to a maximum value. A further increase in kVp does note result in higher mA because all of the available elecrons have been used. This is the ______. ",
+		"answer": "Saturation Current"
+	},
+	{
+		"question": "Positive chanrge of x-ray tube. ",
+		"answer": "Anode"
+	},
+	{
+		"question": "The _____ also provides mechanical support. ",
+		"answer": "Anode"
+	},
+	{
+		"question": "Used to turn the anode. ",
+		"answer": "Electromagnetic Induction "
+	},
+	{
+		"question": "Actual x-ray source",
+		"answer": "Focal Spot"
+	},
+	{
+		"question": "The area of the target from which x-rays are emitted.",
+		"answer": "Focal Spot"
+	},
+	{
+		"question": "Effective focal spot size or?",
+		"answer": "Effective target area "
+	},
+	{
+		"question": "Area projected onto the patient and the image receptor. This is the value given when large or small focal spots are identified.",
+		"answer": "Effective target area "
+	},
+	{
+		"question": "The smaller the anode angle, the ___ the heel effect. ",
+		"answer": "Larger"
+	},
+	{
+		"question": "This heat can be dissipated in one of three ways and these are?",
+		"answer": "Radiation, Conduction and Convection "
+	},
+	{
+		"question": "T/F. X-ray tube failure has a several causes , most of which are related to the thermal characteristics of the x-ray tube.",
+		"answer": "True."
+	},
+	{
+		"question": "T/F. A second type of x-ray tube failure results from maintaining the anode at elevated temperatures for prolonged periods. ",
+		"answer": "True."
+	},
+	{
+		"question": "T/F. Bearing damage is another cause of tube failure.",
+		"answer": "True."
+	},
+	{
+		"question": "T/F. A final cause of tube failure involves the filament.",
+		"answer": "True."
+	},
+	{
+		"question": "Prevents unnecessary radiation exposure to the patient and radiographer",
+		"answer": "Protective Housing "
+	},
+	{
+		"question": "Protect from electric shock. ",
+		"answer": "Protective Housing "
+	},
+	{
+		"question": "Requiremets for the production of x-rays? ",
+		"answer": "Vacuum (Glass envelope), Source of electrons (Filament), Target (Tunsgten target), and High Voltage Direct Current"
+	},
+	{
+		"question": "Evacuated Glass Envelope, is made of ___ that can withstand high temperature. ",
+		"answer": "Pyrex Glass"
+	},
+	{
+		"question": "The tube contains the target that made of? ",
+		"answer": "Tungsten"
+	},
+	{
+		"question": "Source of electrons? ",
+		"answer": "Filament "
+	},
+	{
+		"question": "The cathode has primary parts and these are? ",
+		"answer": "Filament and Focusing Cup"
+	},
+	{
+		"question": "Advantage of Tungsten Filament? ",
+		"answer": "Provide higher thermionic emission, have higher melting point, Not likely to burn out, and does not vaporize easily"
+	},
+	{
+		"question": "T/F. Thoriated tungsten increases the efficiency of thermionic emission and prolongs tube life. ",
+		"answer": "True."
+	},
+	{
+		"question": "The process of producing electrons by heating a filamenet is known as? ",
+		"answer": "Thermionic emission"
+	},
+	{
+		"question": "The focusing cup is _____ charged so that it electrostatically confines (focus) the electron beam to a small area of the anode known as the focal spot. ",
+		"answer": "Negatively"
+	},
+	{
+		"question": "The focusing cup is a metal shroud that surrounds the _____. ",
+		"answer": "Filament"
+	},
+	{
+		"question": "Once emitted from the filament, electrons forms an electron cloud around the filament known as?",
+		"answer": "Space Charge"
+	},
+	{
+		"question": "Filament current heats the filament to emit? ",
+		"answer": "Electrons"
+	},
+	{
+		"question": "_____ is a tube current that has risen to its maximum value because all of the available electons have been used. ",
+		"answer": "Saturation Current"
+	},
+	{
+		"question": "The anode contains? ",
+		"answer": "Target, Focal Spot, Focal Track, Rotor, Anode Stem"
+	},
+	{
+		"question": "Advantage of Tungsten Target? ",
+		"answer": "High melting point, Good Thermal Conductivity, High Atomic Number "
+	},
+	{
+		"question": "Electricity , Radiates heat, and contains the target.",
+		"answer": "Electricity, Radiates Heat, and contains the target"
+	},
+	{
+		"question": "The anode acts as a? ",
+		"answer": "Thermal dissipator and electrical conductor"
+	},
+	{
+		"question": "In stationary anode tubes, the target consists of a tungsten alloy metal embedded in the? ",
+		"answer": "Copper Anode"
+	},
+	{
+		"question": "Rotating anode powered by?",
+		"answer": "Induction motor"
+	},
+	{
+		"question": "Advantage of Rotating Anode? ",
+		"answer": "High tube current, Higher exposure time, Larger target area, and Higher heat capacity"
+	},
+	{
+		"question": "Rotating anode is capable of producing? ",
+		"answer": "High intensity x-ray beam in short time"
+	},
+	{
+		"question": "The focal spot of a rotating target is known as?",
+		"answer": "Focal Track"
+	},
+	{
+		"question": "Layer anode increased ?",
+		"answer": "Heat Capacity "
+	},
+	{
+		"question": "Induction motor consists of two principal parts, and these are?",
+		"answer": "Stator, Rotor"
+	},
+	{
+		"question": "The target angle (10 degrees) provide a?",
+		"answer": "Larger area for heating while maintaining a smaler focal spot"
+	},
+	{
+		"question": "The steeper the anode angle, the ? ",
+		"answer": "Smaller the effective focal spot size"
+	},
+	{
+		"question": "The smaller the effective focal spot size, ",
+		"answer": "The sharper the image (Inversely proportional)"
+	},
+	{
+		"question": "The deeper the electron travels, the ",
+		"answer": "weaker the resulting x-ray photon"
+	},
+	{
+		"question": "For this reason, the x-ray will be stronger and more penetrating on the? ",
+		"answer": "Cathode side of the tube"
+	},
+	{
+		"question": "The smaller the focal spot the? ",
+		"answer": "Larger the heel effect"
+	},
+	{
+		"question": "The x-ray beam will always be more powerful and penetrating on the ? ",
+		"answer": "Cathode side due to the anode heel effect"
+	},
+	{
+		"question": "Since the -ray beam will always be stronger on the cathode side of the tube , the thicker part of anatomy should be place on the ? ",
+		"answer": "Cathode side of the tube"
+	},
+	{
+		"question": "X-rays produced from outside of the focal spot are called?",
+		"answer": "Extrafocal radiation or Off-focus radiation "
+	},
+	{
+		"question": "Reducing Extra focal radiation can be reduced by? ",
+		"answer": "Using a fixed diaphragm in the tube housing near the tube window"
+	},
+	{
+		"question": "T/F. Using a metal envelope x-ray tube prevents extrafocal radiation",
+		"answer": "True."
+	},
+	{
+		"question": "T/F. Grid can not reduce extrafocal radiation. ",
+		"answer": "True."
+	},
+	{
+		"question": "Ways to improve tube life? ",
+		"answer": "1. Use minimum mAs, kVp, 2. Use Faster Receptor, 3. Warm up the tube at the beginning of the day and whenever the anode is cold"
+	},
+	{
+		"question": "T/F. Excessive heating can cause the glass tube to break. ",
+		"answer": "True."
+	},
+	{
+		"question": "Excessive heating of the filament causes the tungsten to vaporize and, the filament becomes thinner and eventually brekas causing an? ",
+		"answer": "Open Filament "
+	},
+	{
+		"question": "Housing cooling chart is complete cooling after maximum heat capacity requires from? ",
+		"answer": "1 to 2 hours"
+	},
+	{
+		"question": "Anode cooling chart help us to? ",
+		"answer": "How long we have to wait to make further exposures aftter the anode has reached its maximum or near maximum capacity"
+	},
+	{
+		"question": "Flow of electron to the filament ",
+		"answer": "Filament Circuit"
+	},
+	{
+		"question": "Flow of electron to the filament to the anode. ",
+		"answer": "Tube current"
+	},
+	{
+		"question": "T/F. Short x-ray is better to make x-rays. ",
+		"answer": "True."
+	},
+	{
+		"question": "Increase anode angle will? ",
+		"answer": "Large focal spot and less heel effect"
+	},
+	{
+		"question": "T/F. Decreasing the anode angle increase the anode heel effect",
+		"answer": "True."
+	},
+	{
+		"question": "______ change the alternative current to the direct current.",
+		"answer": "Rectifier "
+	}
+]

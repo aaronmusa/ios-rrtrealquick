@@ -1,0 +1,245 @@
+[{
+		"question": "The three principal parts of an x-ray imaging sytem? ",
+		"answer": "Operating Console, High-voltage generator and the X-ray tube"
+	},
+	{
+		"question": "It is desgned to provide a large number of electrons with high kinetic energy focused toward a small spot on the anode.",
+		"answer": "Operating Console, High-voltage generator and the X-ray tube"
+	},
+	{
+		"question": "The distance between the filament and the x-ray tube target is only approximately how many cm?",
+		"answer": "1 cm"
+	},
+	{
+		"question": "Electrons travelling from cathode to anode constitute the x-ray tube current and are sometimes called ? ",
+		"answer": "Projectile electrons"
+	},
+	{
+		"question": "T/F. Most of the kinetic energy of projectile electrons is converted to heat by interctions with outer-shell electrons of target atoms. These interactions are primarily excitations rather than ionization.",
+		"answer": "True."
+	},
+	{
+		"question": "T/F. Approximately 99 % of the kinetic energy of projectile electrons is converted to heat.",
+		"answer": "True."
+	},
+	{
+		"question": "If the projectile electron interacts with an inner-shell electron of the target atom rather than with an outer shell electron, ______ can be produced. ",
+		"answer": "Characteristic x-rays"
+	},
+	{
+		"question": "Result when the interaction is sufficiently violent to ionize the target atom though total removal of an inner shell electron.",
+		"answer": "Characteristic x-rays"
+	},
+	{
+		"question": "Characteristic x-rays are emitted when an outer-shell electron fills an inner-shell void.",
+		"answer": "True."
+	},
+	{
+		"question": "Only the K-characteristic x-rays of tungsten are useful for imaging.",
+		"answer": "True."
+	},
+	{
+		"question": "X-rays result from electron transitions into the K shell",
+		"answer": "K x-rays"
+	},
+	{
+		"question": "X-rays result from electron transitions into the L shell. Have much less energy than K x-rays. ",
+		"answer": "L x-rays"
+	},
+	{
+		"question": "This type of x-radiation is called ____ because it is characteristics of the target element.",
+		"answer": "Characteristic "
+	},
+	{
+		"question": "X-rays result from the interaction between a projectile electron and a target nucleus. The electron is slowed , and its direction is changed.",
+		"answer": "Bremstrahlung"
+	},
+	{
+		"question": "X-rays are produced when a projectile electron is slowed by the nuclear field of a target atom nucleus.",
+		"answer": "Bremstrahlung"
+	},
+	{
+		"question": "Bremsstrahlung is a German word that means ? ",
+		"answer": "Slowed-down radiation"
+	},
+	{
+		"question": "Can be considered radiation that results from the braking of projectile electrons by the nucleus. ",
+		"answer": "Bremstrahlung x-ray "
+	},
+	{
+		"question": "In the diagnostic range, most x-rays are bremsstrahlung x-rays",
+		"answer": "True."
+	},
+	{
+		"question": "Bremsstrahlung x-rays can be produced at any ______. ",
+		"answer": "Projectile electron x-ray"
+	},
+	{
+		"question": "A _____ contains only specific values.",
+		"answer": "Discrete Spectrum"
+	},
+	{
+		"question": "Connecting the bars with a curve would indicate a large number of different types of balls. Such curve is called? ",
+		"answer": "Continuous Ejection"
+	},
+	{
+		"question": "Refers to the range of types of balls or values of any quantity such as x-rays. ",
+		"answer": "Spectrum"
+	},
+	{
+		"question": "A ____ contains all possible values. ",
+		"answer": "Continuous Spectrum"
+	},
+	{
+		"question": "If one could stand in the middle of the useful x-ray beam , catch each individual x-ray , and measure its energy , one could describe what is known as the? ",
+		"answer": "X-ray emission spectrum"
+	},
+	{
+		"question": "A plot of the frequency with which characteristics x-rays are emitted as a function of their energy. Such a plot is called? ",
+		"answer": "Characteristic x-ray emission spectrum"
+	},
+	{
+		"question": "Characteristic x-rays have precisely fixed (discrete) energies and form a discrete emission spectrum.",
+		"answer": "True."
+	},
+	{
+		"question": "Bremsstrahlung x-rays have a range of energies and form a continuous emission spectrum.",
+		"answer": "True."
+	},
+	{
+		"question": "The total number of x-rays emitted from an x-ray tube could be determined by adding together the number of x-rays emitted at each energy ove the entire spectrum, a proces called? ",
+		"answer": "Integration"
+	},
+	{
+		"question": "The farther to the right a spectrum is, the higher the effective energy or _____ of the x-ray beam. ",
+		"answer": "Quality"
+	},
+	{
+		"question": "The larger the area under the curve, the higher is the x-ray intensity or _____. ",
+		"answer": "Quantity "
+	},
+	{
+		"question": "A change in mA or mAs result in a proportional change in the amplitude of the x-ray emission spectrum at all energies.",
+		"answer": "True."
+	},
+	{
+		"question": "A change in kVp has no effect on the position of the discrete x-ray emission spectrum.",
+		"answer": "True."
+	},
+	{
+		"question": "In the diagnostic range, a 15 %  increase kVp is equivalent to doubling the ___ to the image receptor.",
+		"answer": "mAs"
+	},
+	{
+		"question": "Adding filtration is sometimes called ____ the x-ray beam because of the relative in average energy.",
+		"answer": "Hardening"
+	},
+	{
+		"question": "Five voltage waveforms ? ",
+		"answer": "Half-wave-rectified, full-wave rectified, three-phase/six pulse , three-phase/12 pulse , and high freuqnecy waveforms"
+	},
+	{
+		"question": "Voltage waveforms are the same except for the frequency of x-ray pulse repetition.",
+		"answer": "Half-wave-rectified and full-wave-rectified "
+	},
+	{
+		"question": "Difference between three-phase / six pulse and three-phase/ 12 pulse power is? ",
+		"answer": "Simply the reduced ripple obtained with 12-pulse generation compared w/ six pulse generation"
+	},
+	{
+		"question": "Emphasizes that its primary function is to accelerate electrons from the cathode to anode in the x-ray tube.",
+		"answer": "X-ray imaging system"
+	},
+	{
+		"question": "In determining the magnitude of the kinetic energy of a projectile, _____ is more important than mass. ",
+		"answer": "Velocity"
+	},
+	{
+		"question": "How can you increase the kinetic energy of electrons travelling from filament to anode? ",
+		"answer": "Increase kVp"
+	},
+	{
+		"question": "Which interaction produces characteristics radiation ? ",
+		"answer": "Inner shell"
+	},
+	{
+		"question": "Bremstrahlung radiation is also known as ? ",
+		"answer": "Braking' radiation "
+	},
+	{
+		"question": "What is the minimum required kVp to produce characteristic radiation?",
+		"answer": "69.5 kVp"
+	},
+	{
+		"question": "At 100 kVp what percentage of x-rays are characteristic? And, what % Brems? ",
+		"answer": "15 % Characteristic, 85 % Bremstrahlung"
+	},
+	{
+		"question": "Characteristic radiations have _____ emission spectrum. ",
+		"answer": "Discrete Emission Spectrum "
+	},
+	{
+		"question": "Brems x-rays have ______ emission spectrum. ",
+		"answer": "Continous emission spectrum"
+	},
+	{
+		"question": "Five factors that affect the x-ray emission spectrum? ",
+		"answer": "mA and mAs, kVp, Added Filtration, Target material, Voltage Waveform"
+	},
+	{
+		"question": "Increase current (mAs) cause?",
+		"answer": "Increase Quantity "
+	},
+	{
+		"question": "Increase voltage (kVp) cause?",
+		"answer": "Increase Quality and Quantity"
+	},
+	{
+		"question": "Increase added filtration cause? ",
+		"answer": "Decrease in quantity, Increased in quality "
+	},
+	{
+		"question": "Increase in Target atomic cause a?",
+		"answer": "Increase in Quality and Quantity "
+	},
+	{
+		"question": "Increase in Voltage Ripple cause? ",
+		"answer": "Decrease in Quality and Quantity "
+	},
+	{
+		"question": "Projectile electrons have?",
+		"answer": "Kinetic Energy"
+	},
+	{
+		"question": "The transition of an orbital electron from an outer to an inner shell is accompanied by th emission of? ",
+		"answer": "Characteristic Radiation "
+	},
+	{
+		"question": "Characteristic x-ray emission spectrum for tungsten contains?",
+		"answer": "15 different x-ray energies "
+	},
+	{
+		"question": "Added filtration will ____ the average energy of the x-ray beam. (Higher Quality) ",
+		"answer": "Increase"
+	},
+	{
+		"question": "Spectrum shift to the right with an accompaniying ?",
+		"answer": "Reduction in x-ray quantity"
+	},
+	{
+		"question": "The output intensity of an x-ray imaging system is measured in?",
+		"answer": "roentgen ( R )"
+	},
+	{
+		"question": "The number of x-rays in the  useful beam?",
+		"answer": "Radiation Quantity "
+	},
+	{
+		"question": "Factors affecting x-ray quantity? ",
+		"answer": "mAs, kVp, Distance , Filtration"
+	},
+	{
+		"question": "X-ray quantity is directly proportional the?",
+		"answer": "mAs"
+	}
+]

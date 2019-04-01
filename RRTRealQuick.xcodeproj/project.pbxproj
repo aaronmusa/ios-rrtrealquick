@@ -31,6 +31,12 @@
 		EC98374A22493D1000737D8F /* Chapter2-Bushong.json in Resources */ = {isa = PBXBuildFile; fileRef = EC98374822493D1000737D8F /* Chapter2-Bushong.json */; };
 		EC98374B22493D1000737D8F /* Chapter3-Bushong.json in Resources */ = {isa = PBXBuildFile; fileRef = EC98374922493D1000737D8F /* Chapter3-Bushong.json */; };
 		EC98374E2249AE3200737D8F /* ViewHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC98374D2249AE3200737D8F /* ViewHelper.swift */; };
+		ECE21698224FB571005F0598 /* Chapter7-Bushong.json in Resources */ = {isa = PBXBuildFile; fileRef = ECE21692224FB570005F0598 /* Chapter7-Bushong.json */; };
+		ECE21699224FB571005F0598 /* Chapter8-Bushong.json in Resources */ = {isa = PBXBuildFile; fileRef = ECE21693224FB571005F0598 /* Chapter8-Bushong.json */; };
+		ECE2169A224FB571005F0598 /* Chapter10-Bushong.json in Resources */ = {isa = PBXBuildFile; fileRef = ECE21694224FB571005F0598 /* Chapter10-Bushong.json */; };
+		ECE2169B224FB571005F0598 /* Chapter9-Bushong.json in Resources */ = {isa = PBXBuildFile; fileRef = ECE21695224FB571005F0598 /* Chapter9-Bushong.json */; };
+		ECE2169C224FB571005F0598 /* Chapter11-Bushong.json in Resources */ = {isa = PBXBuildFile; fileRef = ECE21696224FB571005F0598 /* Chapter11-Bushong.json */; };
+		ECE2169D224FB571005F0598 /* Chapter6-Bushong.json in Resources */ = {isa = PBXBuildFile; fileRef = ECE21697224FB571005F0598 /* Chapter6-Bushong.json */; };
 		ECF3C3AE2243C75700515C04 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF3C3AD2243C75700515C04 /* ResultViewController.swift */; };
 		ECF3C3B12243CFDA00515C04 /* SummaryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF3C3B02243CFDA00515C04 /* SummaryCell.swift */; };
 		ECF3C3B32243D00200515C04 /* SummaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECF3C3B22243D00200515C04 /* SummaryViewController.swift */; };
@@ -66,6 +72,12 @@
 		EC98374822493D1000737D8F /* Chapter2-Bushong.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Chapter2-Bushong.json"; sourceTree = "<group>"; };
 		EC98374922493D1000737D8F /* Chapter3-Bushong.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Chapter3-Bushong.json"; sourceTree = "<group>"; };
 		EC98374D2249AE3200737D8F /* ViewHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewHelper.swift; sourceTree = "<group>"; };
+		ECE21692224FB570005F0598 /* Chapter7-Bushong.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Chapter7-Bushong.json"; sourceTree = "<group>"; };
+		ECE21693224FB571005F0598 /* Chapter8-Bushong.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Chapter8-Bushong.json"; sourceTree = "<group>"; };
+		ECE21694224FB571005F0598 /* Chapter10-Bushong.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Chapter10-Bushong.json"; sourceTree = "<group>"; };
+		ECE21695224FB571005F0598 /* Chapter9-Bushong.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Chapter9-Bushong.json"; sourceTree = "<group>"; };
+		ECE21696224FB571005F0598 /* Chapter11-Bushong.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Chapter11-Bushong.json"; sourceTree = "<group>"; };
+		ECE21697224FB571005F0598 /* Chapter6-Bushong.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Chapter6-Bushong.json"; sourceTree = "<group>"; };
 		ECF3C3AD2243C75700515C04 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		ECF3C3B02243CFDA00515C04 /* SummaryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummaryCell.swift; sourceTree = "<group>"; };
 		ECF3C3B22243D00200515C04 /* SummaryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummaryViewController.swift; sourceTree = "<group>"; };
@@ -210,12 +222,8 @@
 		EC0F57AF22428BCE00FB350B /* Json Files */ = {
 			isa = PBXGroup;
 			children = (
-				EC525953224A7F4F00DC2758 /* Chapter5-Bushong.json */,
-				EC525951224A695E00DC2758 /* Chapter4-Bushong.json */,
-				EC98374822493D1000737D8F /* Chapter2-Bushong.json */,
-				EC98374922493D1000737D8F /* Chapter3-Bushong.json */,
+				ECE21691224FB509005F0598 /* Bushong */,
 				EC98373D2249275500737D8F /* Glossary.json */,
-				EC9837382249272F00737D8F /* Chapter1-Bushong.json */,
 				EC9837372249272F00737D8F /* RadBiology.json */,
 			);
 			path = "Json Files";
@@ -227,6 +235,24 @@
 				EC98374D2249AE3200737D8F /* ViewHelper.swift */,
 			);
 			path = Helper;
+			sourceTree = "<group>";
+		};
+		ECE21691224FB509005F0598 /* Bushong */ = {
+			isa = PBXGroup;
+			children = (
+				ECE21697224FB571005F0598 /* Chapter6-Bushong.json */,
+				ECE21692224FB570005F0598 /* Chapter7-Bushong.json */,
+				ECE21693224FB571005F0598 /* Chapter8-Bushong.json */,
+				ECE21695224FB571005F0598 /* Chapter9-Bushong.json */,
+				ECE21694224FB571005F0598 /* Chapter10-Bushong.json */,
+				ECE21696224FB571005F0598 /* Chapter11-Bushong.json */,
+				EC525953224A7F4F00DC2758 /* Chapter5-Bushong.json */,
+				EC525951224A695E00DC2758 /* Chapter4-Bushong.json */,
+				EC98374822493D1000737D8F /* Chapter2-Bushong.json */,
+				EC98374922493D1000737D8F /* Chapter3-Bushong.json */,
+				EC9837382249272F00737D8F /* Chapter1-Bushong.json */,
+			);
+			path = Bushong;
 			sourceTree = "<group>";
 		};
 		ECF3C3AF2243CFC700515C04 /* Cells */ = {
@@ -297,12 +323,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ECE2169B224FB571005F0598 /* Chapter9-Bushong.json in Resources */,
+				ECE2169D224FB571005F0598 /* Chapter6-Bushong.json in Resources */,
+				ECE2169A224FB571005F0598 /* Chapter10-Bushong.json in Resources */,
+				ECE21698224FB571005F0598 /* Chapter7-Bushong.json in Resources */,
 				EC525954224A7F5000DC2758 /* Chapter5-Bushong.json in Resources */,
 				EC98374A22493D1000737D8F /* Chapter2-Bushong.json in Resources */,
 				EC0F57A82242807000FB350B /* AnswerKeyAlertView.xib in Resources */,
 				EC525952224A695E00DC2758 /* Chapter4-Bushong.json in Resources */,
 				EC98373E2249275500737D8F /* Glossary.json in Resources */,
 				EC98374B22493D1000737D8F /* Chapter3-Bushong.json in Resources */,
+				ECE2169C224FB571005F0598 /* Chapter11-Bushong.json in Resources */,
+				ECE21699224FB571005F0598 /* Chapter8-Bushong.json in Resources */,
 				EC983740224928ED00737D8F /* ChooseSubjectAlertView.xib in Resources */,
 				EC98373B2249272F00737D8F /* Chapter1-Bushong.json in Resources */,
 				EC0F578F2242792900FB350B /* LaunchScreen.storyboard in Resources */,
